@@ -1,7 +1,7 @@
 ## Finding endpoints from pages on Stats(dot)NBA(dot)com
 
 In this tutorial I will show you how to use google chrome's developer tools
-to get the information necessary to scrape data on stats.nba.com.
+to get the information necessary to scrape data from stats.nba.com.
 
 This tutorial will be broken into 2 parts:
 1. Getting the endpoint from the page
@@ -29,7 +29,7 @@ The first step is to open google chrome and navigate to the page we want to gath
 
 ![League Leaders](screen_shots/players_page.png)
 
-Once on the page we want to gather data from we will need to open the Chrome Developer Tools. To do this
+Once on the page open the Chrome Developer Tools. To do this
 right click the page and select inspect
 
 ![Open Dev Tools](screen_shots/open_dev_tools.png)
@@ -49,7 +49,7 @@ On you have found the correct API call (or if you are still trying to find the e
 
 ![Copy Response](screen_shots/copy_response.png)
 
-You can then page the response into a json viewer such as http://jsonviewer.stack.hu/ to get a better look as the response of the call.
+You can then paste the response into a json viewer such as http://jsonviewer.stack.hu/ to get a better look as the response of the call.
 
 ![Response](screen_shots/response.png)
 
@@ -58,7 +58,7 @@ Once you are sure you have the right API call you can copy the request.
 ![Request](screen_shots/copy_url.png)
 
 
-Now that you have the API request you can start calling as we show in Part 2
+Now that you have the API request you can start calling the API as we show in Part 2
 
 
 
