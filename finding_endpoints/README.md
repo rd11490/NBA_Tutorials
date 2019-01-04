@@ -29,6 +29,39 @@ The first step is to open google chrome and navigate to the page we want to gath
 
 ![League Leaders](screen_shots/players_page.png)
 
+Once on the page we want to gather data from we will need to open the Chrome Developer Tools. To do this
+right click the page and select inspect
+
+![Open Dev Tools](screen_shots/open_dev_tools.png)
+
+That should open a panel on the right side of the screen like shown.
+Next click on the network tab in order to see all api calls made by the page.
+
+![Dev Tools Opened](screen_shots/dev_tools_opened.png)
+
+Once on the Network tab, select XHR and reload the page. Once the page has loaded you will need
+to look through he different calls to the find the one you want. It will normally
+be called something similar to the name the page you are on and will be followed by a bunch of query parameters.
+
+![Network Tab Opened](screen_shots/network_tab_opened.png)
+
+On you have found the correct API call (or if you are still trying to find the exact one you want) you can right click the call and copy the response.
+
+![Copy Response](screen_shots/copy_response.png)
+
+You can then page the response into a json viewer such as http://jsonviewer.stack.hu/ to get a better look as the response of the call.
+
+![Response](screen_shots/response.png)
+
+Once you are sure you have the right API call you can copy the request.
+
+![Request](screen_shots/copy_url.png)
+
+
+Now that you have the API request you can start calling as we show in Part 2
+
+
+
 ### 2. Getting data from stats.nba.com
 
 #### Source Code
