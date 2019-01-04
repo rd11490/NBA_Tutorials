@@ -13,6 +13,8 @@ It will only work for javascript based pages that fill their data dynamically fr
 dynamically generated pages through the use of a web framework such as Rails or Django will need to be scraped using a scraping library
 such as BeautifulSoup4
 
+The only known public documentation of the stats.nba API is http://nbasense.com/
+
 ### 0.2 Requirements
 This tutorial uses the latest version of Google Chrome for finding the endpoint information.
 The code in this tutorial was written in python 3.7 and uses the following libraries:
