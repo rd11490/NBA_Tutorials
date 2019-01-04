@@ -4,3 +4,6 @@
 
 
 ### [Determining Players On Court At Start Of Each Period](players_on_court=/)
+
+
+### [Finding Endpoints on Stats(dot)NBA(dot)com](finding_endpoints/)
