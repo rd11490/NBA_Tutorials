@@ -7,6 +7,9 @@ This tutorial will be broken into 2 parts:
 1. Getting the endpoint from the page
 2. Calling the endpoint and saving the data
 
+If you see any issues or think there is a better way to do something,
+don't hesitate to open a PR, submit an issue, or reach out to me directly
+
 ### 0.1 Notes
 The method presented here works for stats.nba.com, and may work for other data sources, but it will not work for all sources.
 It will only work for javascript based pages that fill their data dynamically from external APIs. Any site that uses

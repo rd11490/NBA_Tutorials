@@ -1,5 +1,8 @@
 ## Getting the players at the start of a period:
 
+If you see any issues or think there is a better way to do something,
+don't hesitate to open a PR, submit an issue, or reach out to me directly
+
 ### Using the stats.nba API
 
 #### Getting the players who played in a period

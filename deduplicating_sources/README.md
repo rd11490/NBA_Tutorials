@@ -12,6 +12,9 @@ This tutorial will be broken into 3 parts:
 2. Getting single season player data from basketball_reference
 3. Performing a basic entity resolution technique to map the ids from the two sources
 
+If you see any issues or think there is a better way to do something,
+don't hesitate to open a PR, submit an issue, or reach out to me directly
+
 ### 0.1 Notes/Warnings
 This tutorial might be considered overkill for this exact problem. That is okay,
 I really just want to get this idea out there for some of the more complicated

@@ -2,6 +2,9 @@
 This is the first step in building a play by play parser. This tutorial
 will continue to be updated as I write the Play by Play parser tutorial.
 
+If you see any issues or think there is a better way to do something,
+don't hesitate to open a PR, submit an issue, or reach out to me directly
+
 ### Getting the data:
 For this tutorial I will provide a subset of columns from the 2017-18
 season's play by play data (entire season).
@@ -26,7 +29,7 @@ you exactly what happened. Those columns are:
 In this tutorial we will take an example of each
 `EVENTMSGTYPE` and `EVENTMSGACTIONTYPE` combination and use the
 `HOMEDESCRIPTION`, `NEUTRALDESCRIPTION` and `VISITORDESCRIPTION` to determine
-exactly what each `EVENTMSGTYPE` and `EVENTMSGACTIONTYPE`
+exactly what each `EVENTMSGTYPE` and `EVENTMSGACTIONTYPE`mean.
 
 
 ### The Code:
