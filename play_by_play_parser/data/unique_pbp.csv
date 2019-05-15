@@ -1,0 +1,173 @@
+EVENTMSGTYPE,EVENTMSGACTIONTYPE,DESCRIPTION
+1,1,Smith  3PT Jump Shot (3 PTS) (James 3 AST)  
+1,2,Young 13 Running Jump Shot (14 PTS) (Livingston 3 AST)  
+1,3,  Horford 14 Hook Shot (4 PTS)
+1,5,  Brown 2 Layup (12 PTS) (Irving 4 AST)
+1,6,Rose 1 Driving Layup (7 PTS) (Crowder 1 AST)  
+1,7,  Capela 1 Dunk (8 PTS)
+1,9,  Gordon 1 Driving Dunk (7 PTS)
+1,41,Thompson 1 Running Layup (4 PTS) (James 4 AST)  
+1,43,Thompson  Alley Oop Layup (2 PTS) (Smith 1 AST)  
+1,44,Crowder 1 Reverse Layup (9 PTS) (James 6 AST)  
+1,47,Wade 11 Turnaround Jump Shot (7 PTS)  
+1,50,James 2 Running Dunk (16 PTS)  
+1,51,  Barton 1 Reverse Dunk (7 PTS) (Jokic 3 AST)
+1,52,  Tatum 2 Alley Oop Dunk (4 PTS) (Irving 6 AST)
+1,57,Fournier 7 Driving Hook Shot (2 PTS) (Payton 1 AST)  
+1,58,Curry 12 Turnaround Hook Shot (15 PTS)  
+1,63,  Hayward 9 Fadeaway Jumper (2 PTS) (Horford 2 AST)
+1,66,Augustin 12 Jump Bank Shot (7 PTS)  
+1,67,  Griffin 7 Hook Bank Shot (27 PTS) (Williams 2 AST)
+1,71,  Cousins 2 Finger Roll Layup (9 PTS)
+1,72,Love 1 Putback Layup (4 PTS)  
+1,73,  Mbah a Moute 2 Driving Reverse Layup (2 PTS) (Ariza 1 AST)
+1,74,  Richardson 3 Running Reverse Layup (10 PTS) (Johnson 4 AST)
+1,75,  Gordon 2 Driving Finger Roll Layup (15 PTS)
+1,76,Oladipo 1 Running Finger Roll Layup (17 PTS)  
+1,78,Smith 13 Floating Jump Shot (10 PTS)  
+1,79,  Irving 16 Pullup Jump Shot (6 PTS)
+1,80,  Irving 18 Step Back Jump Shot (9 PTS)
+1,86,Wade 12 Turnaround Fadeaway (2 PTS) (James 1 AST)  
+1,87,Drummond 1 Putback Dunk (6 PTS)  
+1,93,  Felder 6 Driving Bank Hook Shot (2 PTS) (Lopez 2 AST)
+1,96,Valanciunas 1 Turnaround Bank Hook Shot (19 PTS)  
+1,97,  Mozgov 1 Tip Layup Shot (2 PTS)
+1,98,  Brown 1 Cutting Layup Shot (14 PTS) (Horford 3 AST)
+1,99,James 1 Cutting Finger Roll Layup Shot (6 PTS) (Rose 1 AST)  
+1,100,Martin  Running Alley Oop Layup Shot (4 PTS) (Ennis III 2 AST)  
+1,101,James 10 Driving Floating Jump Shot (12 PTS)  
+1,102,Durant 10 Driving Floating Bank Jump Shot (15 PTS) (Green 11 AST)  
+1,103,  Redick 26 3PT Running Pull-Up Jump Shot (3 PTS)
+1,104,  Brooks 14 Step Back Bank Jump Shot (2 PTS)
+1,105,  Smart 13 Turnaround Fadeaway Bank Jump Shot (6 PTS)
+1,106,Chandler 1 Running Alley Oop Dunk Shot (2 PTS) (Warren 1 AST)  
+1,107,Brooks 1 Tip Dunk Shot (6 PTS)  
+1,108,Green 3 Cutting Dunk Shot (4 PTS) (James 8 AST)  
+1,109,Noel 1 Driving Reverse Dunk Shot (2 PTS) (Barnes 1 AST)  
+1,110,Brown 1 Running Reverse Dunk Shot (5 PTS)  
+2,1,  MISS Brown 26 3PT Jump Shot
+2,2,  MISS Harden 10 Running Jump Shot
+2,3,  MISS Capela 6 Hook Shot
+2,5,MISS Wade 2 Layup  Baynes BLOCK (1 BLK)
+2,6,  MISS Smart 2 Driving Layup
+2,7,MISS Harris 1 Dunk  
+2,9,  MISS Brown 1 Driving Dunk
+2,41,MISS Rose 1 Running Layup  
+2,43,MISS Thompson 2 Alley Oop Layup  
+2,44,  MISS Brown 2 Reverse Layup
+2,47,MISS Crowder 13 Turnaround Jump Shot  
+2,50,Chriss BLOCK (2 BLK)  MISS Brewer 2 Running Dunk
+2,51,Gasol BLOCK (1 BLK)  MISS Plumlee 1 Reverse Dunk
+2,52,MISS Drummond 2 Alley Oop Dunk  
+2,57,  MISS Horford 8 Driving Hook Shot
+2,58,  MISS Simmons 13 Turnaround Hook Shot
+2,63,MISS Wade 15 Fadeaway Jumper  
+2,66,  MISS Williams 15 Jump Bank Shot
+2,67,MISS Lopez 3 Hook Bank Shot  
+2,71,  MISS Olynyk 4 Finger Roll Layup
+2,72,  MISS Brown 1 Putback Layup
+2,73,MISS Curry 2 Driving Reverse Layup  
+2,74,  MISS Allen 2 Running Reverse Layup
+2,75,  MISS Lin 1 Driving Finger Roll Layup
+2,76,MISS Evans 1 Running Finger Roll Layup  
+2,78,MISS Jackson 6 Floating Jump Shot  
+2,79,  MISS Smart 4 Pullup Jump Shot
+2,80,  MISS Irving 19 Step Back Jump Shot
+2,86,MISS James 17 Turnaround Fadeaway Shot  
+2,87,  MISS Porzingis 3 Putback Dunk
+2,93,  MISS Mahinmi 5 Driving Bank Hook Shot
+2,96,MISS Connaughton 3 Turnaround Bank Hook Shot  
+2,97,MISS Wade 1 Tip Layup Shot  
+2,98,James BLOCK (1 BLK)  MISS Tatum 3 Cutting Layup Shot
+2,99,MISS Mills 2 Cutting Finger Roll Layup Shot  
+2,100,MISS James 1 Running Alley Oop Layup Shot  
+2,101,MISS Wade 13 Driving Floating Jump Shot  
+2,102,MISS Green 7 Driving Floating Bank Jump Shot  
+2,103,MISS Gordon 26 3PT Running Pull-Up Jump Shot  
+2,104,  MISS Harden 13 Step Back Bank Jump Shot
+2,105,MISS Nowitzki 9 Turnaround Fadeaway Bank Jump Shot  
+2,106,MISS Kuzma 1 Running Alley Oop Dunk Shot  
+2,107,  MISS Swanigan 3 Tip Dunk Shot
+2,108,MISS Chriss  Cutting Dunk Shot  
+2,109,MISS Mark Morris 3 Driving Reverse Dunk Shot  Mejri BLOCK (2 BLK)
+3,10,  Brown Free Throw 1 of 1 (7 PTS)
+3,11,Rose Free Throw 1 of 2 (5 PTS)  
+3,12,MISS Rose Free Throw 2 of 2  
+3,13,  MISS Walker Free Throw 1 of 3
+3,14,  Walker Free Throw 2 of 3 (5 PTS)
+3,15,  Walker Free Throw 3 of 3 (6 PTS)
+3,16,  Irving Free Throw Technical (7 PTS)
+3,18,Durant Free Throw Flagrant 1 of 2 (8 PTS)  
+3,19,Durant Free Throw Flagrant 2 of 2 (9 PTS)  
+3,20,  Tatum Free Throw Flagrant 1 of 1 (4 PTS)
+3,21,  Prince Free Throw Technical 1 of 2 (4 PTS)
+3,22,  Prince Free Throw Technical 2 of 2 (5 PTS)
+3,25,  VanVleet Free Throw Clear Path 1 of 2 (7 PTS)
+3,26,  VanVleet Free Throw Clear Path 2 of 2 (6 PTS)
+3,27,Fournier Free Throw Flagrant 1 of 3 (6 PTS)  
+4,0,Crowder REBOUND (Off:1 Def:1)  
+4,1,  Celtics Rebound
+5,0,  Holiday No Turnover (P3.T9)
+5,1,Love Bad Pass Turnover (P1.T5)  Irving STEAL (2 STL)
+5,2,Shumpert STEAL (1 STL)  Baynes Lost Ball Turnover (P1.T3)
+5,4,Wade Traveling Turnover (P1.T2)  
+5,6,Irving Double Dribble Turnover (P2.T3)  
+5,7,  Waiters Discontinue Dribble Turnover (P3.T11)
+5,8,  Tucker 3 Second Violation Turnover (P3.T12)
+5,9,  Raptors Turnover: 5 Second Violation (T#2)
+5,10,HORNETS Turnover: 8 Second Violation (T#12)  
+5,11,  Celtics Turnover: Shot Clock (T#4)
+5,12,Galloway Inbound Turnover (P1.T6)  
+5,13,  Lamb Backcourt Turnover (P2.T17)
+5,15,Gobert Offensive Goaltending Turnover (P1.T4)  
+5,17,  Felicio Lane Violation Turnover (P3.T14)
+5,18,  Drummond Jump Ball Violation Turnover (P2.T4)
+5,19,Patterson Kicked Ball Violation Turnover (P1.T7)  
+5,20,  Bradley Illegal Assist Turnover (P2.T7)
+5,21,  Brown Palming Turnover (P1.T1)
+5,33,Pachulia Punched Ball Turnover (P1.T2)  
+5,35,Gordon Basket from Below Turnover (P1.T9)  
+5,36,Bayless Illegal Screen Turnover (P1.T6)  
+5,37,Green Offensive Foul Turnover (P1.T3)  
+5,39,  Brown Step Out of Bounds Turnover (P2.T2)
+5,40,James Out of Bounds Lost Ball Turnover (P1.T4)  
+5,44,SPURS Turnover: Too Many Players (T#2)  
+5,45,  Smart Out of Bounds - Bad Pass Turnover Turnover (P2.T9)
+6,0,  Holiday NO.FOUL (P1.PN) (.)
+6,1,  Irving P.FOUL (P1.T4) (B.Forte)
+6,2,  Baynes S.FOUL (P1.T3) (M.Smith)
+6,3,  Tatum L.B.FOUL (P2.T3) (M.McCutchen)
+6,4,  Baynes OFF.Foul (P4) (B.Forte)
+6,5,Shumpert IN.FOUL (P3.PN) (M.Smith)  
+6,6,  Speights AWAY.FROM.PLAY.FOUL (P1.T3) (K.Cutler)
+6,9,  Griffin C.P.FOUL (P1.T4) (J.Orr)
+6,10,  
+6,11,  Irving T.FOUL (P2.T1) (M.Smith)
+6,12,  Grant Non-Unsportsmanlike (P0.T1) (D.Stafford)
+6,13,Valanciunas HANGING.TECH.FOUL (P0.T2) (C.Kirkland)  
+6,14,  Tucker FLAGRANT.FOUL.TYPE1 (P1.T4) (T.Maddox)
+6,15,  Anthony FLAGRANT.FOUL.TYPE2 (P4.PN) (R.Mott)
+6,16,  
+6,17,CAVALIERS T.Foul (Def. 3 Sec Love ) (M.McCutchen)  
+6,18,  
+6,19,  Harris Taunting (P1.T3) (L.Wood)
+6,26,Green Offensive Charge Foul (P1.T4) (M.McCutchen)  
+6,27,Stephenson Personal Block Foul (P1.T1) (D.Collins)  
+6,28,  LeVert Personal Take Foul (P3.PN) (D.Collins)
+6,29,Oladipo Shooting Block Foul (P2.T3) (T.Brothers)  
+6,30,  
+7,1,  
+7,2,  Capela Violation:Defensive Goaltending (R.Garretson)
+7,3,  Walker Violation:Lane (.)
+7,4,  Ulis Violation:Jump Ball (K.Scott)
+7,5,  Baynes Violation:Kicked Ball (B.Forte)
+7,6,Maker Violation:Double Lane (.)  
+8,0,SUB: Shumpert FOR Rose  
+9,1,  Celtics Timeout: Regular (Reg.1 Short 0)
+10,0,Jump Ball Love vs. Horford: Tip to Irving  
+11,4,  Curry Ejection:Other
+12,0,  
+13,0,  
+14,0,  
+14,1,  
+14,2,  
