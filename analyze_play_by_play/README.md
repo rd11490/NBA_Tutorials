@@ -26,17 +26,17 @@ you exactly what happened. Those columns are:
 4. `NEUTRALDESCRIPTION`     - The neutral description of the event
 5. `VISITORDESCRIPTION`     - The away team description of the event
 6. `PLAYER1_ID`             - The id of the first player involved
-7. 'PLAYER1_NAME'           - The name of the first player involved
-8. 'PLAYER1_TEAM_ID'        - The team id of the first player involved
-9. 'PLAYER1_TEAM_NICKNAME'  - The team name of the first player involved
-10. 'PLAYER2_ID'             - The id of the second player involved
-11. 'PLAYER2_NAME'           - The name of the second player involved
-12. 'PLAYER2_TEAM_ID'        - The team id of the second player involved
-13. 'PLAYER2_TEAM_NICKNAME'  - The team name of the second player involved
-14. 'PLAYER3_ID'             - The id of the third player involved
-15. 'PLAYER3_NAME'           - The name of the third player involved
-16. 'PLAYER3_TEAM_ID'        - The team id of the third player involved
-17. 'PLAYER3_TEAM_NICKNAME'  - The team name of the third player involved
+7. `PLAYER1_NAME`           - The name of the first player involved
+8. `PLAYER1_TEAM_ID`        - The team id of the first player involved
+9. `PLAYER1_TEAM_NICKNAME`  - The team name of the first player involved
+10. `PLAYER2_ID`             - The id of the second player involved
+11. `PLAYER2_NAME`           - The name of the second player involved
+12. `PLAYER2_TEAM_ID`        - The team id of the second player involved
+13. `PLAYER2_TEAM_NICKNAME`  - The team name of the second player involved
+14. `PLAYER3_ID`             - The id of the third player involved
+15. `PLAYER3_NAME`           - The name of the third player involved
+16. `PLAYER3_TEAM_ID`        - The team id of the third player involved
+17. `PLAYER3_TEAM_NICKNAME`  - The team name of the third player involved
 
 In this tutorial we will take an example of each
 `EVENTMSGTYPE` and `EVENTMSGACTIONTYPE` combination and use the
