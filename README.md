@@ -7,3 +7,6 @@
 
 
 ### [Finding Endpoints on Stats(dot)NBA(dot)com](finding_endpoints/)
+
+
+### [Analyzing Play by Play Data](analyze_play_by_play/)
