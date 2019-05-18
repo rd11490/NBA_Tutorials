@@ -2,7 +2,9 @@ import pandas as pd
 
 pbp = pd.read_csv('data/2017-18_pbp.csv')
 
-pbp = pbp[['playType', 'eventActionType', 'homeDescription', 'neutralDescription', 'awayDescription']]
+pbp = pbp[['playType', 'eventActionType', 'homeDescription', 'neutralDescription', 'awayDescription', 'player1Id',
+           'player1Name', 'player1TeamId', 'player1TeamNickname', 'player2Id', 'player2Name', 'player2TeamId',
+           'player2TeamNickname', 'player3Id', 'player3Name', 'player3TeamId', 'player3TeamNickname']]
 
 
 """
@@ -55,7 +57,13 @@ def map_play_type(str):
 
 pbp['EVENTMSGTYPE'] = pbp['playType'].apply(map_play_type)
 
-pbp = pbp[['EVENTMSGTYPE', 'eventActionType', 'homeDescription', 'neutralDescription', 'awayDescription']]
-pbp.columns = ['EVENTMSGTYPE', 'EVENTMSGACTIONTYPE', 'HOMEDESCRIPTION', 'NEUTRALDESCRIPTION', 'VISITORDESCRIPTION']
+pbp = pbp[['EVENTMSGTYPE', 'eventActionType', 'homeDescription', 'neutralDescription', 'awayDescription', 'player1Id',
+           'player1Name', 'player1TeamId', 'player1TeamNickname', 'player2Id', 'player2Name', 'player2TeamId',
+           'player2TeamNickname', 'player3Id', 'player3Name', 'player3TeamId', 'player3TeamNickname']]
+
+pbp.columns = ['EVENTMSGTYPE', 'EVENTMSGACTIONTYPE', 'HOMEDESCRIPTION', 'NEUTRALDESCRIPTION', 'VISITORDESCRIPTION',
+               'PLAYER1_ID', 'PLAYER1_NAME', 'PLAYER1_TEAM_ID', 'PLAYER1_TEAM_NICKNAME', 'PLAYER2_ID', 'PLAYER2_NAME',
+               'PLAYER2_TEAM_ID', 'PLAYER2_TEAM_NICKNAME', 'PLAYER3_ID', 'PLAYER3_NAME', 'PLAYER3_TEAM_ID',
+               'PLAYER3_TEAM_NICKNAME']
 
 pbp.to_csv('data/2017-18_pbp_fixed.csv', index=False)
