@@ -11,5 +11,5 @@
 
 ### [Analyzing Play by Play Data](analyze_play_by_play/)
 
-### [RAPM(rapm/)
+### [RAPM](rapm/)
 
