@@ -67,7 +67,7 @@ def map_players(row_in, players):
 
 # Break the dataframe into x_train (nxm matrix), y_train (nx1 matrix of target values), and weights (not necessary because all rows will have 1 possession)
 def extract_training_data(possessions, name, players):
-    # etract only the columns we need
+    # extract only the columns we need
     possessions_for_reg = possessions[['offensePlayer1Id', 'offensePlayer2Id',
                                             'offensePlayer3Id', 'offensePlayer4Id', 'offensePlayer5Id',
                                             'defensePlayer1Id', 'defensePlayer2Id', 'defensePlayer3Id',
