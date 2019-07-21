@@ -1,245 +1,147 @@
 ## Parsing Play by Play:
 
-### Getting the data:
+### Notes
 We will use the data we gathered in the [Players on Court Tutorial](../players_on_court) to determine which players
 are on the court for any given event.
 
+We will also use what we learned in the [Analyze Play By Play Data Tutorial](../analyze_play_by_play) to help seperate out possessions.
 
-Example GET call:
+### What Constitutes a Possession?
+A possessions ends every time one of the follow events happen:
+
+1. A made field goal
+    - Free throws after an And-1 count to the previous possession
+2. A defensive rebound
+3. A turnover
+4. A made final free throw
+    - If a substitution occurs during the free throws, I count the points towards the the players on the court when the freethrows started
+    - If a substitution occurs during the free throws and then an offensive rebound occurs I start a new possession
+
+
+
+### Code
+
+#### play_by_play_utils.py
+We will use a separate file for utility functions so that we don't clutter our
+main script.
+
+The first thing we will do is define some constants. This is so that we don't have to
+keep using raw strings for column names.
+
 ```
-https://stats.nba.com/stats/boxscoreadvancedv2/?gameId=0041700404&startPeriod=0&endPeriod=14&startRange=0&endRange=2147483647&rangeType=0
-```
-
-
-In order to use this method you need to set 4 parameters to non-default values:
-1. gameId: The id of the game you want
-2. startRange: half a second past the start of the period. (if you are processing Q2, then the startRange should be `7200 +5 = 7205`
-3. startRange: half a second before the end of the period. (if you are processing Q2, then the startRange should be `14400 - 5 = 14395`
-4. rangeType: should always be 2
-
-
-Example call:
-```
-https://stats.nba.com/stats/boxscoreadvancedv2/?gameId=0041700404&startPeriod=0&endPeriod=14&startRange=7205&endRange=14395&rangeType=2
-```
-
-From this call we can see that all of the players that played in
-Q2 in game 4 of the 2018 NBA Finals were:
-
-GSW
-1. Draymond Green
-2. Klay Thompson
-3. Stephen Curry
-4. Shaun Livingston
-5. David West
-6. Kevin Durant
-7. JaVale McGee
-8. Andre Iguodala
-9. Jordan Bell
-10. Nick Young
-
-CLE
-1. LeBron James
-2. Rodney Hood
-3. Jeff Green
-4. Kyle Korver
-5. Larry Nance Jr.
-6. Kevin Love"
-7. Tristan Thompson
-8. JR Smith
-9. George Hill
-
-
-#### Getting the subsitutions in a period
-Once we have a list of all of the players who were on the court in a
-given period we can use all of the substitution events during that period
-to determine who started the period on the court. First we take
-all of the substitution events for each player during the period (SUB IN vs SUB OUT)
-and then find out which of the two was the first substitution event for the player. We then take all of
-the players whose first event was SUBBED IN and filter those out of the list
-of players who played in the period. We are then left with the players
-who started the period.
-
-
-Example call:
-```
-https://stats.nba.com/stats/playbyplayv2/?gameId=0041700404&&startPeriod=0&endPeriod=14
-```
-
-The field `EVENTMSGTYPE` can be used to determine which event type each row
-corresponds to. Substitutions are `EVENTMSGTYPE = 8`
-
-By determining which player's first substitution event is to be subbed
-into the game and filtering those players from the above list, we are
-left with only the starters:
-
-GSW
-1. Draymond Green
-2. Klay Thompson
-3. Stephen Curry
-4. Shaun Livingston
-5. David West
-
-CLE
-1. LeBron James
-2. Rodney Hood
-3. Jeff Green
-4. Kyle Korver
-5. Larry Nance Jr.
-
-#### Example
-
-[Example Code](players_on_court.py)
-
-Using Python 3.6
-
-imports and settings
-```
-import json
-import pandas as pd
-import urllib3
-
-pd.set_option('display.max_columns', 500)
-pd.set_option('display.width', 1000)
-```
-
-Set the following headers for the API calls
-```
-header_data = {
-    'Host': 'stats.nba.com',
-    'Connection': 'keep-alive',
-    'Cache-Control': 'max-age=0',
-    'Upgrade-Insecure-Requests': '1',
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36',
-    'Referer': 'stats.nba.com',
-    'Accept-Encoding': 'gzip, deflate, br',
-    'Accept-Language': 'en-US,en;q=0.9',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
-}
-```
-
-Build the urls for the play by play and the advanced box score
-```
-# endpoints
-def play_by_play_url(game_id):
-    return "https://stats.nba.com/stats/playbyplayv2/?gameId={0}&startPeriod=0&endPeriod=14".format(game_id)
-
-
-def advanced_boxscore_url(game_id, start, end):
-    return "https://stats.nba.com/stats/boxscoreadvancedv2/?gameId={0}&startPeriod=0&endPeriod=14&startRange={1}&endRange={2}&rangeType=2".format(game_id, start, end)
-```
-
-generate a http client
-```
-http = urllib3.PoolManager()
+event_type = 'EVENTMSGTYPE'
+event_subtype = 'EVENTMSGACTIONTYPE'
+home_description = 'HOMEDESCRIPTION'
+neutral_description = 'NEUTRALDESCRIPTION'
+away_description = 'VISITORDESCRIPTION'
+period_column = 'PERIOD'
+game_clock = 'PCTIMESTRING'
+time_elapsed = 'TIME_ELAPSED'
+time_elapsed_period = 'TIME_ELAPSED_PERIOD'
 ```
 
 
-Function for downloading and extracting the data from a stats.nba endpoint into a dataframe
-note: `results = resp['resultSets'][0]` only works because in all cases I only need the first item in the resultsSet
+We will also define some basic functions for determining play type.
 ```
-def extract_data(url):
-    r = http.request('GET', url, headers=header_data)
-    resp = json.loads(r.data)
-    results = resp['resultSets'][0]
-    headers = results['headers']
-    rows = results['rowSet']
-    frame = pd.DataFrame(rows)
-    frame.columns = headers
-    return frame
+"""
+EVENTMSGTYPE Types:
+
+1 -> MAKE
+2 -> MISS
+3 -> FreeThrow
+4 -> Rebound
+5 -> Turnover
+6 -> Foul
+7 -> Violation
+8 -> Substitution
+9 -> Timeout
+10 -> JumpBall
+11 -> Ejection
+12 -> StartOfPeriod
+13 -> EndOfPeriod
+14 -> Empty
+"""
+
+def is_made_shot(row):
+    return row[event_type] == 1
+
+def is_missed_shot(row):
+    return row[event_type] == 2
+
+def is_free_throw(row):
+    return row[event_type] == 3
+
+def is_rebound(row):
+    return row[event_type] == 4
+
+def is_turnover(row):
+    return row[event_type] == 5
+
+def is_foul(row):
+    return row[event_type] == 6
+
+def is_violation(row):
+    return row[event_type] == 7
+
+def is_substitution(row):
+    return row[event_type] == 8
+
+def is_timeout(row):
+    return row[event_type] == 9
+
+def is_jump_ball(row):
+    return row[event_type] == 10
+
+def is_ejection(row):
+    return row[event_type] == 11
+
+def is_start_of_period(row):
+    return row[event_type] == 12
+
+def is_end_of_period(row):
+    return row[event_type] == 13
 ```
 
-Function for calculating the start time of each period
-```
-def calculate_time_at_period(period):
-    if period > 5:
-        return (720 * 4 + (period - 5) * (5 * 60)) * 10
-    else:
-        return (720 * (period - 1)) * 10
+We will also define some methods for working with freethrows
 
 ```
 
-Helper Function for splitting SUB IN and SUB OUT players for processing
-```
-def split_subs(df, tag):
-    subs = df[[tag, 'PERIOD', 'EVENTNUM']]
-    subs['SUB'] = tag
-    subs.columns = ['PLAYER_ID', 'PERIOD', 'EVENTNUM', 'SUB']
-    return subs
-```
+"""
+eventActionType Types: Free Throws
 
-Given a game_id download and extract the play by play data
-```
-game_id = "0041700404"
-frame = extract_data(play_by_play_url(game_id))
-```
+Free Throw Types
 
-Filter the play by play to only include the substitutions
-```
-substitutionsOnly = frame[frame["EVENTMSGTYPE"] == 8][['PERIOD', 'EVENTNUM', 'PLAYER1_ID', 'PLAYER2_ID']]
-substitutionsOnly.columns = ['PERIOD', 'EVENTNUM', 'OUT', 'IN']
-```
+10 - 1 of 1
+11 - 1 of 2
+12 - 2 of 2
+13 - 1 of 3
+14 - 2 of 3
+15 - 3 of 3
+16 - Technical
 
-Split the frame into subs in and subs out with label
-```
-subs_in = split_subs(substitutionsOnly, 'IN')
-subs_out = split_subs(substitutionsOnly, 'OUT')
-```
-
-Merge the two frames together
-```
-full_subs = pd.concat([subs_out, subs_in], axis=0).reset_index()[['PLAYER_ID', 'PERIOD', 'EVENTNUM', 'SUB']]
-```
-
-Group by the player and period then take the first substitution event for each player in each period
-```
-first_event_of_period = full_subs.loc[full_subs.groupby(by=['PERIOD', 'PLAYER_ID'])['EVENTNUM'].idxmin()]
-```
-
-Filter so that only the players whose first event was to be subbed into the game are in the dataframe
-```
-players_subbed_in_at_each_period = first_event_of_period[first_event_of_period['SUB'] == 'IN'][['PLAYER_ID', 'PERIOD', 'SUB']]
-```
-
-Get a list of each period in the game
-```
-periods = players_subbed_in_at_each_period['PERIOD'].drop_duplicates().values.tolist()
-```
+"""
 
 
-Calculate the start and end time of the period (offset by .5 seconds so that there
-is no collision at the start/end barrier between periods). Then download
-the boxscore for that time range, extract the player name, id, and team.
-Join the boxscore with the substitution frame from above and filter out any
-rows where the join was successful
-(Any player who was subbed in will have SUB as `IN`.
-Any player who started will have SUB as `NAN`)
+def is_1_of_1(row):
+    return is_free_throw(row) and row[event_subtype] == 13
 
+
+def is_2_of_2(row):
+    return is_free_throw(row) and row[event_subtype] == 13
+
+
+def is_3_of_3(row):
+    return is_free_throw(row) and row[event_subtype] == 13
+
+
+def is_technical(row):
+    return is_free_throw(row) and row[event_subtype] == 13
+
+
+def is_last_free_throw(row):
+    return is_1_of_1(row) or is_2_of_2(row) or is_3_of_3(row)
+
+
+def is_last_free_throw_made(row):
+    return is_last_free_throw(row) and 'MISS' not in row[home_description] and 'MISS' not in row[away_description]
 ```
-frames = []
-for period in periods:
-
-    low = calculate_time_at_period(period) + 5
-    high = calculate_time_at_period(period + 1) - 5
-    boxscore = advanced_boxscore_url(game_id, low, high)
-    boxscore_players = extract_data(boxscore)[['PLAYER_NAME', 'PLAYER_ID', 'TEAM_ABBREVIATION']]
-    boxscore_players['PERIOD'] = period
-
-    players_subbed_in_at_period = players_subbed_in_at_each_period[players_subbed_in_at_each_period['PERIOD'] == period]
-
-    joined_players = pd.merge(boxscore_players, players_subbed_in_at_period, on=['PLAYER_ID', 'PERIOD'], how='left')
-    joined_players = joined_players[pd.isnull(joined_players['SUB'])][['PLAYER_NAME', 'PLAYER_ID', 'TEAM_ABBREVIATION', 'PERIOD']]
-    frames.append(joined_players)
-
-out = pd.concat(frames)
-print(out)
-```
-
-
-###### Special thanks to Jason Roman of nbasense for documenting the NBA APIs
-
-BoxScoreAdvanced:
-http://nbasense.com/nba-api/Stats/Stats/Game/BoxScoreAdvanced
-
-PlayByPlay:
-http://nbasense.com/nba-api/Stats/Stats/Game/PlayByPlay
