@@ -17,7 +17,7 @@ sklearn     0.20.2
 
 We are starting this tutorial under the assumption that we have already
 parsed possessions from play by play data.
-The data has been provided for you in the data folder
+The data has been provided for you in the data folder:
  [possession data](data/rapm_possessions.csv)
 
 The possession data contains 12 columns, 5 containing player Ids for the
@@ -118,11 +118,11 @@ Calculate points per 100 possessions for each possession
 possessions['PointsPerPossession'] = 100 * possessions['points'] / possessions['possessions']
 ```
 
-Convert the row of player ids into a sparse row for the training matrix:
+Convert the row of player ids into a sparse row for the training matrix:  
 [o_id1, o_id2, .... d_id4, d_id5] -> [0 1 1 0 0 0 1 1 1 -1 0 -1 -1 0 -1 -1 0]
 In this function we are maintaining order by looking up the position in the training row
 based on the position in the sorted list of players we generated above. The offensive players sit at
-the same index they do in list of players. The defensive players sit at the index + the total number of players.
+the same index they do in list of players. The defensive players sit at the index + the total number of players.  
 i.e. if there were only 3 players in the set it would be: [o_p1, o_p2, o_p3, d_p1, d_p2, d_p3]
 ```
 def map_players(row_in, players):
