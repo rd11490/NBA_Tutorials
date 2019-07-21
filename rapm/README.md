@@ -160,7 +160,7 @@ to properly weigh our training data
 
 ```
 # Break the dataframe into x_train (nxm matrix), y_train (nx1 matrix of target values), and weights (not necessary because all rows will have 1 possession)
-def extract_training_data(possessions, name, players):
+def convert_to_matricies(possessions, name, players):
     # extract only the columns we need
 
     # Convert the columns of player ids into a numpy matrix
@@ -183,7 +183,7 @@ def extract_training_data(possessions, name, players):
 
 apply our extraction method from above to our input data:
 ```
-train_x, train_y, possessions_raw = extract_training_data(possessions, 'PointsPerPossession', player_list)
+train_x, train_y, possessions_raw = convert_to_matricies(possessions, 'PointsPerPossession', player_list)
 ```
 
 We will need a way to convert your standard lambda parameter into the alpha parameter needed for RidgeCV

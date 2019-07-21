@@ -66,7 +66,7 @@ def map_players(row_in, players):
     return rowOut
 
 # Break the dataframe into x_train (nxm matrix), y_train (nx1 matrix of target values), and weights (not necessary because all rows will have 1 possession)
-def extract_training_data(possessions, name, players):
+def convert_to_matricies(possessions, name, players):
     # extract only the columns we need
 
     # Convert the columns of player ids into a numpy matrix
@@ -87,7 +87,7 @@ def extract_training_data(possessions, name, players):
     return stint_X_rows, stint_Y_rows, possessions
 
 # extract the training data from our possession data frame
-train_x, train_y, possessions_raw = extract_training_data(possessions, 'PointsPerPossession', player_list)
+train_x, train_y, possessions_raw = convert_to_matricies(possessions, 'PointsPerPossession', player_list)
 
 
 # Convert lambda value to alpha needed for ridge CV
