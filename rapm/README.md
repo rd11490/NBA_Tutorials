@@ -162,13 +162,9 @@ to properly weigh our training data
 # Break the dataframe into x_train (nxm matrix), y_train (nx1 matrix of target values), and weights (not necessary because all rows will have 1 possession)
 def extract_training_data(possessions, name, players):
     # extract only the columns we need
-    possessions_for_reg = possessions[['offensePlayer1Id', 'offensePlayer2Id',
-                                            'offensePlayer3Id', 'offensePlayer4Id', 'offensePlayer5Id',
-                                            'defensePlayer1Id', 'defensePlayer2Id', 'defensePlayer3Id',
-                                            'defensePlayer4Id', 'defensePlayer5Id', name]]
 
     # Convert the columns of player ids into a numpy matrix
-    stints_x_base = possessions_for_reg.as_matrix(columns=['offensePlayer1Id', 'offensePlayer2Id',
+    stints_x_base = possessions.as_matrix(columns=['offensePlayer1Id', 'offensePlayer2Id',
                                                       'offensePlayer3Id', 'offensePlayer4Id', 'offensePlayer5Id',
                                                       'defensePlayer1Id', 'defensePlayer2Id', 'defensePlayer3Id',
                                                       'defensePlayer4Id', 'defensePlayer5Id'])
@@ -176,7 +172,7 @@ def extract_training_data(possessions, name, players):
     stint_X_rows = np.apply_along_axis(map_players, 1, stints_x_base, players)
 
     # Convert the column of target values into a numpy matrix
-    stint_Y_rows = possessions_for_reg.as_matrix([name])
+    stint_Y_rows = possessions.as_matrix([name])
 
     # extract the possessions as a pandas Series
     possessions = possessions['possessions']
