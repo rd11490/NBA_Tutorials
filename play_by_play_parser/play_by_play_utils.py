@@ -9,7 +9,6 @@ game_clock = 'PCTIMESTRING'
 time_elapsed = 'TIME_ELAPSED'
 time_elapsed_period = 'TIME_ELAPSED_PERIOD'
 
-
 ###########################
 ###
 ### Helper functions for
@@ -36,41 +35,54 @@ EVENTMSGTYPE Types:
 14 -> Empty
 """
 
+
 def is_made_shot(row):
     return row[event_type] == 1
+
 
 def is_missed_shot(row):
     return row[event_type] == 2
 
+
 def is_free_throw(row):
     return row[event_type] == 3
+
 
 def is_rebound(row):
     return row[event_type] == 4
 
+
 def is_turnover(row):
     return row[event_type] == 5
+
 
 def is_foul(row):
     return row[event_type] == 6
 
+
 def is_violation(row):
     return row[event_type] == 7
+
 
 def is_substitution(row):
     return row[event_type] == 8
 
+
 def is_timeout(row):
     return row[event_type] == 9
+
 
 def is_jump_ball(row):
     return row[event_type] == 10
 
+
 def is_ejection(row):
     return row[event_type] == 11
 
+
 def is_start_of_period(row):
     return row[event_type] == 12
+
 
 def is_end_of_period(row):
     return row[event_type] == 13
@@ -119,6 +131,23 @@ Offensive fouls: Offensive, Charge
 
 """
 
+
+def is_shooting_foul(row):
+    return is_foul(row) and row[event_subtype] == 2
+
+
+def is_away_from_play_foul(row):
+    return is_foul(row) and row[event_subtype] == 6
+
+
+def is_inbound_foul(row):
+    return is_foul(row) and row[event_subtype] == 5
+
+
+def is_loose_ball_foul(row):
+    return is_foul(row) and row[event_subtype] == 3
+
+
 """
 eventActionType Types: Free Throws
 
@@ -134,6 +163,7 @@ Free Throw Types
 
 """
 
+
 def is_miss(row):
     miss = False
     if row[home_description]:
@@ -143,21 +173,43 @@ def is_miss(row):
     return miss
 
 
+def is_team_rebound(row):
+    return is_rebound(row) and row[event_subtype] == 1
+
+
+def is_defensive_rebound(ind, row, rows):
+    if not is_rebound(row):
+        return False
+    shot = extract_missed_shot_for_rebound(ind, row, rows)
+    if is_team_rebound(row):
+        return shot['PLAYER1_TEAM_ID'] != row['PLAYER1_ID']
+    else:
+        return shot['PLAYER1_TEAM_ID'] != row['PLAYER1_TEAM_ID']
+
+
+def extract_missed_shot_for_rebound(ind, row, rows):
+    subset_of_rows = rows[max(0, ind - 10): ind]
+    subset_of_rows.reverse()
+    for r in subset_of_rows:
+        if is_miss(r[1]) or is_missed_free_throw(r[1]):
+            return r[1]
+    return subset_of_rows[-1][1]
 
 
 def is_missed_free_throw(row):
-    return is_free_throw(row) and ()
+    return is_free_throw(row) and is_miss(row)
+
 
 def is_1_of_1(row):
-    return is_free_throw(row) and row[event_subtype] == 13
+    return is_free_throw(row) and row[event_subtype] == 10
 
 
 def is_2_of_2(row):
-    return is_free_throw(row) and row[event_subtype] == 13
+    return is_free_throw(row) and row[event_subtype] == 12
 
 
 def is_3_of_3(row):
-    return is_free_throw(row) and row[event_subtype] == 13
+    return is_free_throw(row) and row[event_subtype] == 15
 
 
 def is_technical(row):
@@ -165,8 +217,48 @@ def is_technical(row):
 
 
 def is_last_free_throw(row):
-    return is_1_of_1(row) or is_2_of_2(row) or is_3_of_3(row)
+    return is_1_of_1(row) or is_last_multi_free_throw(row)
 
 
-def is_last_free_throw_made(row):
-    return is_last_free_throw(row) and 'MISS' not in row[home_description] and 'MISS' not in row[away_description]
+def is_last_multi_free_throw(row):
+    return is_2_of_2(row) or is_3_of_3(row)
+
+
+def is_last_free_throw_made(ind, row, rows):
+    if not is_free_throw(row):
+        return False
+    foul = extract_foul_for_last_freethrow(ind, row, rows)
+    return (is_last_multi_free_throw(row) or (
+        is_1_of_1(row) and not is_away_from_play_foul(foul) and not is_loose_ball_foul(foul) and not is_inbound_foul(
+            foul))) and not is_miss(row)
+
+
+def extract_foul_for_last_freethrow(ind, row, rows):
+    subset_of_rows = rows[max(0, ind - 10): ind]
+    subset_of_rows.reverse()
+    for r in subset_of_rows:
+        if is_foul(r[1]):
+            return r[1]
+    print(ind)
+    print(row)
+    return subset_of_rows[0][1]
+
+
+def is_and_1(ind, row, rows):
+    if not is_made_shot(row):
+        return False
+    subset_of_rows = rows[ind + 1: min(ind + 20, len(rows))]
+    cnt = 0
+    for sub_ind, r in subset_of_rows:
+        if (is_foul(r) or is_1_of_1(r)) and row[time_elapsed] <= r[time_elapsed] <= row[time_elapsed] + 10:
+            if is_foul(r) and not is_technical(r) and not is_loose_ball_foul(r) and not is_inbound_foul(r) and r[
+                'PLAYER2_ID'] == row['PLAYER1_ID']:
+                cnt += 1
+            elif is_1_of_1(row) and r['PLAYER1_ID'] == r['PLAYER2_ID']:
+                cnt += 1
+    return cnt == 2
+
+
+def is_make_and_not_and_1(ind, row, rows):
+    return is_made_shot(row) and not is_and_1(ind, row, rows)
+
