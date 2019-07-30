@@ -75,17 +75,17 @@ def split_row(list_str):
 sub_map = {}
 # Pre-populate the map with the players at the start of each period
 for row in players_at_start_of_period.iterrows():
-    sub_map[row[1]['PERIOD']] = {row[1]['TEAM_ID_1']: split_row(row[1]['TEAM_1_PLAYERS']),
+    sub_map[row[1][period_column]] = {row[1]['TEAM_ID_1']: split_row(row[1]['TEAM_1_PLAYERS']),
                                  row[1]['TEAM_ID_2']: split_row(row[1]['TEAM_2_PLAYERS'])}
 
 # players on the court need to be updated after every substitution
 def update_subs(row):
-    period = row['PERIOD']
+    period = row[period_column]
     # If the event is a substitution we need to sub out the players on the court
     if is_substitution(row):
-        team_id = row['PLAYER1_TEAM_ID']
-        player_in = str(row['PLAYER2_ID'])
-        player_out = str(row['PLAYER1_ID'])
+        team_id = row[player1_team_id]
+        player_in = str(row[player2_id])
+        player_out = str(row[player1_id])
         players = sub_map[period][team_id]
         players_index = players.index(player_out)
         players[players_index] = player_in
@@ -158,10 +158,10 @@ def count_points(possession):
     points = {}
     for p in possession:
         if is_made_shot(p) or (not is_miss(p) and is_free_throw(p)):
-            if p['PLAYER1_TEAM_ID'] in points:
-                points[p['PLAYER1_TEAM_ID']] += extract_points(p)
+            if p[player1_team_id] in points:
+                points[p[player1_team_id]] += extract_points(p)
             else:
-                points[p['PLAYER1_TEAM_ID']] = extract_points(p)
+                points[p[player1_team_id]] = extract_points(p)
     return points
 
 
@@ -192,28 +192,28 @@ def extract_points(p):
 # improvements can be made by handling each event type individually
 def determine_possession_team(p, team1, team2):
     if is_made_shot(p) or is_free_throw(p):
-        return str(int(p['PLAYER1_TEAM_ID']))
+        return str(int(p[player1_team_id]))
     elif is_rebound(p):
         if is_team_rebound(p):
-            if p['PLAYER1_ID'] == team1:
+            if p[player1_id] == team1:
                 return team2
             else:
                 return team1
         else:
-            if p['PLAYER1_TEAM_ID'] == team1:
+            if p[player1_team_id] == team1:
                 return team2
             else:
                 return team1
     elif is_turnover(p):
         if is_team_turnover(p):
-           return str(int(p['PLAYER1_ID']))
+           return str(int(p[player1_id]))
         else:
-            return str(int(p['PLAYER1_TEAM_ID']))
+            return str(int(p[player1_team_id]))
     else:
-        if math.isnan(p['PLAYER1_TEAM_ID']):
-            return str(int(p['PLAYER1_ID']))
+        if math.isnan(p[player1_team_id]):
+            return str(int(p[player1_id]))
         else:
-            return str(int(p['PLAYER1_TEAM_ID']))
+            return str(int(p[player1_team_id]))
 
 
 # Parse out the list of events in a possession into a single possession object

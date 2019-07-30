@@ -9,6 +9,9 @@ period_column = 'PERIOD'
 game_clock = 'PCTIMESTRING'
 time_elapsed = 'TIME_ELAPSED'
 time_elapsed_period = 'TIME_ELAPSED_PERIOD'
+player1_id = 'PLAYER1_ID'
+player1_team_id = 'PLAYER1_TEAM_ID'
+player2_id = 'PLAYER2_ID'
 
 
 ###########################
@@ -167,7 +170,7 @@ Rebound Types
 Not always labeled properly
 """
 def is_team_rebound(row):
-    return is_rebound(row) and (row[event_subtype] == 1 or math.isnan(row['PLAYER1_TEAM_ID']))
+    return is_rebound(row) and (row[event_subtype] == 1 or math.isnan(row[player1_team_id]))
 
 
 def is_defensive_rebound(ind, row, rows):
@@ -175,9 +178,9 @@ def is_defensive_rebound(ind, row, rows):
         return False
     shot = extract_missed_shot_for_rebound(ind, rows)
     if is_team_rebound(row):
-        return shot['PLAYER1_TEAM_ID'] != row['PLAYER1_ID']
+        return shot[player1_team_id] != row[player1_id]
     else:
-        return shot['PLAYER1_TEAM_ID'] != row['PLAYER1_TEAM_ID']
+        return shot[player1_team_id] != row[player1_team_id]
 
 def extract_missed_shot_for_rebound(ind, rows):
     subset_of_rows = rows[max(0, ind - 10): ind]
@@ -265,9 +268,9 @@ def is_and_1(ind, row, rows):
         # an And-1
         if (is_foul(r) or is_1_of_1(r)) and row[time_elapsed] <= r[time_elapsed] <= row[time_elapsed] + 10:
             if is_foul(r) and not is_technical(r) and not is_loose_ball_foul(r) and not is_inbound_foul(r) and r[
-                'PLAYER2_ID'] == row['PLAYER1_ID']:
+                player2_id] == row[player1_id]:
                 cnt += 1
-            elif is_1_of_1(row) and r['PLAYER1_ID'] == r['PLAYER2_ID']:
+            elif is_1_of_1(row) and r[player1_id] == r[player2_id]:
                 cnt += 1
     return cnt == 2
 

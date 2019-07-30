@@ -25,7 +25,6 @@ main script.
 We need to import math because we need to check columns for NaN
 ```
 import math
-
 ```
 
 The first thing we will do is define some constants. This is so that we don't have to
@@ -41,8 +40,9 @@ period_column = 'PERIOD'
 game_clock = 'PCTIMESTRING'
 time_elapsed = 'TIME_ELAPSED'
 time_elapsed_period = 'TIME_ELAPSED_PERIOD'
-
-
+player1_id = 'PLAYER1_ID'
+player1_team_id = 'PLAYER1_TEAM_ID'
+player2_id = 'PLAYER2_ID'
 ```
 
 We will also define some basic functions for determining play type.
