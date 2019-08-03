@@ -25,7 +25,7 @@ def play_by_play_url(game_id):
 
 
 def advanced_boxscore_url(game_id, start, end):
-    return "https://stats.nba.com/stats/boxscoreadvancedv2/?gameId={0}&startPeriod=0&endPeriod=14&startRange={1}&endRange={2}&rangeType=2".format(game_id, start, end)
+    return "https://stats.nba.com/stats/boxscoretraditionalv2/?gameId={0}&startPeriod=0&endPeriod=14&startRange={1}&endRange={2}&rangeType=2".format(game_id, start, end)
 
 
 http = urllib3.PoolManager()

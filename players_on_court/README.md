@@ -8,14 +8,14 @@ don't hesitate to open a PR, submit an issue, or reach out to me directly
 #### Getting the players who played in a period
 
 The NBA indirectly provides the players on the court at the start of a
-period through the advancedboxscorev2 endpoint. It does this by allowing
+period through the boxscoretraditionalv2 endpoint. It does this by allowing
 the caller to specify a start time and end time between which stats are
 calculated. From this information we can determine only the players who are on the
 the court during a given period.
 
 Example GET call:
 ```
-https://stats.nba.com/stats/boxscoreadvancedv2/?gameId=0041700404&startPeriod=0&endPeriod=14&startRange=0&endRange=2147483647&rangeType=0
+https://stats.nba.com/stats/boxscoretraditionalv2/?gameId=0041700404&startPeriod=0&endPeriod=14&startRange=0&endRange=2147483647&rangeType=0
 ```
 
 
