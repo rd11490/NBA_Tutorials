@@ -304,9 +304,9 @@ def is_and_1(ind, row, rows):
         # an And-1
         if (is_foul(r) or is_1_of_1(r)) and row[time_elapsed] <= r[time_elapsed] <= row[time_elapsed] + 10:
             if is_foul(r) and not is_technical(r) and not is_loose_ball_foul(r) and not is_inbound_foul(r) and r[
-                'PLAYER2_ID'] == row['PLAYER1_ID']:
+                player2_id] == row[player1_id]:
                 cnt += 1
-            elif is_1_of_1(row) and r['PLAYER1_ID'] == r['PLAYER2_ID']:
+            elif is_1_of_1(r) and r[player1_id] == row[player1_id]:
                 cnt += 1
     return cnt == 2
 
