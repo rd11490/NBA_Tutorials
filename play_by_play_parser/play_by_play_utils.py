@@ -261,6 +261,7 @@ def is_and_1(ind, row, rows):
     # check next 20 events after the make
     subset_of_rows = rows[ind + 1: min(ind + 20, len(rows))]
     cnt = 0
+
     for sub_ind, r in subset_of_rows:
         # We are looking for fouls or 1 of 1 free throws that happen within 10 seconds of the made shot.
         # We also need to make sure those 1 of 1s are the result of a different type of foul that results in 1 FT.
@@ -270,7 +271,7 @@ def is_and_1(ind, row, rows):
             if is_foul(r) and not is_technical(r) and not is_loose_ball_foul(r) and not is_inbound_foul(r) and r[
                 player2_id] == row[player1_id]:
                 cnt += 1
-            elif is_1_of_1(row) and r[player1_id] == r[player2_id]:
+            elif is_1_of_1(r) and r[player1_id] == row[player1_id]:
                 cnt += 1
     return cnt == 2
 

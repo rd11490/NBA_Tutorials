@@ -1,0 +1,460 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0021801167,2,12,0,1,7:12 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,4,10,0,1,7:12 PM,12:00,Jump Ball Bryant vs. Lopez: Tip to Portis,,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0
+0021801167,7,2,5,1,7:12 PM,11:41,MISS Portis 2' Layup,,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,8,4,0,1,7:12 PM,11:40,Portis REBOUND (Off:1 Def:0),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,9,2,1,1,7:12 PM,11:38,MISS Portis 17' Jump Shot,,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,10,4,0,1,7:12 PM,11:35,,,Luwawu-Cabarrot REBOUND (Off:0 Def:1),,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,11,6,2,1,7:12 PM,11:20,Portis S.FOUL (P1.T1) (S.Wall),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,13,3,11,1,7:13 PM,11:20,,,Lopez Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,14,3,12,1,7:13 PM,11:20,,,Lopez Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,15,2,79,1,7:13 PM,11:08,MISS Satoransky 18' Pullup Jump Shot,,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,16,4,0,1,7:13 PM,11:05,,,Selden REBOUND (Off:0 Def:1),,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,17,2,1,1,7:13 PM,10:57,,,MISS Luwawu-Cabarrot 24' 3PT Jump Shot,,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,18,4,0,1,7:13 PM,10:51,,,Lopez REBOUND (Off:1 Def:0),,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,19,1,107,1,7:13 PM,10:51,,,Lopez 1' Tip Dunk Shot (4 PTS),4 - 0,-4,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,20,1,73,1,7:14 PM,10:36,Beal 1' Driving Reverse Layup (2 PTS) (Portis 1 AST),,,4 - 2,-2,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,22,5,1,1,7:14 PM,10:23,Portis STEAL (1 STL),,Lemon Jr. Bad Pass Turnover (P1.T1),,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,24,1,50,1,7:14 PM,10:20,Portis 1' Running Dunk (2 PTS),,,4 - 4,TIE,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,25,5,8,1,7:14 PM,9:53,,,Lopez 3 Second Violation Turnover (P1.T2),,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,26,2,6,1,7:15 PM,9:41,MISS Beal 3' Driving Layup,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,27,4,0,1,7:15 PM,9:38,,,Lemon Jr. REBOUND (Off:0 Def:1),,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,28,5,40,1,7:15 PM,9:37,,,Luwawu-Cabarrot Out of Bounds Lost Ball Turnover (P1.T3),,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,29,5,2,1,7:15 PM,9:19,Satoransky Lost Ball Turnover (P1.T1),,Harrison STEAL (1 STL),,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,31,1,41,1,7:15 PM,9:15,,,Harrison 1' Running Layup (2 PTS),6 - 4,-2,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,32,2,1,1,7:16 PM,9:04,MISS Bryant 26' 3PT Jump Shot,,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,33,4,0,1,7:16 PM,9:01,,,Luwawu-Cabarrot REBOUND (Off:0 Def:2),,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,34,1,79,1,7:16 PM,8:55,,,Lemon Jr. 15' Pullup Jump Shot (2 PTS),8 - 4,-4,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,35,1,79,1,7:16 PM,8:40,Beal 21' Pullup Jump Shot (4 PTS),,,8 - 6,-2,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,36,1,102,1,7:16 PM,8:18,,,Selden 2' Driving Floating Bank Jump Shot (2 PTS) (Lemon Jr. 1 AST),10 - 6,-4,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,38,1,1,1,7:16 PM,8:04,Portis 25' 3PT Jump Shot (5 PTS) (Satoransky 1 AST),,,10 - 9,-1,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,40,2,1,1,7:17 PM,7:51,,,MISS Luwawu-Cabarrot 24' 3PT Jump Shot,,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,41,4,0,1,7:17 PM,7:46,Portis REBOUND (Off:1 Def:1),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,42,2,78,1,7:17 PM,7:34,MISS Portis 17' Floating Jump Shot,,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,43,4,0,1,7:17 PM,7:34,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,44,6,3,1,7:17 PM,7:34,,,Harrison L.B.FOUL (P1.T1) (H.Workman),,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,47,2,1,1,7:18 PM,7:26,MISS Beal 13' Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,48,4,0,1,7:18 PM,7:21,Satoransky REBOUND (Off:1 Def:0),,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,49,2,97,1,7:18 PM,7:21,MISS Satoransky 1' Tip Layup Shot,,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,50,4,0,1,7:18 PM,7:20,,,Selden REBOUND (Off:0 Def:2),,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,51,1,41,1,7:18 PM,7:16,,,Lemon Jr. 1' Running Layup (4 PTS) (Selden 1 AST),12 - 9,-3,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,53,1,79,1,7:18 PM,7:08,Beal 4' Pullup Jump Shot (6 PTS) (Satoransky 2 AST),,,12 - 11,-1,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,55,5,1,1,7:18 PM,6:53,Brown Jr. STEAL (1 STL),,Lemon Jr. Bad Pass Turnover (P2.T4),,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,57,1,50,1,7:18 PM,6:50,Brown Jr. 2' Running Dunk (2 PTS),,,12 - 13,1,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,58,9,1,1,7:18 PM,6:50,,,Bulls Timeout: Regular (Reg.1 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,59,2,79,1,7:22 PM,6:33,,,MISS Selden 19' Pullup Jump Shot,,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,60,4,0,1,7:22 PM,6:31,Portis REBOUND (Off:1 Def:2),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,61,2,1,1,7:22 PM,6:18,MISS Satoransky 26' 3PT Jump Shot,,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,62,4,0,1,7:22 PM,6:14,,,Selden REBOUND (Off:0 Def:3),,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,63,1,1,1,7:22 PM,6:01,,,Luwawu-Cabarrot 24' 3PT Jump Shot (3 PTS) (Harrison 1 AST),15 - 13,-2,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,65,2,1,1,7:22 PM,5:50,MISS Portis 25' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,66,4,0,1,7:22 PM,5:47,Bryant REBOUND (Off:1 Def:0),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,67,1,7,1,7:22 PM,5:45,Portis 2' Dunk (7 PTS) (Bryant 1 AST),,,15 - 15,TIE,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,69,2,1,1,7:23 PM,5:27,,,MISS Luwawu-Cabarrot  3PT Jump Shot,,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,70,4,0,1,7:23 PM,5:25,Bryant REBOUND (Off:1 Def:1),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,71,2,98,1,7:23 PM,5:12,MISS Beal 1' Cutting Layup Shot,,Harrison BLOCK (1 BLK),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0
+0021801167,73,4,0,1,7:23 PM,5:08,,,Luwawu-Cabarrot REBOUND (Off:0 Def:3),,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,74,6,26,1,7:23 PM,5:07,,,Selden Offensive Charge Foul (P1.T2) (S.Wall),,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,76,5,37,1,7:23 PM,5:07,,,Selden Offensive Foul Turnover (P1.T5),,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,77,8,0,1,7:23 PM,5:07,SUB: Parker FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,78,8,0,1,7:23 PM,5:07,,,SUB: Arcidiacono FOR Lemon Jr.,,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,79,8,0,1,7:23 PM,5:07,,,SUB: Sampson FOR Selden,,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,83,2,1,1,7:24 PM,4:55,MISS Brown Jr. 26' 3PT Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,84,4,0,1,7:24 PM,4:50,,,Arcidiacono REBOUND (Off:0 Def:1),,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,85,1,5,1,7:24 PM,4:44,,,Luwawu-Cabarrot 2' Layup (5 PTS),17 - 15,-2,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,86,2,101,1,7:24 PM,4:28,MISS Parker 6' Driving Floating Jump Shot,,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,87,4,0,1,7:24 PM,4:25,,,Sampson REBOUND (Off:0 Def:1),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,88,1,78,1,7:25 PM,4:14,,,Arcidiacono 10' Floating Jump Shot (2 PTS),19 - 15,-4,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,89,2,101,1,7:25 PM,4:03,MISS Beal 4' Driving Floating Jump Shot,,Luwawu-Cabarrot BLOCK (1 BLK),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0
+0021801167,94,4,0,1,7:25 PM,4:03,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,92,8,0,1,7:25 PM,4:03,SUB: McRae FOR Satoransky,,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,95,1,1,1,7:25 PM,3:56,Beal 17' Jump Shot (8 PTS),,,19 - 17,-2,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,96,1,3,1,7:26 PM,3:33,,,Lopez 9' Hook Shot (6 PTS) (Luwawu-Cabarrot 1 AST),21 - 17,-4,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,98,2,1,1,7:26 PM,3:19,MISS Portis 18' Jump Shot,,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,99,4,0,1,7:26 PM,3:15,,,Harrison REBOUND (Off:0 Def:1),,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,100,6,4,1,7:26 PM,3:15,,,Harrison OFF.Foul (P2) (T.Washington),,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,102,5,37,1,7:26 PM,3:15,,,Harrison Offensive Foul Turnover (P1.T6),,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,103,6,2,1,7:26 PM,3:00,,,Sampson S.FOUL (P1.T3) (H.Workman),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,105,3,11,1,7:27 PM,3:00,Parker Free Throw 1 of 2 (1 PTS),,,21 - 18,-3,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,106,8,0,1,7:27 PM,3:00,,,SUB: Alkins FOR Harrison,,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,108,3,12,1,7:27 PM,3:00,Parker Free Throw 2 of 2 (2 PTS),,,21 - 19,-2,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,109,2,80,1,7:27 PM,2:51,,,MISS Arcidiacono 12' Step Back Jump Shot,,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,110,4,0,1,7:27 PM,2:48,Beal REBOUND (Off:0 Def:1),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,111,2,1,1,7:28 PM,2:37,MISS McRae 26' 3PT Jump Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,112,4,0,1,7:28 PM,2:33,,,Arcidiacono REBOUND (Off:0 Def:2),,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,113,1,6,1,7:28 PM,2:31,,,Luwawu-Cabarrot 1' Driving Layup (7 PTS) (Arcidiacono 1 AST),23 - 19,-4,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,115,6,2,1,7:28 PM,2:31,McRae S.FOUL (P1.T2) (H.Workman),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,117,9,1,1,7:28 PM,2:31,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,118,8,0,1,7:30 PM,2:31,SUB: Dekker FOR Brown Jr.,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,119,8,0,1,7:30 PM,2:31,,,SUB: Felicio FOR Lopez,,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,122,3,10,1,7:31 PM,2:31,,,Luwawu-Cabarrot Free Throw 1 of 1 (8 PTS),24 - 19,-5,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,123,1,5,1,7:31 PM,2:21,Beal 1' Layup (10 PTS) (Dekker 1 AST),,,24 - 21,-3,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,124,6,2,1,7:31 PM,2:21,,,Luwawu-Cabarrot S.FOUL (P1.T4) (H.Workman),,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,127,3,10,1,7:32 PM,2:21,MISS Beal Free Throw 1 of 1,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,128,4,0,1,7:32 PM,2:18,,,Felicio REBOUND (Off:0 Def:1),,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,129,2,5,1,7:32 PM,2:09,,,MISS Sampson 4' Layup,,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,131,4,0,1,7:32 PM,2:06,,,Sampson REBOUND (Off:1 Def:1),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,132,2,5,1,7:32 PM,2:03,Portis BLOCK (1 BLK),,MISS Sampson 4' Layup,,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0
+0021801167,134,4,0,1,7:32 PM,2:03,,,Sampson REBOUND (Off:2 Def:1),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,135,2,3,1,7:32 PM,1:56,,,MISS Sampson 4' Hook Shot,,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,136,4,0,1,7:32 PM,1:55,Parker REBOUND (Off:0 Def:1),,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,137,6,26,1,7:32 PM,1:55,Dekker Offensive Charge Foul (P1.T3) (T.Washington),,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,139,5,37,1,7:32 PM,1:55,Dekker Offensive Foul Turnover (P1.T2),,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0021801167,140,5,2,1,7:33 PM,1:38,Beal STEAL (1 STL),,Felicio Lost Ball Turnover (P1.T7),,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,142,2,1,1,7:33 PM,1:25,MISS Parker 26' 3PT Jump Shot,,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,143,4,0,1,7:33 PM,1:21,,,Arcidiacono REBOUND (Off:0 Def:3),,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,145,1,5,1,7:33 PM,1:12,,,Alkins 1' Layup (2 PTS) (Arcidiacono 2 AST),26 - 21,-5,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,147,1,86,1,7:33 PM,1:00,Beal 8' Turnaround Fadeaway (12 PTS) (McRae 1 AST),,,26 - 23,-3,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,150,2,1,1,7:34 PM,0:38,,,MISS Arcidiacono 26' 3PT Jump Shot,,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,151,4,0,1,7:34 PM,0:35,Beal REBOUND (Off:0 Def:2),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,152,1,79,1,7:34 PM,0:31,Beal 33' 3PT Pullup Jump Shot (15 PTS),,,26 - 26,TIE,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,153,2,1,1,7:35 PM,0:11,,,MISS Arcidiacono 28' 3PT Jump Shot,,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,154,4,0,1,7:35 PM,0:08,Beal REBOUND (Off:0 Def:3),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,155,6,2,1,7:35 PM,0:01,,,Sampson S.FOUL (P2.PN) (T.Washington),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,157,3,11,1,7:35 PM,0:01,Dekker Free Throw 1 of 2 (1 PTS),,,26 - 27,1,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,158,3,12,1,7:35 PM,0:01,Dekker Free Throw 2 of 2 (2 PTS),,,26 - 28,2,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,159,13,0,1,7:36 PM,0:00,,,,26 - 28,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,166,12,0,2,7:38 PM,12:00,,,,26 - 28,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,167,2,3,2,7:39 PM,11:42,,,MISS Felicio 8' Hook Shot,,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,168,4,0,2,7:39 PM,11:41,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,170,6,4,2,7:39 PM,11:39,,,Sampson OFF.Foul (P1) (S.Wall),,,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,172,5,37,2,7:39 PM,11:39,,,Sampson Offensive Foul Turnover (P1.T8),,,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,173,2,6,2,7:39 PM,11:28,MISS Parker 1' Driving Layup,,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,174,4,0,2,7:39 PM,11:26,,,Sampson REBOUND (Off:0 Def:1),,,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,175,1,1,2,7:40 PM,11:20,,,Alkins 26' 3PT Jump Shot (5 PTS) (Arcidiacono 3 AST),29 - 28,-1,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,177,2,1,2,7:40 PM,11:07,MISS Parker 25' 3PT Jump Shot,,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,178,4,0,2,7:40 PM,11:04,,,Felicio REBOUND (Off:0 Def:2),,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,179,6,2,2,7:40 PM,10:56,Bryant S.FOUL (P1.T1) (T.Washington),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,181,3,11,2,7:40 PM,10:56,,,MISS Alkins Free Throw 1 of 2,,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,182,4,1,2,7:40 PM,10:56,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,183,3,12,2,7:41 PM,10:56,,,Alkins Free Throw 2 of 2 (6 PTS),30 - 28,-2,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,184,6,17,2,7:41 PM,10:45,,,Bulls T.Foul (Def. 3 Sec Alkins ) (H.Workman),,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,185,3,16,2,7:41 PM,10:45,MISS McRae Free Throw Technical,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,186,4,1,2,7:41 PM,10:45,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,187,1,79,2,7:41 PM,10:40,Randle 26' 3PT Pullup Jump Shot (3 PTS),,,30 - 31,1,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,188,1,78,2,7:42 PM,10:26,,,Arcidiacono 14' Floating Jump Shot (4 PTS),32 - 31,-1,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,189,2,1,2,7:42 PM,10:14,MISS Bryant 17' Jump Shot,,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,190,4,0,2,7:42 PM,10:10,,,Alkins REBOUND (Off:0 Def:1),,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,191,1,41,2,7:42 PM,10:07,,,Alkins 1' Running Layup (8 PTS),34 - 31,-3,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,192,1,7,2,7:42 PM,9:51,Bryant 1' Dunk (2 PTS) (McRae 2 AST),,,34 - 33,-1,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,194,1,6,2,7:43 PM,9:30,,,Felicio 1' Driving Layup (2 PTS) (Alkins 1 AST),36 - 33,-3,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,196,6,2,2,7:43 PM,9:30,Bryant S.FOUL (P2.T2) (S.Wall),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,198,3,10,2,7:43 PM,9:30,,,MISS Felicio Free Throw 1 of 1,,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,199,4,0,2,7:43 PM,9:27,Parker REBOUND (Off:0 Def:2),,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,200,2,79,2,7:43 PM,9:18,MISS Dekker 22' Pullup Jump Shot,,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,201,4,0,2,7:43 PM,9:15,,,Alkins REBOUND (Off:0 Def:2),,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,202,2,9,2,7:43 PM,9:09,Parker BLOCK (1 BLK),,MISS Felicio 1' Driving Dunk,,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0
+0021801167,206,4,0,2,7:43 PM,9:09,Randle REBOUND (Off:0 Def:1),,,,,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,204,2,41,2,7:43 PM,9:02,MISS Parker 2' Running Layup,,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,205,4,0,2,7:43 PM,9:00,,,Sampson REBOUND (Off:2 Def:2),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,207,2,1,2,7:44 PM,8:41,,,MISS Alkins 26' 3PT Jump Shot,,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,208,4,0,2,7:44 PM,8:38,Parker REBOUND (Off:0 Def:3),,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,209,1,80,2,7:44 PM,8:30,McRae 18' Step Back Jump Shot (2 PTS),,,36 - 35,-1,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,210,5,2,2,7:44 PM,8:07,McRae STEAL (1 STL),,Felicio Lost Ball Turnover (P2.T9),,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,212,1,41,2,7:44 PM,8:05,McRae 3' Running Layup (4 PTS) (Randle 1 AST),,,36 - 37,1,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,214,6,2,2,7:44 PM,8:05,,,Alkins S.FOUL (P1.T1) (T.Washington),,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,216,8,0,2,7:45 PM,8:05,,,SUB: Selden FOR Sampson,,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,217,8,0,2,7:45 PM,8:05,,,SUB: Lemon Jr. FOR Arcidiacono,,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,220,3,10,2,7:45 PM,8:05,MISS McRae Free Throw 1 of 1,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,221,4,0,2,7:45 PM,7:56,,,Felicio REBOUND (Off:0 Def:3),,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,222,1,79,2,7:45 PM,7:46,,,Lemon Jr. 15' Pullup Jump Shot (6 PTS),38 - 37,-1,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,223,1,98,2,7:46 PM,7:28,Dekker 2' Cutting Layup Shot (4 PTS) (Parker 1 AST),,,38 - 39,1,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,225,6,2,2,7:46 PM,7:28,,,Selden S.FOUL (P2.T2) (H.Workman),,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,227,3,10,2,7:46 PM,7:28,Dekker Free Throw 1 of 1 (5 PTS),,,38 - 40,2,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,228,1,6,2,7:46 PM,7:16,,,Lemon Jr. 1' Driving Layup (8 PTS),40 - 40,TIE,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,229,1,44,2,7:46 PM,7:03,Dekker 2' Reverse Layup (7 PTS) (Bryant 2 AST),,,40 - 42,2,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,231,2,1,2,7:47 PM,6:42,,,MISS Selden 28' 3PT Jump Shot,,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,232,4,0,2,7:47 PM,6:37,Parker REBOUND (Off:0 Def:4),,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,233,5,1,2,7:47 PM,6:32,Parker Bad Pass Turnover (P1.T3),,Felicio STEAL (1 STL),,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,235,1,41,2,7:47 PM,6:28,,,Sampson 2' Running Layup (2 PTS) (Lemon Jr. 2 AST),42 - 42,TIE,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,237,9,1,2,7:47 PM,6:28,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,238,8,0,2,7:50 PM,6:28,,,SUB: Harrison FOR Alkins,,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,240,6,4,2,7:50 PM,6:17,Parker OFF.Foul (P1) (T.Washington),,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,242,5,37,2,7:50 PM,6:17,Parker Offensive Foul Turnover (P2.T4),,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0021801167,243,2,6,2,7:51 PM,6:06,Randle BLOCK (1 BLK),,MISS Lemon Jr. 2' Driving Layup,,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0
+0021801167,245,4,0,2,7:51 PM,6:03,Bryant REBOUND (Off:1 Def:2),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,321,1,52,2,7:51 PM,5:55,Bryant 1' Alley Oop Dunk (4 PTS) (Randle 2 AST),,,42 - 44,2,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,248,1,102,2,7:51 PM,5:29,,,Sampson 3' Driving Floating Bank Jump Shot (4 PTS),44 - 44,TIE,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,249,6,2,2,7:52 PM,5:17,,,Selden S.FOUL (P3.T3) (S.Wall),,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,251,3,11,2,7:52 PM,5:17,Bryant Free Throw 1 of 2 (5 PTS),,,44 - 45,1,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,252,8,0,2,7:52 PM,5:17,SUB: Satoransky FOR Parker,,,,,4,203953,Jabari Parker,1610612764.0,Washington,Wizards,WAS,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,254,8,0,2,7:52 PM,5:17,,,SUB: Sampson FOR Selden,,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,256,3,12,2,7:52 PM,5:17,MISS Bryant Free Throw 2 of 2,,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,257,4,0,2,7:52 PM,5:13,,,Sampson REBOUND (Off:2 Def:3),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,258,5,1,2,7:53 PM,4:58,McRae STEAL (2 STL),,Sampson Bad Pass Turnover (P1.T10),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,260,6,1,2,7:53 PM,4:50,,,Sampson P.FOUL (P3.T4) (T.Washington),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,262,8,0,2,7:53 PM,4:50,,,SUB: Lopez FOR Felicio,,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,263,8,0,2,7:53 PM,4:50,,,SUB: Luwawu-Cabarrot FOR Sampson,,,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,266,2,66,2,7:53 PM,4:35,MISS Dekker 11' Jump Bank Shot,,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,267,4,0,2,7:53 PM,4:31,,,Harrison REBOUND (Off:0 Def:2),,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,268,2,5,2,7:54 PM,4:23,Bryant BLOCK (1 BLK),,MISS Harrison 4' Layup,,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0
+0021801167,270,4,0,2,7:54 PM,4:18,,,Harrison REBOUND (Off:1 Def:2),,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,271,2,3,2,7:54 PM,4:10,,,MISS Lopez 7' Hook Shot,,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,272,4,0,2,7:54 PM,4:08,Bryant REBOUND (Off:1 Def:3),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,273,1,101,2,7:54 PM,4:01,Randle 7' Driving Floating Jump Shot (5 PTS),,,44 - 47,3,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,274,6,2,2,7:54 PM,3:52,Dekker S.FOUL (P2.T3) (S.Wall),,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,276,3,11,2,7:55 PM,3:52,,,Sampson Free Throw 1 of 2 (1 PTS),45 - 47,2,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,277,3,12,2,7:55 PM,3:52,,,Sampson Free Throw 2 of 2 (2 PTS),46 - 47,1,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,278,2,79,2,7:55 PM,3:39,MISS Satoransky 19' Pullup Jump Shot,,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,279,4,0,2,7:55 PM,3:36,,,Sampson REBOUND (Off:2 Def:4),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,280,1,58,2,7:55 PM,3:24,,,Sampson 4' Turnaround Hook Shot (4 PTS),48 - 47,-1,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,281,1,79,2,7:56 PM,3:09,McRae 17' Pullup Jump Shot (6 PTS),,,48 - 49,1,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,282,5,1,2,7:56 PM,2:51,McRae STEAL (3 STL),,Lemon Jr. Bad Pass Turnover (P3.T11),,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,284,1,50,2,7:56 PM,2:46,McRae 1' Running Dunk (8 PTS),,,48 - 51,3,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,285,1,9,2,7:56 PM,2:29,,,Harrison 1' Driving Dunk (4 PTS),50 - 51,1,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,286,6,2,2,7:56 PM,2:20,,,Sampson S.FOUL (P4.PN) (S.Wall),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,288,9,1,2,7:57 PM,2:20,,,Bulls Timeout: Regular (Reg.2 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,289,8,0,2,7:59 PM,2:20,,,SUB: Alkins FOR Sampson,,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,299,8,0,2,7:59 PM,2:20,SUB: Brown Jr. FOR Randle,,,,,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,291,3,11,2,8:00 PM,2:20,McRae Free Throw 1 of 2 (9 PTS),,,50 - 52,2,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,292,3,12,2,8:00 PM,2:20,McRae Free Throw 2 of 2 (10 PTS),,,50 - 53,3,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,293,5,4,2,8:00 PM,2:10,,,Alkins Traveling Turnover (P1.T12),,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,294,6,1,2,8:01 PM,2:01,,,Lemon Jr. P.FOUL (P1.PN) (T.Washington),,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,296,3,11,2,8:01 PM,2:01,Satoransky Free Throw 1 of 2 (1 PTS),,,50 - 54,4,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,297,3,12,2,8:01 PM,2:01,Satoransky Free Throw 2 of 2 (2 PTS),,,50 - 55,5,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,298,1,73,2,8:01 PM,1:46,,,Harrison 2' Driving Reverse Layup (6 PTS) (Lemon Jr. 3 AST),52 - 55,3,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,301,5,2,2,8:01 PM,1:33,Brown Jr. Lost Ball Turnover (P1.T5),,Lemon Jr. STEAL (1 STL),,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,303,5,40,2,8:02 PM,1:30,,,Alkins Out of Bounds Lost Ball Turnover (P2.T13),,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,304,8,0,2,8:02 PM,1:30,SUB: Randle FOR McRae,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,306,2,101,2,8:02 PM,1:15,MISS Brown Jr. 11' Driving Floating Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,307,4,0,2,8:02 PM,1:13,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,308,6,3,2,8:02 PM,1:13,Brown Jr. L.B.FOUL (P1.T4) (S.Wall),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,310,1,3,2,8:03 PM,0:57,,,Lopez 7' Hook Shot (8 PTS),54 - 55,1,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,311,1,1,2,8:03 PM,0:47,Bryant 16' Jump Shot (7 PTS) (Satoransky 3 AST),,,54 - 57,3,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,313,1,79,2,8:03 PM,0:33,,,Lemon Jr. 16' Pullup Jump Shot (10 PTS),56 - 57,1,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,314,2,79,2,8:03 PM,0:23,MISS Randle 26' 3PT Pullup Jump Shot,,,,,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,315,4,0,2,8:03 PM,0:23,,,Lopez REBOUND (Off:1 Def:1),,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,316,2,79,2,8:04 PM,0:00,,,MISS Lemon Jr. 17' Pullup Jump Shot,,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,317,4,0,2,8:04 PM,0:00,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,318,13,0,2,8:04 PM,0:00,,,,56 - 57,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,329,12,0,3,8:19 PM,12:00,,,,56 - 57,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,330,2,3,3,8:19 PM,11:49,,,MISS Lopez 12' Hook Shot,,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,331,4,0,3,8:19 PM,11:45,Bryant REBOUND (Off:1 Def:4),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,332,1,1,3,8:20 PM,11:33,Satoransky 26' 3PT Jump Shot (5 PTS) (Beal 1 AST),,,56 - 60,4,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,334,6,1,3,8:20 PM,11:20,Portis P.FOUL (P2.T1) (S.Wall),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,336,2,79,3,8:20 PM,11:12,,,MISS Selden 19' Pullup Jump Shot,,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,337,4,0,3,8:20 PM,11:06,,,Lopez REBOUND (Off:2 Def:1),,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,338,1,58,3,8:21 PM,11:00,,,Lopez 1' Turnaround Hook Shot (10 PTS) (Lemon Jr. 4 AST),58 - 60,2,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,340,2,1,3,8:21 PM,10:48,MISS Beal 26' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,341,4,0,3,8:21 PM,10:46,Portis REBOUND (Off:2 Def:2),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,342,1,5,3,8:21 PM,10:45,Portis 3' Layup (9 PTS),,,58 - 62,4,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,343,2,102,3,8:21 PM,10:32,,,MISS Harrison 7' Driving Floating Bank Jump Shot,,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,344,4,0,3,8:21 PM,10:30,Portis REBOUND (Off:2 Def:3),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,345,5,4,3,8:21 PM,10:27,Satoransky Traveling Turnover (P2.T6),,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0021801167,346,5,40,3,8:22 PM,10:08,,,Lopez Out of Bounds Lost Ball Turnover (P2.T14),,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,347,1,6,3,8:22 PM,9:58,Brown Jr. 4' Driving Layup (4 PTS),,,58 - 64,6,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,348,2,1,3,8:23 PM,9:47,,,MISS Selden 27' 3PT Jump Shot,,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,349,4,0,3,8:23 PM,9:44,Beal REBOUND (Off:0 Def:4),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,350,1,5,3,8:23 PM,9:42,Portis 1' Layup (11 PTS) (Beal 2 AST),,,58 - 66,8,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,352,6,2,3,8:23 PM,9:42,,,Selden S.FOUL (P4.T1) (S.Wall),,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,354,8,0,3,8:23 PM,9:42,,,SUB: Sampson FOR Selden,,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,356,3,10,3,8:23 PM,9:42,Portis Free Throw 1 of 1 (12 PTS),,,58 - 67,9,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,357,1,1,3,8:23 PM,9:34,,,Sampson 26' 3PT Jump Shot (7 PTS) (Lemon Jr. 5 AST),61 - 67,6,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,359,5,1,3,8:23 PM,9:25,Beal Bad Pass Turnover (P1.T7),,Sampson STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,383,2,6,3,8:24 PM,9:24,Beal BLOCK (1 BLK),,MISS Luwawu-Cabarrot 2' Driving Layup,,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0
+0021801167,385,4,0,3,8:24 PM,9:24,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,362,5,2,3,8:24 PM,9:14,Portis STEAL (2 STL),,Sampson Lost Ball Turnover (P2.T15),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,364,5,2,3,8:24 PM,9:10,Portis Lost Ball Turnover (P1.T8),,Sampson STEAL (2 STL),,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,366,6,3,3,8:24 PM,9:09,Satoransky L.B.FOUL (P1.T2) (S.Wall),,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,368,1,5,3,8:25 PM,8:57,,,Lemon Jr. 9' Layup (12 PTS),63 - 67,4,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,369,2,1,3,8:25 PM,8:42,MISS Portis  3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,370,4,0,3,8:25 PM,8:38,,,Harrison REBOUND (Off:1 Def:3),,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,371,5,40,3,8:25 PM,8:30,,,Luwawu-Cabarrot Out of Bounds Lost Ball Turnover (P2.T16),,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,372,2,5,3,8:25 PM,8:20,MISS Beal 3' Layup,,Lopez BLOCK (1 BLK),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0
+0021801167,374,4,0,3,8:25 PM,8:18,Portis REBOUND (Off:3 Def:3),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,375,1,7,3,8:25 PM,8:17,Portis 1' Dunk (14 PTS),,,63 - 69,6,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,376,2,1,3,8:26 PM,8:04,,,MISS Luwawu-Cabarrot 26' 3PT Jump Shot,,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,377,4,0,3,8:26 PM,8:01,Bryant REBOUND (Off:1 Def:5),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,378,6,2,3,8:26 PM,7:55,,,Luwawu-Cabarrot S.FOUL (P2.T2) (H.Workman),,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,380,3,11,3,8:26 PM,7:55,MISS Bryant Free Throw 1 of 2,,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,381,4,1,3,8:26 PM,7:55,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,382,3,12,3,8:27 PM,7:55,Bryant Free Throw 2 of 2 (8 PTS),,,63 - 70,7,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,386,9,1,3,8:27 PM,7:50,,,Bulls Timeout: Regular (Reg.3 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,387,1,3,3,8:30 PM,7:38,,,Lopez 7' Hook Shot (12 PTS) (Sampson 1 AST),65 - 70,5,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,389,2,1,3,8:30 PM,7:22,MISS Beal 25' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,390,4,0,3,8:30 PM,7:19,,,Lemon Jr. REBOUND (Off:0 Def:2),,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,391,1,79,3,8:30 PM,7:07,,,Lemon Jr. 18' Pullup Jump Shot (14 PTS) (Sampson 2 AST),67 - 70,3,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,392,5,2,3,8:31 PM,6:53,Satoransky Lost Ball Turnover (P3.T9),,Lemon Jr. STEAL (2 STL),,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,394,6,2,3,8:31 PM,6:51,Bryant S.FOUL (P3.T3) (H.Workman),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,396,3,11,3,8:31 PM,6:51,,,Sampson Free Throw 1 of 2 (8 PTS),68 - 70,2,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,397,3,12,3,8:31 PM,6:51,,,Sampson Free Throw 2 of 2 (9 PTS),69 - 70,1,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,398,2,1,3,8:32 PM,6:41,MISS Beal 20' Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,399,4,0,3,8:32 PM,6:36,,,Luwawu-Cabarrot REBOUND (Off:0 Def:4),,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,400,1,41,3,8:32 PM,6:35,,,Luwawu-Cabarrot 2' Running Layup (10 PTS),71 - 70,-1,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,401,6,2,3,8:32 PM,6:35,Portis S.FOUL (P3.T4) (S.Wall),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,403,3,10,3,8:32 PM,6:35,,,Luwawu-Cabarrot Free Throw 1 of 1 (11 PTS),72 - 70,-2,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,404,6,1,3,8:32 PM,6:24,,,Lemon Jr. P.FOUL (P2.T3) (S.Wall),,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,406,2,79,3,8:33 PM,6:15,MISS Satoransky 26' 3PT Pullup Jump Shot,,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,407,4,0,3,8:33 PM,6:12,,,Sampson REBOUND (Off:2 Def:5),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,408,5,1,3,8:33 PM,6:04,Satoransky STEAL (1 STL),,Lemon Jr. Bad Pass Turnover (P4.T17),,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,410,2,76,3,8:33 PM,5:59,MISS Satoransky 4' Running Finger Roll Layup,,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,411,4,0,3,8:33 PM,5:56,,,Luwawu-Cabarrot REBOUND (Off:0 Def:5),,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,412,2,1,3,8:33 PM,5:54,,,MISS Harrison 26' 3PT Jump Shot,,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,413,4,0,3,8:33 PM,5:50,Portis REBOUND (Off:3 Def:4),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,414,5,45,3,8:33 PM,5:45,Bryant Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0021801167,415,1,6,3,8:34 PM,5:33,,,Lemon Jr.  Driving Layup (16 PTS),74 - 70,-4,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,416,9,1,3,8:34 PM,5:33,WIZARDS Timeout: Regular (Full 3 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,418,1,73,3,8:37 PM,5:22,Beal 1' Driving Reverse Layup (17 PTS),,,74 - 72,-2,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,419,2,58,3,8:37 PM,5:07,,,MISS Sampson 10' Turnaround Hook Shot,,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,420,4,0,3,8:37 PM,5:05,Bryant REBOUND (Off:1 Def:6),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,421,1,7,3,8:38 PM,4:46,Portis 1' Dunk (16 PTS) (Satoransky 4 AST),,,74 - 74,TIE,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,423,2,79,3,8:38 PM,4:29,,,MISS Luwawu-Cabarrot 19' Pullup Jump Shot,,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,424,4,0,3,8:38 PM,4:26,Satoransky REBOUND (Off:1 Def:1),,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,425,2,1,3,8:38 PM,4:19,MISS Portis 28' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,426,4,0,3,8:38 PM,4:16,,,Lopez REBOUND (Off:2 Def:2),,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,427,2,6,3,8:38 PM,4:10,,,MISS Lemon Jr. 3' Driving Layup,,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,429,4,0,3,8:38 PM,4:06,Portis REBOUND (Off:3 Def:5),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,430,6,2,3,8:38 PM,4:06,,,Harrison S.FOUL (P3.T4) (H.Workman),,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,432,3,11,3,8:39 PM,4:06,Brown Jr. Free Throw 1 of 2 (5 PTS),,,74 - 75,1,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,433,8,0,3,8:39 PM,4:06,SUB: Dekker FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,434,8,0,3,8:39 PM,4:06,,,SUB: Arcidiacono FOR Lemon Jr.,,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,437,3,12,3,8:39 PM,4:06,Brown Jr. Free Throw 2 of 2 (6 PTS),,,74 - 76,2,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,438,10,0,3,8:40 PM,3:47,Jump Ball Beal vs. Lopez: Tip to Arcidiacono,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0
+0021801167,441,1,101,3,8:40 PM,3:42,,,Arcidiacono 12' Driving Floating Jump Shot (6 PTS),76 - 76,TIE,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,442,2,101,3,8:40 PM,3:27,MISS Portis 7' Driving Floating Jump Shot,,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,443,4,0,3,8:40 PM,3:23,Dekker REBOUND (Off:1 Def:0),,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,444,1,97,3,8:40 PM,3:23,Dekker 1' Tip Layup Shot (9 PTS),,,76 - 78,2,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,445,5,13,3,8:40 PM,3:10,,,Lopez Backcourt Turnover (P3.T18),,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,446,8,0,3,8:40 PM,3:10,,,SUB: Alkins FOR Luwawu-Cabarrot,,,5,1627789,Timothe Luwawu-Cabarrot,1610612741.0,Chicago,Bulls,CHI,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,448,1,66,3,8:41 PM,2:56,Beal 12' Jump Bank Shot (19 PTS) (Brown Jr. 1 AST),,,76 - 80,4,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,450,2,5,3,8:41 PM,2:30,,,MISS Harrison 2' Layup,,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,451,4,0,3,8:41 PM,2:25,,,Sampson REBOUND (Off:3 Def:5),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,452,1,107,3,8:41 PM,2:25,,,Sampson 1' Tip Dunk Shot (11 PTS),78 - 80,2,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,453,2,57,3,8:41 PM,2:18,MISS Dekker 5' Driving Hook Shot,,Lopez BLOCK (2 BLK),,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0
+0021801167,455,4,0,3,8:42 PM,2:15,,,Lopez REBOUND (Off:2 Def:3),,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,456,2,79,3,8:42 PM,1:59,,,MISS Harrison 13' Pullup Jump Shot,,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,457,4,0,3,8:42 PM,1:56,Satoransky REBOUND (Off:1 Def:2),,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,458,2,80,3,8:42 PM,1:50,MISS Beal 25' 3PT Step Back Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,459,4,0,3,8:42 PM,1:48,Portis REBOUND (Off:4 Def:5),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,460,2,5,3,8:42 PM,1:47,MISS Portis 2' Layup,,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,461,4,0,3,8:42 PM,1:47,Portis REBOUND (Off:5 Def:5),,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,462,1,5,3,8:42 PM,1:46,Portis 3' Layup (18 PTS),,,78 - 82,4,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,473,2,6,3,8:42 PM,1:35,Beal BLOCK (2 BLK),,MISS Harrison 3' Driving Layup,,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0
+0021801167,475,4,0,3,8:42 PM,1:35,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,464,8,0,3,8:42 PM,1:33,SUB: McRae FOR Beal,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,465,8,0,3,8:42 PM,1:33,,,SUB: Felicio FOR Sampson,,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,466,8,0,3,8:42 PM,1:33,,,SUB: Selden FOR Lopez,,,5,201577,Robin Lopez,1610612741.0,Chicago,Bulls,CHI,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,470,1,5,3,8:43 PM,1:29,,,Alkins 3' Layup (10 PTS),80 - 82,2,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,471,5,2,3,8:43 PM,1:12,McRae Lost Ball Turnover (P1.T11),,Harrison STEAL (2 STL),,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,476,1,52,3,8:43 PM,1:08,,,Harrison 1' Alley Oop Dunk (8 PTS) (Alkins 2 AST),82 - 82,TIE,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,478,1,43,3,8:43 PM,0:57,Satoransky 1' Alley Oop Layup (7 PTS) (Brown Jr. 2 AST),,,82 - 84,2,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,480,6,2,3,8:44 PM,0:46,McRae S.FOUL (P2.PN) (T.Washington),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,482,3,11,3,8:44 PM,0:46,,,Alkins Free Throw 1 of 2 (11 PTS),83 - 84,1,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,483,3,12,3,8:44 PM,0:46,,,MISS Alkins Free Throw 2 of 2,,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,484,4,0,3,8:44 PM,0:44,Dekker REBOUND (Off:1 Def:1),,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,485,6,2,3,8:44 PM,0:37,,,Harrison S.FOUL (P4.PN) (T.Washington),,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,487,3,11,3,8:45 PM,0:37,MISS Satoransky Free Throw 1 of 2,,,,,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,488,4,1,3,8:45 PM,0:37,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,489,3,12,3,8:45 PM,0:37,Satoransky Free Throw 2 of 2 (8 PTS),,,83 - 85,2,4,203107,Tomas Satoransky,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,490,2,6,3,8:45 PM,0:30,Portis BLOCK (2 BLK),,MISS Selden 9' Driving Layup,,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0
+0021801167,492,4,0,3,8:45 PM,0:26,Brown Jr. REBOUND (Off:0 Def:1),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,493,1,6,3,8:45 PM,0:13,Portis 2' Driving Layup (20 PTS),,,83 - 87,4,4,1626171,Bobby Portis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,494,5,45,3,8:46 PM,0:03,,,Arcidiacono Out of Bounds - Bad Pass Turnover Turnover (P1.T19),,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,495,2,1,3,8:46 PM,0:00,MISS McRae 38' 3PT Jump Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,496,4,0,3,8:46 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,497,13,0,3,8:46 PM,0:00,,,,83 - 87,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,505,12,0,4,8:49 PM,12:00,,,,83 - 87,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,506,1,6,4,8:49 PM,11:38,McRae 4' Driving Layup (12 PTS),,,83 - 89,6,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,507,2,1,4,8:49 PM,11:13,McRae BLOCK (1 BLK),,MISS Sampson 29' 3PT Jump Shot,,,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0
+0021801167,509,4,0,4,8:49 PM,11:10,Randle REBOUND (Off:0 Def:2),,,,,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,510,2,1,4,8:50 PM,11:01,MISS Dekker  3PT Jump Shot,,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,511,4,0,4,8:50 PM,10:57,,,Arcidiacono REBOUND (Off:0 Def:4),,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,512,2,79,4,8:50 PM,10:43,,,MISS Sampson 27' 3PT Pullup Jump Shot,,,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,513,4,0,4,8:50 PM,10:40,Bryant REBOUND (Off:1 Def:7),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,514,2,75,4,8:50 PM,10:31,MISS Dekker 3' Driving Finger Roll Layup,,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,515,4,0,4,8:50 PM,10:28,,,Selden REBOUND (Off:0 Def:4),,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,516,2,41,4,8:50 PM,10:25,,,MISS Alkins 3' Running Layup,,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,517,4,0,4,8:50 PM,10:20,,,Selden REBOUND (Off:1 Def:4),,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,518,1,107,4,8:50 PM,10:20,,,Selden 1' Tip Dunk Shot (4 PTS),85 - 89,4,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,519,2,1,4,8:50 PM,10:11,MISS Brown Jr. 29' 3PT Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,520,4,0,4,8:50 PM,10:08,,,Felicio REBOUND (Off:0 Def:4),,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,521,5,40,4,8:51 PM,10:01,,,Arcidiacono Out of Bounds Lost Ball Turnover (P2.T20),,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0021801167,522,1,109,4,8:51 PM,9:39,Dekker 2' Driving Reverse Dunk Shot (11 PTS) (Bryant 3 AST),,,85 - 91,6,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,524,2,1,4,8:51 PM,9:26,,,MISS Alkins 31' 3PT Jump Shot,,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,525,4,0,4,8:51 PM,9:22,Brown Jr. REBOUND (Off:0 Def:2),,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,526,1,80,4,8:51 PM,9:14,McRae 14' Step Back Jump Shot (14 PTS),,,85 - 93,8,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,527,9,1,4,8:52 PM,9:13,,,Bulls Timeout: Regular (Reg.4 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,528,8,0,4,8:54 PM,9:13,,,SUB: Sampson FOR Selden,,,5,1627782,Wayne Selden,1610612741.0,Chicago,Bulls,CHI,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,530,1,1,4,8:55 PM,9:00,,,Sampson 25' 3PT Jump Shot (14 PTS) (Sampson 1 AST),88 - 93,5,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,532,2,5,4,8:55 PM,8:38,MISS Dekker 1' Layup,,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,533,4,0,4,8:55 PM,8:35,Bryant REBOUND (Off:2 Def:7),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,534,1,107,4,8:55 PM,8:35,Bryant 1' Tip Dunk Shot (10 PTS),,,88 - 95,7,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,535,1,1,4,8:55 PM,8:21,,,Arcidiacono 10' Jump Shot (8 PTS),90 - 95,5,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,536,6,2,4,8:55 PM,8:21,Randle S.FOUL (P1.T1) (T.Washington),,,,,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,538,3,10,4,8:56 PM,8:21,,,Arcidiacono Free Throw 1 of 1 (9 PTS),91 - 95,4,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,539,2,9,4,8:56 PM,8:00,MISS Randle 1' Driving Dunk,,,,,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,540,4,0,4,8:56 PM,7:58,,,Alkins REBOUND (Off:0 Def:3),,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,541,1,50,4,8:56 PM,7:56,,,Felicio 1' Running Dunk (4 PTS) (Arcidiacono 4 AST),93 - 95,2,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,543,6,2,4,8:56 PM,7:56,McRae S.FOUL (P3.T2) (S.Wall),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,545,3,10,4,8:57 PM,7:56,,,Felicio Free Throw 1 of 1 (5 PTS),94 - 95,1,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,546,1,6,4,8:57 PM,7:44,Randle 2' Driving Layup (7 PTS),,,94 - 97,3,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,547,6,2,4,8:57 PM,7:44,,,Arcidiacono S.FOUL (P1.T1) (H.Workman),,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,549,3,10,4,8:57 PM,7:44,MISS Randle Free Throw 1 of 1,,,,,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,550,4,0,4,8:57 PM,7:42,,,Sampson REBOUND (Off:3 Def:6),,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,551,1,101,4,8:58 PM,7:32,,,Arcidiacono 15' Driving Floating Jump Shot (11 PTS),96 - 97,1,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,552,6,1,4,8:58 PM,7:22,,,Sampson P.FOUL (P2.T2) (T.Washington),,,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,554,1,108,4,8:58 PM,7:15,Bryant 1' Cutting Dunk Shot (12 PTS) (Randle 3 AST),,,96 - 99,3,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,556,2,79,4,8:58 PM,6:57,,,MISS Alkins 14' Pullup Jump Shot,,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,557,4,0,4,8:59 PM,6:54,,,Arcidiacono REBOUND (Off:1 Def:4),,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,559,1,3,4,8:59 PM,6:43,,,Sampson 4' Hook Shot (16 PTS) (Alkins 3 AST),98 - 99,1,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,561,2,79,4,8:59 PM,6:30,MISS Randle 26' 3PT Pullup Jump Shot,,,,,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,562,4,0,4,8:59 PM,6:26,,,Alkins REBOUND (Off:0 Def:4),,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,563,2,6,4,9:00 PM,6:12,,,MISS Sampson 8' Driving Layup,,,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,564,4,0,4,9:00 PM,6:10,Bryant REBOUND (Off:2 Def:8),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,565,1,5,4,9:00 PM,6:04,Bryant 1' Layup (14 PTS) (McRae 3 AST),,,98 - 101,3,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,567,6,2,4,9:00 PM,6:04,,,Felicio S.FOUL (P1.T3) (T.Washington),,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,569,8,0,4,9:00 PM,6:04,,,SUB: Lemon Jr. FOR Sampson,,,5,1629102,Brandon Sampson,1610612741.0,Chicago,Bulls,CHI,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,570,8,0,4,9:00 PM,6:04,,,SUB: Harrison FOR Arcidiacono,,,5,1627853,Ryan Arcidiacono,1610612741.0,Chicago,Bulls,CHI,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,573,3,10,4,9:00 PM,6:04,Bryant Free Throw 1 of 1 (15 PTS),,,98 - 102,4,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,574,1,75,4,9:01 PM,5:40,,,Lemon Jr. 2' Driving Finger Roll Layup (18 PTS) (Felicio 1 AST),100 - 102,2,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,576,9,1,4,9:01 PM,5:39,WIZARDS Timeout: Regular (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,577,2,79,4,9:04 PM,5:18,MISS McRae 31' 3PT Pullup Jump Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,578,4,0,4,9:04 PM,5:14,,,Felicio REBOUND (Off:0 Def:5),,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,579,2,6,4,9:04 PM,5:02,,,MISS Sampson 4' Driving Layup,,,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,580,4,0,4,9:04 PM,5:00,Bryant REBOUND (Off:2 Def:9),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,581,2,1,4,9:05 PM,4:44,MISS Brown Jr. 26' 3PT Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,582,4,0,4,9:05 PM,4:42,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,584,1,5,4,9:05 PM,4:35,Randle 3' Layup (9 PTS) (Bryant 4 AST),,,100 - 104,4,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,585,2,1,4,9:05 PM,4:21,,,MISS Alkins  3PT Jump Shot,,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,586,4,0,4,9:05 PM,4:15,Bryant REBOUND (Off:2 Def:10),,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,587,2,1,4,9:05 PM,4:02,MISS Dekker 27' 3PT Jump Shot,,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,588,4,0,4,9:06 PM,3:57,,,Alkins REBOUND (Off:0 Def:5),,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,589,1,3,4,9:06 PM,3:37,,,Sampson 10' Hook Shot (18 PTS) (Lemon Jr. 6 AST),102 - 104,2,5,203960,JaKarr Sampson,1610612741.0,Chicago,Bulls,CHI,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,591,1,98,4,9:06 PM,3:24,Bryant 2' Cutting Layup Shot (17 PTS) (McRae 4 AST),,,102 - 106,4,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,593,1,75,4,9:06 PM,3:14,,,Lemon Jr. 1' Driving Finger Roll Layup (20 PTS),104 - 106,2,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,594,9,1,4,9:06 PM,3:14,WIZARDS Timeout: Regular (Full 5 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,595,1,98,4,9:08 PM,2:54,Bryant 2' Cutting Layup Shot (19 PTS) (McRae 5 AST),,,104 - 108,4,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,597,6,2,4,9:08 PM,2:54,,,Alkins S.FOUL (P2.T4) (T.Washington),,,5,1628959,Rawle Alkins,1610612741.0,Chicago,Bulls,CHI,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,599,3,10,4,9:09 PM,2:54,Bryant Free Throw 1 of 1 (20 PTS),,,104 - 109,5,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,600,2,101,4,9:09 PM,2:32,,,MISS Lemon Jr. 11' Driving Floating Jump Shot,,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,601,4,0,4,9:09 PM,2:30,,,Felicio REBOUND (Off:1 Def:5),,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,602,6,1,4,9:09 PM,2:30,Dekker P.FOUL (P3.T3) (H.Workman),,,,,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,604,1,1,4,9:10 PM,2:23,,,Harrison 26' 3PT Jump Shot (11 PTS) (Lemon Jr. 7 AST),107 - 109,2,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,606,2,102,4,9:10 PM,2:02,MISS Brown Jr. 8' Driving Floating Bank Jump Shot,,,,,4,1628972,Troy Brown Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,607,4,0,4,9:10 PM,2:00,,,Felicio REBOUND (Off:1 Def:6),,,5,1626245,Cristiano Felicio,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,608,1,75,4,9:10 PM,1:45,,,Harrison 7' Driving Finger Roll Layup (13 PTS) (Lemon Jr. 8 AST),109 - 109,TIE,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0021801167,610,1,1,4,9:11 PM,1:32,Dekker 26' 3PT Jump Shot (14 PTS) (Bryant 5 AST),,,109 - 112,3,4,1626155,Sam Dekker,1610612764.0,Washington,Wizards,WAS,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0021801167,612,2,6,4,9:11 PM,1:22,Bryant BLOCK (2 BLK),,MISS Lemon Jr. 4' Driving Layup,,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0
+0021801167,614,4,0,4,9:11 PM,1:22,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,616,18,1,4,9:11 PM,1:22,,,,109 - 112,3,0,615,,,,,,0,0,,,,,,1,0,,,,,,0
+0021801167,618,5,39,4,9:15 PM,1:02,McRae Step Out of Bounds Turnover (P2.T12),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0021801167,619,1,6,4,9:15 PM,0:55,,,Harrison 2' Driving Layup (15 PTS),111 - 112,1,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,621,2,6,4,9:15 PM,0:41,MISS Bryant 7' Driving Layup,,,,,4,1628418,Thomas Bryant,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,622,4,0,4,9:16 PM,0:38,,,Lemon Jr. REBOUND (Off:0 Def:3),,,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,623,9,1,4,9:16 PM,0:36,,,Bulls Timeout: Regular (Reg.5 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,624,1,6,4,9:17 PM,0:30,,,Lemon Jr. 2' Driving Layup (22 PTS),113 - 112,-1,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,629,2,79,4,9:18 PM,0:14,MISS McRae 6' Pullup Jump Shot,,Harrison BLOCK (2 BLK),,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,0
+0021801167,631,4,0,4,9:18 PM,0:14,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,626,9,1,4,9:18 PM,0:14,WIZARDS Timeout: Regular (Full 6 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,627,6,2,4,9:19 PM,0:12,,,Harrison S.FOUL (P5.PN) (H.Workman),,,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0021801167,632,3,11,4,9:20 PM,0:12,Randle Free Throw 1 of 2 (10 PTS),,,113 - 113,TIE,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,633,3,12,4,9:20 PM,0:12,Randle Free Throw 2 of 2 (11 PTS),,,113 - 114,1,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,634,9,1,4,9:20 PM,0:12,,,Bulls Timeout: Regular (Reg.6 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,635,6,28,4,9:22 PM,0:06,McRae Personal Take Foul (P4.T4) (T.Washington),,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,5,1627885,Shaquille Harrison,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,637,6,2,4,9:22 PM,0:01,Randle S.FOUL (P2.PN) (H.Workman),,,,,4,1626184,Chasson Randle,1610612764.0,Washington,Wizards,WAS,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0021801167,639,3,11,4,9:23 PM,0:01,,,Lemon Jr. Free Throw 1 of 2 (23 PTS),114 - 114,TIE,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,640,3,12,4,9:23 PM,0:01,,,Lemon Jr. Free Throw 2 of 2 (24 PTS),115 - 114,-1,5,1627215,Walter Lemon Jr.,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0021801167,641,9,1,4,9:24 PM,0:01,WIZARDS Timeout: Regular (Full 7 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,642,2,1,4,9:25 PM,0:00,MISS McRae 27' 3PT Jump Shot,,,,,4,203895,Jordan McRae,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0021801167,643,4,0,4,9:25 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0021801167,644,13,0,4,9:26 PM,0:00,,,,115 - 114,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

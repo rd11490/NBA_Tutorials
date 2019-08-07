@@ -26,6 +26,7 @@ play_by_play[home_description] = play_by_play[home_description].fillna("")
 play_by_play[neutral_description] = play_by_play[home_description].fillna("")
 play_by_play[away_description] = play_by_play[away_description].fillna("")
 
+
 # We will need to know the game clock at each event later on. Let's take the game clock string (7:34) and convert it into seconds elapsed
 def parse_time_elapsed(time_str, period):
     # Maximum minutes in a period is 12 unless overtime
@@ -148,7 +149,7 @@ possessions = parse_possession(pbp_rows)
 for possession in possessions[:4]:
     print('POSSESSION')
     for p in possession:
-        print(p[home_description], p[neutral_description], p[away_description])
+        print(p[period_column], p[time_elapsed], p[home_description], p[neutral_description], p[away_description])
     print('\n')
 
 
