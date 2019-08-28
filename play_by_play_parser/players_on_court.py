@@ -5,7 +5,7 @@ pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
 # Game Id
-game_id = '0041700404'
+game_id = '0011300115'
 
 # Headers for API Request
 header_data = {
@@ -27,7 +27,7 @@ header_data = {
 
 # Build advanced boxscore url
 def advanced_boxscore_url(game_id, start, end):
-    return 'https://stats.nba.com/stats/boxscoreadvancedv2/?gameId={0}&startPeriod=0&endPeriod=14&startRange={1}&endRange={2}&rangeType=2'.format(
+    return 'https://stats.nba.com/stats/boxscoretraditionalv2/?gameId={0}&startPeriod=0&endPeriod=14&startRange={1}&endRange={2}&rangeType=2'.format(
         game_id, start, end)
 
 

@@ -1,4 +1,6 @@
 # Import pandas, numpy and RidgeCV from sklearn
+import datetime
+
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import RidgeCV
@@ -16,6 +18,7 @@ player_names = pd.read_csv('data/player_names.csv')
 # Filter out 0 possession possessions
 possessions = possessions[possessions['possessions'] > 0]
 
+
 # Build list of unique player ids in the possessions data
 def build_player_list(posessions):
     players = list(
@@ -29,11 +32,23 @@ def build_player_list(posessions):
     players.sort()
     return players
 
+
 # build the list o unique player ids
 player_list = build_player_list(possessions)
 
 # Calculate pts/100 possessions for each possession
-possessions['PointsPerPossession'] = 100 * possessions['points'] / possessions['possessions']
+start_df = datetime.datetime.now()
+possessions['PointsPerPossession'] = 100 * possessions['points'].values / possessions['possessions'].values
+end_df = datetime.datetime.now()
+print('Time to run as Dataframe operation', end_df-start_df)
+
+start_np = datetime.datetime.now()
+possessions['PointsPerPossessionVec'] = 100 * possessions['points'].values / possessions['possessions'].values
+end_np = datetime.datetime.now()
+print('Time to run as Numpy operation', end_np-start_np)
+
+print('Speedup: {0:.2f}x'.format((end_df-start_df).microseconds / (end_np-start_np).microseconds))
+
 
 # Convert the row of player ids into a sparse row for the training matrix:
 # [o_id1, o_id2, .... d_id4, d_id5] -> [0 1 1 0 0 0 1 1 1 -1 0 -1 -1 0 -1 -1 0]
@@ -49,21 +64,22 @@ def map_players(row_in, players):
     p9 = row_in[8]
     p10 = row_in[9]
 
-    rowOut = np.zeros([len(players) * 2])
+    row_out = np.zeros([len(players) * 2])
 
-    rowOut[players.index(p1)] = 1
-    rowOut[players.index(p2)] = 1
-    rowOut[players.index(p3)] = 1
-    rowOut[players.index(p4)] = 1
-    rowOut[players.index(p5)] = 1
+    row_out[players.index(p1)] = 1
+    row_out[players.index(p2)] = 1
+    row_out[players.index(p3)] = 1
+    row_out[players.index(p4)] = 1
+    row_out[players.index(p5)] = 1
 
-    rowOut[players.index(p6) + len(players)] = -1
-    rowOut[players.index(p7) + len(players)] = -1
-    rowOut[players.index(p8) + len(players)] = -1
-    rowOut[players.index(p9) + len(players)] = -1
-    rowOut[players.index(p10) + len(players)] = -1
+    row_out[players.index(p6) + len(players)] = -1
+    row_out[players.index(p7) + len(players)] = -1
+    row_out[players.index(p8) + len(players)] = -1
+    row_out[players.index(p9) + len(players)] = -1
+    row_out[players.index(p10) + len(players)] = -1
 
-    return rowOut
+    return row_out
+
 
 # Break the dataframe into x_train (nxm matrix), y_train (nx1 matrix of target values), and weights (not necessary because all rows will have 1 possession)
 def convert_to_matricies(possessions, name, players):
@@ -71,9 +87,10 @@ def convert_to_matricies(possessions, name, players):
 
     # Convert the columns of player ids into a numpy matrix
     stints_x_base = possessions.as_matrix(columns=['offensePlayer1Id', 'offensePlayer2Id',
-                                                      'offensePlayer3Id', 'offensePlayer4Id', 'offensePlayer5Id',
-                                                      'defensePlayer1Id', 'defensePlayer2Id', 'defensePlayer3Id',
-                                                      'defensePlayer4Id', 'defensePlayer5Id'])
+                                                   'offensePlayer3Id', 'offensePlayer4Id', 'offensePlayer5Id',
+                                                   'defensePlayer1Id', 'defensePlayer2Id', 'defensePlayer3Id',
+                                                   'defensePlayer4Id', 'defensePlayer5Id'])
+
     # Apply our mapping function to the numpy matrix
     stint_X_rows = np.apply_along_axis(map_players, 1, stints_x_base, players)
 
@@ -86,6 +103,7 @@ def convert_to_matricies(possessions, name, players):
     # return matricies and possessions series
     return stint_X_rows, stint_Y_rows, possessions
 
+
 # extract the training data from our possession data frame
 train_x, train_y, possessions_raw = convert_to_matricies(possessions, 'PointsPerPossession', player_list)
 
@@ -93,6 +111,7 @@ train_x, train_y, possessions_raw = convert_to_matricies(possessions, 'PointsPer
 # Convert lambda value to alpha needed for ridge CV
 def lambda_to_alpha(lambda_value, samples):
     return (lambda_value * samples) / 2.0
+
 
 # Convert RidgeCV alpha back into a lambda value
 def alpha_to_lambda(alpha_value, samples):
@@ -161,8 +180,3 @@ results.to_csv('data/rapm.csv')
 
 # print first 30 players
 print(results)
-
-
-
-
-

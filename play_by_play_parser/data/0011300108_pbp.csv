@@ -1,0 +1,443 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300108,0,12,0,1,7:11 PM,12:00,,,,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,1,10,0,1,7:11 PM,12:00,Jump Ball Vucevic vs. Davis: Tip to Holiday,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0
+0011300108,2,5,4,1,7:11 PM,11:45,,,Gordon Traveling Turnover (P1.T1),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011300108,3,1,5,1,7:11 PM,11:35,Harkless 2' Layup (2 PTS) (Oladipo 1 AST),,,0 - 2,2,4,203090,Maurice Harkless,1610612753.0,Orlando,Magic,ORL,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,4,6,2,1,7:12 PM,11:20,Nicholson S.FOUL (P1.T1),,,,,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,5,3,11,1,7:12 PM,11:20,,,Gordon Free Throw 1 of 2 (1 PTS),1 - 2,1,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,7,3,12,1,7:12 PM,11:20,,,Gordon Free Throw 2 of 2 (2 PTS),2 - 2,TIE,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,9,6,1,1,7:13 PM,11:09,,,Holiday P.FOUL (P1.T1),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,10,1,79,1,7:13 PM,10:58,Afflalo 19' Pullup Jump Shot (2 PTS),,,2 - 4,2,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,11,2,1,1,7:13 PM,10:47,,,MISS Gordon 26' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,12,4,0,1,7:13 PM,10:46,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,13,5,40,1,7:14 PM,10:31,Harkless Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,203090,Maurice Harkless,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,14,2,1,1,7:14 PM,10:18,,,MISS Smith 17' Jump Shot,,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,15,4,0,1,7:14 PM,10:17,Afflalo REBOUND (Off:0 Def:1),,,,,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,16,2,3,1,7:14 PM,10:03,MISS Nicholson 6' Hook Shot,,,,,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,17,4,0,1,7:14 PM,10:02,,,Aminu REBOUND (Off:0 Def:1),,,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,18,5,1,1,7:14 PM,9:54,Harkless STEAL (1 STL),,Gordon Bad Pass Turnover (P2.T2),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,4,203090,Maurice Harkless,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,19,2,5,1,7:14 PM,9:50,MISS Harkless 2' Layup,,,,,4,203090,Maurice Harkless,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,21,4,0,1,7:14 PM,9:47,Oladipo REBOUND (Off:1 Def:0),,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,20,2,4,1,7:14 PM,9:47,MISS Oladipo 1' Tip Shot,,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,23,4,0,1,7:14 PM,9:44,Harkless REBOUND (Off:1 Def:0),,,,,4,203090,Maurice Harkless,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,22,1,72,1,7:14 PM,9:44,Harkless 1' Putback Layup (4 PTS),,,2 - 6,4,4,203090,Maurice Harkless,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,24,5,2,1,7:15 PM,9:34,Vucevic STEAL (1 STL),,Holiday Lost Ball Turnover (P1.T3),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,25,2,42,1,7:15 PM,9:28,MISS Afflalo 3' Driving Layup,,Davis BLOCK (1 BLK),,,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0
+0011300108,26,4,0,1,7:15 PM,9:26,,,Gordon REBOUND (Off:0 Def:1),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,27,6,2,1,7:15 PM,9:14,Oladipo S.FOUL (P1.T2),,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,29,3,11,1,7:15 PM,9:14,,,MISS Davis Free Throw 1 of 2,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,30,4,1,1,7:15 PM,9:14,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,31,3,12,1,7:15 PM,9:14,,,Davis Free Throw 2 of 2 (1 PTS),3 - 6,3,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,34,5,4,1,7:16 PM,8:58,Oladipo Traveling Turnover (P1.T2),,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011300108,35,1,5,1,7:16 PM,8:44,,,Aminu 1' Layup (2 PTS),5 - 6,1,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,37,1,1,1,7:17 PM,8:19,Vucevic 18' Jump Shot (2 PTS) (Harkless 1 AST),,,5 - 8,3,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,203090,Maurice Harkless,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,38,1,1,1,7:17 PM,8:09,,,Smith 19' Jump Shot (2 PTS) (Holiday 1 AST),7 - 8,1,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,39,5,21,1,7:17 PM,7:57,Vucevic Palming Turnover (P1.T3),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011300108,40,5,40,1,7:18 PM,7:40,,,Holiday Out of Bounds Lost Ball Turnover (P2.T4),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,41,1,41,1,7:18 PM,7:29,Oladipo 3' Running Layup (2 PTS),,,7 - 10,3,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,42,5,2,1,7:19 PM,7:20,Oladipo STEAL (1 STL),,Holiday Lost Ball Turnover (P3.T5),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,44,5,2,1,7:19 PM,7:20,Oladipo Lost Ball Turnover (P2.T4),,Holiday STEAL (1 STL),,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,43,10,0,1,7:19 PM,7:20,Jump Ball Oladipo vs. Holiday: Tip to Smith,,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,0
+0011300108,45,6,2,1,7:19 PM,7:06,Oladipo S.FOUL (P2.T3),,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,46,3,11,1,7:19 PM,7:06,,,MISS Holiday Free Throw 1 of 2,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,47,4,1,1,7:19 PM,7:06,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,48,3,12,1,7:20 PM,7:06,,,Holiday Free Throw 2 of 2 (1 PTS),8 - 10,2,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,51,2,1,1,7:20 PM,6:48,MISS Afflalo 27' 3PT Jump Shot,,,,,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,52,4,0,1,7:20 PM,6:46,,,Aminu REBOUND (Off:0 Def:2),,,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,53,1,1,1,7:20 PM,6:37,,,Davis 16' Jump Shot (3 PTS),10 - 10,TIE,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,54,6,1,1,7:20 PM,6:31,,,Davis P.FOUL (P1.T2),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,55,8,0,1,7:21 PM,6:31,,,SUB: Evans FOR Aminu,,,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,56,2,1,1,7:21 PM,6:16,MISS Oladipo 28' 3PT Jump Shot,,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,57,4,0,1,7:21 PM,6:15,,,Smith REBOUND (Off:0 Def:1),,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,58,1,1,1,7:21 PM,5:55,,,Gordon 27' 3PT Jump Shot (5 PTS) (Holiday 2 AST),13 - 10,-3,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,59,2,1,1,7:22 PM,5:37,MISS Oladipo 24' 3PT Jump Shot,,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,60,4,0,1,7:22 PM,5:36,,,Evans REBOUND (Off:0 Def:1),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,61,1,1,1,7:22 PM,5:26,,,Holiday 26' 3PT Jump Shot (4 PTS) (Smith 1 AST),16 - 10,-6,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,62,9,1,1,7:22 PM,5:19,MAGIC Timeout: Regular (Full 1 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,64,8,0,1,7:24 PM,5:19,,,SUB: Anderson FOR Smith,,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,66,2,86,1,7:25 PM,5:03,MISS Afflalo 14' Turnaround Fadeaway Shot,,Holiday BLOCK (1 BLK),,,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0
+0011300108,67,4,0,1,7:25 PM,5:00,,,Holiday REBOUND (Off:0 Def:1),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,68,6,2,1,7:25 PM,4:59,Oladipo S.FOUL (P3.T4),,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,69,3,11,1,7:25 PM,4:59,,,Gordon Free Throw 1 of 2 (6 PTS),17 - 10,-7,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,71,3,12,1,7:25 PM,4:59,,,Gordon Free Throw 2 of 2 (7 PTS),18 - 10,-8,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,73,2,1,1,7:26 PM,4:40,MISS Oladipo 25' 3PT Jump Shot,,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,74,4,0,1,7:26 PM,4:38,,,Anderson REBOUND (Off:0 Def:1),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,75,2,79,1,7:26 PM,4:25,,,MISS Anderson 22' Pullup Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,76,4,0,1,7:26 PM,4:24,Afflalo REBOUND (Off:0 Def:2),,,,,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,77,1,1,1,7:27 PM,4:09,Vucevic 15' Jump Shot (4 PTS) (Afflalo 1 AST),,,18 - 12,-6,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,78,1,42,1,7:27 PM,3:49,,,Gordon  Driving Layup (9 PTS),20 - 12,-8,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,79,2,79,1,7:27 PM,3:34,MISS Oladipo 16' Pullup Jump Shot,,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,80,4,0,1,7:27 PM,3:33,,,Anderson REBOUND (Off:0 Def:2),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,81,1,7,1,7:27 PM,3:26,,,Davis  Dunk (5 PTS) (Holiday 3 AST),22 - 12,-10,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,82,5,21,1,7:28 PM,3:13,Vucevic Palming Turnover (P2.T5),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011300108,83,2,1,1,7:28 PM,2:57,,,MISS Evans 21' Jump Shot,,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,84,4,0,1,7:28 PM,2:54,,,Davis REBOUND (Off:1 Def:0),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,85,1,42,1,7:28 PM,2:51,,,Evans 2' Driving Layup (2 PTS) (Davis 1 AST),24 - 12,-12,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,86,2,5,1,7:28 PM,2:36,MISS Nicholson 1' Layup,,,,,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,87,4,0,1,7:28 PM,2:34,,,Anderson REBOUND (Off:0 Def:3),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,88,2,1,1,7:28 PM,2:26,,,MISS Anderson 27' 3PT Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,89,4,0,1,7:28 PM,2:25,Vucevic REBOUND (Off:0 Def:1),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,91,9,1,1,7:29 PM,2:13,,,Pelicans Timeout: Regular (Reg.1 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,93,8,0,1,7:31 PM,2:13,,,SUB: Morrow FOR Gordon,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,95,5,11,1,7:32 PM,2:01,MAGIC Turnover: Shot Clock (T#6),,,,,2,1610612753,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300108,96,1,1,1,7:32 PM,1:46,,,Davis 18' Jump Shot (7 PTS),26 - 12,-14,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,97,6,2,1,7:32 PM,1:30,,,Anderson S.FOUL (P1.T3),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,98,3,11,1,7:33 PM,1:30,Oladipo Free Throw 1 of 2 (3 PTS),,,26 - 13,-13,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,100,3,12,1,7:33 PM,1:30,Oladipo Free Throw 2 of 2 (4 PTS),,,26 - 14,-12,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,102,5,1,1,7:33 PM,1:12,,,Evans Bad Pass Turnover (P1.T6),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,103,1,66,1,7:34 PM,1:00,Nicholson 7' Jump Bank Shot (2 PTS) (Oladipo 2 AST),,,26 - 16,-10,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,104,1,1,1,7:34 PM,0:44,,,Holiday 27' 3PT Jump Shot (7 PTS),29 - 16,-13,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,105,1,1,1,7:34 PM,0:29,Nicholson  3PT Jump Shot (5 PTS) (Harkless 2 AST),,,29 - 19,-10,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,4,203090,Maurice Harkless,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,106,6,2,1,7:35 PM,0:16,Nicholson S.FOUL (P2.PN),,,,,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,107,3,11,1,7:35 PM,0:16,,,Anderson Free Throw 1 of 2 (1 PTS),30 - 19,-11,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,109,3,12,1,7:35 PM,0:16,,,Anderson Free Throw 2 of 2 (2 PTS),31 - 19,-12,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,111,6,1,1,7:35 PM,0:05,,,Holiday P.FOUL (P2.PN),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,112,3,11,1,7:36 PM,0:05,Oladipo Free Throw 1 of 2 (5 PTS),,,31 - 20,-11,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,114,3,12,1,7:36 PM,0:05,Oladipo Free Throw 2 of 2 (6 PTS),,,31 - 21,-10,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,116,2,42,1,7:36 PM,0:00,Vucevic BLOCK (1 BLK),,MISS Holiday 1' Driving Layup,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0
+0011300108,117,4,0,1,7:36 PM,0:00,Oladipo REBOUND (Off:1 Def:1),,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,118,2,1,1,7:36 PM,0:00,MISS Oladipo 60' 3PT Jump Shot,,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,119,4,0,1,7:36 PM,0:00,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,120,13,0,1,7:37 PM,0:00,,,,31 - 21,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,122,12,0,2,7:39 PM,12:00,,,,31 - 21,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,123,1,66,2,7:39 PM,11:38,Osby 10' Jump Bank Shot (2 PTS),,,31 - 23,-8,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,124,1,63,2,7:40 PM,11:17,,,Anderson 16' Fadeaway Jumper (4 PTS),33 - 23,-10,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,125,2,1,2,7:40 PM,11:07,MISS Moore 25' 3PT Jump Shot,,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,126,4,0,2,7:40 PM,11:05,Osby REBOUND (Off:1 Def:0),,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,127,1,1,2,7:40 PM,10:47,Moore 24' 3PT Jump Shot (3 PTS) (Price 1 AST),,,33 - 26,-7,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,128,1,1,2,7:41 PM,10:30,,,Smith 17' Jump Shot (4 PTS) (Evans 1 AST),35 - 26,-9,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,129,6,1,2,7:41 PM,10:21,,,Anderson P.FOUL (P2.T1),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,130,6,4,2,7:41 PM,10:13,O'Quinn OFF.Foul (P1),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,131,5,5,2,7:41 PM,10:13,O'Quinn Foul Turnover (P1.T7),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011300108,132,1,1,2,7:42 PM,9:57,,,Morrow 19' Jump Shot (2 PTS) (Roberts 1 AST),37 - 26,-11,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,133,1,1,2,7:42 PM,9:46,Jones 19' Jump Shot (2 PTS) (Price 2 AST),,,37 - 28,-9,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,134,1,1,2,7:42 PM,9:27,,,Morrow 24' 3PT Jump Shot (5 PTS) (Roberts 2 AST),40 - 28,-12,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,135,2,79,2,7:42 PM,9:08,MISS Price 13' Pullup Jump Shot,,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,136,4,0,2,7:42 PM,9:07,,,Evans REBOUND (Off:0 Def:2),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,137,2,1,2,7:43 PM,8:47,,,MISS Anderson 26' 3PT Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,138,4,0,2,7:43 PM,8:46,Price REBOUND (Off:0 Def:1),,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,139,2,1,2,7:43 PM,8:32,MISS Moore 27' 3PT Jump Shot,,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,140,4,0,2,7:43 PM,8:31,,,Smith REBOUND (Off:0 Def:2),,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,141,9,1,2,7:43 PM,8:26,,,Pelicans Timeout: Regular (Reg.2 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,143,8,0,2,7:45 PM,8:26,,,SUB: Rivers FOR Evans,,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,144,8,0,2,7:45 PM,8:26,,,SUB: Stiemsma FOR Anderson,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,146,5,12,2,7:46 PM,8:26,,,Pelicans Turnover: Inbound (T#7),,,3,1610612740,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300108,147,2,1,2,7:46 PM,8:13,MISS Osby 24' 3PT Jump Shot,,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,148,4,0,2,7:46 PM,8:13,O'Quinn REBOUND (Off:1 Def:0),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,149,6,1,2,7:46 PM,8:13,,,Smith P.FOUL (P1.T2),,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,151,2,5,2,7:47 PM,7:48,MISS Jones  Layup,,Smith BLOCK (1 BLK),,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,0
+0011300108,152,4,0,2,7:47 PM,7:45,Jones REBOUND (Off:1 Def:0),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,153,2,5,2,7:47 PM,7:44,MISS Jones 1' Layup,,Stiemsma BLOCK (1 BLK),,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,0
+0011300108,154,4,0,2,7:47 PM,7:42,Jones REBOUND (Off:2 Def:0),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,155,2,1,2,7:47 PM,7:23,MISS Moore 7' Jump Shot,,Stiemsma BLOCK (2 BLK),,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,0
+0011300108,167,4,0,2,7:47 PM,7:22,,,Stiemsma REBOUND (Off:0 Def:1),,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,163,5,1,2,7:47 PM,7:21,Moore STEAL (1 STL),,Stiemsma Bad Pass Turnover (P1.T8),,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,157,2,1,2,7:47 PM,7:18,MISS Moore  3PT Jump Shot,,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,158,4,0,2,7:48 PM,7:16,Price REBOUND (Off:1 Def:1),,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,159,1,7,2,7:48 PM,7:13,O'Quinn 1' Dunk (2 PTS) (Price 3 AST),,,40 - 30,-10,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,161,2,1,2,7:48 PM,6:54,,,MISS Rivers 15' Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,162,4,0,2,7:48 PM,6:53,Osby REBOUND (Off:1 Def:1),,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,164,5,40,2,7:48 PM,6:42,O'Quinn Out of Bounds Lost Ball Turnover (P2.T8),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,165,6,4,2,7:49 PM,6:26,,,Smith OFF.Foul (P2),,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,166,5,5,2,7:49 PM,6:26,,,Smith Foul Turnover (P1.T9),,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011300108,168,8,0,2,7:49 PM,6:26,SUB: Nicholson FOR Price,,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,169,8,0,2,7:49 PM,6:26,SUB: Harkless FOR O'Quinn,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,203090,Maurice Harkless,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,170,8,0,2,7:49 PM,6:26,SUB: Vucevic FOR Moore,,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,171,8,0,2,7:49 PM,6:26,SUB: Afflalo FOR Osby,,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,172,8,0,2,7:49 PM,6:26,SUB: Oladipo FOR Jones,,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,173,6,1,2,7:49 PM,6:23,,,Smith P.FOUL (P3.T3),,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,174,8,0,2,7:49 PM,6:23,,,SUB: Thomas FOR Smith,,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,175,6,4,2,7:50 PM,6:21,Vucevic OFF.Foul (P1),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,176,5,5,2,7:50 PM,6:21,Vucevic Foul Turnover (P3.T9),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011300108,177,2,1,2,7:50 PM,6:13,,,MISS Morrow 26' 3PT Jump Shot,,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,178,4,0,2,7:50 PM,6:12,Vucevic REBOUND (Off:0 Def:2),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,179,2,1,2,7:50 PM,6:02,MISS Vucevic 14' Jump Shot,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,180,4,0,2,7:50 PM,6:01,,,Rivers REBOUND (Off:0 Def:1),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,182,2,1,2,7:50 PM,5:38,,,MISS Morrow 16' Jump Shot,,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,183,4,0,2,7:50 PM,5:37,Oladipo REBOUND (Off:1 Def:2),,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,184,1,1,2,7:51 PM,5:21,Afflalo 5' Jump Shot (4 PTS),,,40 - 32,-8,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,185,2,1,2,7:51 PM,5:07,,,MISS Morrow 24' 3PT Jump Shot,,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,186,4,0,2,7:51 PM,5:05,Vucevic REBOUND (Off:0 Def:3),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,187,2,79,2,7:51 PM,4:58,MISS Afflalo 15' Pullup Jump Shot,,,,,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,188,4,0,2,7:51 PM,4:56,,,Morrow REBOUND (Off:0 Def:1),,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,189,1,86,2,7:51 PM,4:39,,,Roberts 9' Turnaround Fadeaway (2 PTS) (Morrow 1 AST),42 - 32,-10,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,190,6,1,2,7:51 PM,4:32,,,Rivers P.FOUL (P1.T4),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,191,9,4,2,7:52 PM,4:32,,,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,194,8,0,2,7:54 PM,4:32,,,SUB: Aminu FOR Morrow,,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,195,1,1,2,7:54 PM,4:23,Afflalo 16' Jump Shot (6 PTS),,,42 - 34,-8,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,196,2,1,2,7:55 PM,3:58,,,MISS Aminu 17' Jump Shot,,,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,197,4,0,2,7:55 PM,3:57,Vucevic REBOUND (Off:0 Def:4),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,198,2,42,2,7:55 PM,3:48,MISS Oladipo 2' Driving Layup,,,,,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,200,4,0,2,7:55 PM,3:45,Vucevic REBOUND (Off:1 Def:4),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,199,1,72,2,7:55 PM,3:45,Vucevic 2' Putback Layup (6 PTS),,,42 - 36,-6,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,201,6,4,2,7:55 PM,3:27,,,Stiemsma OFF.Foul (P1),,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,202,5,5,2,7:55 PM,3:27,,,Stiemsma Foul Turnover (P2.T10),,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011300108,203,1,1,2,7:56 PM,3:11,Vucevic 17' Jump Shot (8 PTS) (Afflalo 2 AST),,,42 - 38,-4,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,204,1,1,2,7:56 PM,2:51,,,Roberts 27' 3PT Jump Shot (5 PTS) (Stiemsma 1 AST),45 - 38,-7,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,205,6,1,2,7:56 PM,2:43,,,Thomas P.FOUL (P1.PN),,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,207,9,1,2,7:56 PM,2:43,MAGIC Timeout: Regular (Full 2 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,209,3,11,2,7:59 PM,2:43,MISS Nicholson Free Throw 1 of 2,,,,,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,210,4,1,2,7:59 PM,2:43,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,211,3,12,2,7:59 PM,2:43,Nicholson Free Throw 2 of 2 (6 PTS),,,45 - 39,-6,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,213,5,4,2,7:59 PM,2:32,,,Thomas Traveling Turnover (P1.T11),,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011300108,214,6,1,2,8:00 PM,2:17,,,Roberts P.FOUL (P1.PN),,,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,215,3,11,2,8:00 PM,2:17,Oladipo Free Throw 1 of 2 (7 PTS),,,45 - 40,-5,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,217,8,0,2,8:00 PM,2:17,,,SUB: Onuaku FOR Stiemsma,,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,218,3,12,2,8:00 PM,2:17,Oladipo Free Throw 2 of 2 (8 PTS),,,45 - 41,-4,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,220,2,1,2,8:00 PM,2:03,,,MISS Roberts 20' Jump Shot,,,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,221,4,0,2,8:00 PM,2:01,Nicholson REBOUND (Off:0 Def:1),,,,,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,222,2,67,2,8:01 PM,1:48,MISS Vucevic 8' Hook Bank Shot,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,223,4,0,2,8:01 PM,1:47,,,Roberts REBOUND (Off:0 Def:1),,,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,224,2,5,2,8:01 PM,1:30,,,MISS Onuaku 2' Layup,,,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,225,4,0,2,8:01 PM,1:28,Vucevic REBOUND (Off:1 Def:5),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,226,2,79,2,8:01 PM,1:10,MISS Nicholson 14' Pullup Jump Shot,,,,,4,203094,Andrew Nicholson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,227,4,0,2,8:01 PM,1:09,Vucevic REBOUND (Off:2 Def:5),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,228,1,44,2,8:01 PM,1:08,Vucevic 1' Reverse Layup (10 PTS),,,45 - 43,-2,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,229,5,1,2,8:02 PM,0:43,Oladipo STEAL (2 STL),,Aminu Bad Pass Turnover (P1.T12),,,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,230,2,5,2,8:02 PM,0:38,MISS Afflalo 1' Layup,,,,,4,201167,Arron Afflalo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,231,4,0,2,8:02 PM,0:38,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,232,5,2,2,8:02 PM,0:29,Vucevic Lost Ball Turnover (P4.T10),,Thomas STEAL (1 STL),,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,233,2,84,2,8:03 PM,0:10,,,MISS Roberts 5' Running Bank Shot,,,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,234,4,0,2,8:03 PM,0:08,,,Onuaku REBOUND (Off:1 Def:0),,,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,235,5,11,2,8:03 PM,0:08,,,Pelicans Turnover: Shot Clock (T#13),,,3,1610612740,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300108,236,1,42,2,8:03 PM,0:01,Oladipo 2' Driving Layup (10 PTS),,,45 - 45,TIE,4,203506,Victor Oladipo,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,237,2,1,2,8:03 PM,0:00,,,MISS Roberts 53' 3PT Jump Shot,,,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,239,4,0,2,8:03 PM,0:00,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,240,13,0,2,8:03 PM,0:00,,,,45 - 45,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,242,12,0,3,8:19 PM,12:00,,,,45 - 45,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,243,2,1,3,8:19 PM,11:45,MISS O'Quinn 16' Jump Shot,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,245,4,0,3,8:19 PM,11:43,Jones REBOUND (Off:3 Def:0),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,244,2,4,3,8:19 PM,11:43,MISS Jones 2' Tip Shot,,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,246,4,0,3,8:19 PM,11:43,Jones REBOUND (Off:4 Def:0),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,248,5,1,3,8:20 PM,11:34,Price Bad Pass Turnover (P1.T11),,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,249,2,1,3,8:20 PM,11:17,,,MISS Holiday 26' 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,250,4,0,3,8:20 PM,11:16,O'Quinn REBOUND (Off:1 Def:1),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,251,5,2,3,8:20 PM,11:08,Price Lost Ball Turnover (P2.T12),,Aminu STEAL (1 STL),,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,252,1,7,3,8:20 PM,11:05,,,Aminu  Dunk (4 PTS),47 - 45,-2,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,253,6,2,3,8:21 PM,10:48,,,Aminu S.FOUL (P1.T1),,,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,254,3,11,3,8:21 PM,10:48,Price Free Throw 1 of 2 (1 PTS),,,47 - 46,-1,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,256,3,12,3,8:21 PM,10:48,Price Free Throw 2 of 2 (2 PTS),,,47 - 47,TIE,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,258,1,1,3,8:22 PM,10:34,,,Holiday 20' Jump Shot (9 PTS) (Gordon 1 AST),49 - 47,-2,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,259,2,78,3,8:22 PM,10:11,MISS Moore 10' Floating Jump Shot,,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,260,4,0,3,8:22 PM,10:10,,,Aminu REBOUND (Off:0 Def:3),,,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,261,1,1,3,8:22 PM,10:02,,,Gordon 27' 3PT Jump Shot (12 PTS),52 - 47,-5,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,263,2,1,3,8:23 PM,9:36,MISS Moore 12' Jump Shot,,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,264,4,0,3,8:23 PM,9:34,Jones REBOUND (Off:5 Def:0),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,265,6,2,3,8:23 PM,9:26,,,Holiday S.FOUL (P3.T2),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,266,3,11,3,8:23 PM,9:26,MISS O'Quinn Free Throw 1 of 2,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,267,4,1,3,8:23 PM,9:26,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,268,3,12,3,8:23 PM,9:26,O'Quinn Free Throw 2 of 2 (3 PTS),,,52 - 48,-4,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,270,6,2,3,8:24 PM,9:10,Moore S.FOUL (P1.T1),,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,271,3,11,3,8:24 PM,9:10,,,Davis Free Throw 1 of 2 (8 PTS),53 - 48,-5,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,273,8,0,3,8:24 PM,9:10,,,SUB: Roberts FOR Holiday,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,274,8,0,3,8:25 PM,9:10,,,SUB: Evans FOR Gordon,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,275,3,12,3,8:25 PM,9:10,,,Davis Free Throw 2 of 2 (9 PTS),54 - 48,-6,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,277,1,3,3,8:25 PM,8:58,Jones 7' Hook Shot (4 PTS) (Moore 1 AST),,,54 - 50,-4,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,278,2,1,3,8:25 PM,8:38,,,MISS Smith 16' Jump Shot,,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,279,4,0,3,8:25 PM,8:37,Joseph REBOUND (Off:0 Def:1),,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,280,5,1,3,8:25 PM,8:28,O'Quinn Bad Pass Turnover (P3.T13),,Aminu STEAL (2 STL),,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,281,1,8,3,8:26 PM,8:23,,,Aminu 2' Slam Dunk (6 PTS) (Evans 2 AST),56 - 50,-6,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,282,2,65,3,8:26 PM,8:06,MISS Jones 6' Jump Hook Shot,,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,283,4,0,3,8:26 PM,8:04,,,Roberts REBOUND (Off:0 Def:2),,,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,284,1,78,3,8:26 PM,7:56,,,Roberts 7' Floating Jump Shot (7 PTS),58 - 50,-8,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,285,2,1,3,8:26 PM,7:45,MISS Joseph 27' 3PT Jump Shot,,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,286,4,0,3,8:26 PM,7:44,,,Evans REBOUND (Off:0 Def:3),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,287,6,1,3,8:26 PM,7:35,Jones P.FOUL (P1.T2),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,288,8,0,3,8:27 PM,7:35,,,SUB: Stiemsma FOR Davis,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,289,8,0,3,8:27 PM,7:35,,,SUB: Thomas FOR Smith,,,5,201160,Jason Smith,1610612740.0,New Orleans,Pelicans,NOP,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,290,8,0,3,8:27 PM,7:35,SUB: Gladness FOR O'Quinn,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,291,1,42,3,8:27 PM,7:26,,,Evans 2' Driving Layup (4 PTS),60 - 50,-10,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,292,2,1,3,8:27 PM,7:09,MISS Moore 8' Jump Shot,,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,293,4,0,3,8:27 PM,7:08,,,Aminu REBOUND (Off:0 Def:4),,,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,294,5,1,3,8:28 PM,6:50,Joseph STEAL (1 STL),,Evans Bad Pass Turnover (P2.T14),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,295,2,1,3,8:28 PM,6:34,MISS Gladness 10' Jump Shot,,,,,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,296,4,0,3,8:28 PM,6:33,Jones REBOUND (Off:6 Def:0),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,297,6,2,3,8:28 PM,6:32,,,Stiemsma S.FOUL (P2.T3),,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,298,3,11,3,8:28 PM,6:32,MISS Jones Free Throw 1 of 2,,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,299,4,1,3,8:28 PM,6:32,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,300,3,12,3,8:28 PM,6:32,Jones Free Throw 2 of 2 (5 PTS),,,60 - 51,-9,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,302,6,17,3,8:29 PM,6:18,MAGIC T.Foul (Def. 3 Sec Gladness ),,,,,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011300108,303,3,16,3,8:29 PM,6:18,,,Roberts Free Throw Technical (8 PTS),61 - 51,-10,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,305,8,0,3,8:29 PM,6:18,SUB: O'Quinn FOR Jones,,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,306,8,0,3,8:29 PM,6:18,SUB: Harris FOR Moore,,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,307,1,1,3,8:30 PM,6:02,,,Aminu 26' 3PT Jump Shot (9 PTS),64 - 51,-13,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,308,2,1,3,8:30 PM,5:46,MISS Joseph 21' Jump Shot,,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,309,4,0,3,8:30 PM,5:45,,,Evans REBOUND (Off:0 Def:4),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,310,1,1,3,8:30 PM,5:32,,,Roberts 29' 3PT Jump Shot (11 PTS) (Evans 3 AST),67 - 51,-16,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,311,9,1,3,8:30 PM,5:27,MAGIC Timeout: Regular (Full 3 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,312,8,0,3,8:32 PM,5:27,SUB: Moore FOR Price,,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,314,5,4,3,8:33 PM,5:18,Joseph Traveling Turnover (P1.T14),,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011300108,315,6,2,3,8:33 PM,5:06,Joseph S.FOUL (P1.T3),,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,316,3,11,3,8:34 PM,5:06,,,Aminu Free Throw 1 of 2 (10 PTS),68 - 51,-17,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,318,3,12,3,8:34 PM,5:06,,,Aminu Free Throw 2 of 2 (11 PTS),69 - 51,-18,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,320,2,1,3,8:34 PM,4:52,MISS Gladness 13' Jump Shot,,,,,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,321,4,0,3,8:34 PM,4:51,O'Quinn REBOUND (Off:2 Def:1),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,322,1,1,3,8:34 PM,4:47,Harris 26' 3PT Jump Shot (3 PTS) (O'Quinn 1 AST),,,69 - 54,-15,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,323,7,1,3,8:34 PM,4:46,MAGIC Violation: Delay of game Violation,,,,,2,1610612753,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300108,324,1,1,3,8:35 PM,4:31,,,Evans 16' Jump Shot (6 PTS),71 - 54,-17,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,325,2,1,3,8:35 PM,4:05,MISS Joseph 28' 3PT Jump Shot,,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,326,4,0,3,8:35 PM,4:03,,,Stiemsma REBOUND (Off:0 Def:2),,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,327,2,1,3,8:36 PM,3:42,,,MISS Stiemsma 14' Jump Shot,,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,328,4,0,3,8:36 PM,3:41,O'Quinn REBOUND (Off:2 Def:2),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,329,2,1,3,8:36 PM,3:27,MISS Harris 27' 3PT Jump Shot,,,,,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,330,4,0,3,8:36 PM,3:25,,,Stiemsma REBOUND (Off:0 Def:3),,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,331,2,5,3,8:36 PM,3:16,Harris BLOCK (1 BLK),,MISS Thomas 1' Layup,,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0
+0011300108,332,4,0,3,8:36 PM,3:14,O'Quinn REBOUND (Off:2 Def:3),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,333,2,5,3,8:36 PM,3:02,MISS Moore 3' Layup,,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,335,4,0,3,8:36 PM,3:00,Moore REBOUND (Off:1 Def:0),,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,334,2,5,3,8:36 PM,3:00,MISS Moore 1' Layup,,Aminu BLOCK (1 BLK),,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,0
+0011300108,336,4,0,3,8:36 PM,2:57,,,Thomas REBOUND (Off:0 Def:1),,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,337,9,1,3,8:36 PM,2:56,,,Pelicans Timeout: Regular (Reg.3 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,339,8,0,3,8:38 PM,2:56,,,SUB: Withey FOR Aminu,,,5,202329,Al-Farouq Aminu,1610612740.0,New Orleans,Pelicans,NOP,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,340,8,0,3,8:38 PM,2:56,,,SUB: Rivers FOR Evans,,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,341,8,0,3,8:38 PM,2:56,,,SUB: Morrow FOR Stiemsma,,,5,201880,Greg Stiemsma,1610612740.0,New Orleans,Pelicans,NOP,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,342,8,0,3,8:39 PM,2:56,SUB: Price FOR O'Quinn,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,343,8,0,3,8:39 PM,2:56,SUB: Osby FOR Moore,,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,344,5,4,3,8:39 PM,2:49,,,Rivers Traveling Turnover (P1.T15),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011300108,345,5,39,3,8:39 PM,2:32,Gladness Step Out of Bounds Turnover (P1.T15),,,,,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,346,6,1,3,8:40 PM,2:18,Joseph P.FOUL (P2.T4),,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,347,2,56,3,8:40 PM,2:03,,,MISS Morrow 6' Running Hook Shot,,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,348,4,0,3,8:40 PM,2:02,Joseph REBOUND (Off:0 Def:2),,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,349,2,1,3,8:41 PM,1:39,MISS Harris 9' Jump Shot,,,,,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,350,4,0,3,8:41 PM,1:36,,,Rivers REBOUND (Off:0 Def:2),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,351,6,1,3,8:41 PM,1:33,Joseph P.FOUL (P3.PN),,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,352,3,11,3,8:41 PM,1:33,,,Withey Free Throw 1 of 2 (1 PTS),72 - 54,-18,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,354,3,12,3,8:41 PM,1:33,,,Withey Free Throw 2 of 2 (2 PTS),73 - 54,-19,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,356,6,1,3,8:42 PM,1:23,,,Morrow P.FOUL (P1.T4),,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,357,1,63,3,8:42 PM,1:09,Harris 14' Fadeaway Jumper (5 PTS),,,73 - 56,-17,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,358,6,4,3,8:43 PM,0:59,,,Thomas OFF.Foul (P2),,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,359,5,5,3,8:43 PM,0:59,,,Thomas Foul Turnover (P2.T16),,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011300108,360,2,46,3,8:43 PM,0:48,MISS Osby 9' Running Jump Shot,,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,362,4,0,3,8:43 PM,0:45,Gladness REBOUND (Off:1 Def:0),,,,,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,361,1,72,3,8:43 PM,0:45,Gladness 1' Putback Layup (2 PTS),,,73 - 58,-15,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,363,2,42,3,8:43 PM,0:33,,,MISS Rivers 2' Driving Layup,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,364,4,0,3,8:43 PM,0:31,Gladness REBOUND (Off:1 Def:1),,,,,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,365,5,1,3,8:43 PM,0:24,Price Bad Pass Turnover (P3.T16),,Thomas STEAL (2 STL),,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,366,2,78,3,8:44 PM,0:00,,,MISS Rivers 5' Floating Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,367,4,0,3,8:44 PM,0:00,Gladness REBOUND (Off:1 Def:2),,,,,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,368,13,0,3,8:44 PM,0:00,,,,73 - 58,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,371,12,0,4,8:47 PM,12:00,,,,73 - 58,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,372,1,8,4,8:47 PM,11:40,,,Withey  Slam Dunk (4 PTS) (Rivers 1 AST),75 - 58,-17,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,373,5,1,4,8:47 PM,11:27,Moore Bad Pass Turnover (P1.T17),,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,374,6,1,4,8:48 PM,11:27,Price P.FOUL (P1.T1),,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,375,2,42,4,8:48 PM,11:16,,,MISS Rivers 2' Driving Layup,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,376,4,0,4,8:48 PM,11:15,,,Withey REBOUND (Off:1 Def:0),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,377,1,5,4,8:48 PM,11:00,,,Rivers 2' Layup (2 PTS) (Withey 1 AST),77 - 58,-19,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,378,2,5,4,8:48 PM,10:47,MISS Osby 1' Layup,,Onuaku BLOCK (1 BLK),,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,0
+0011300108,379,4,0,4,8:48 PM,10:45,,,Onuaku REBOUND (Off:1 Def:1),,,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,380,6,2,4,8:49 PM,10:37,Jones S.FOUL (P2.T2),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,381,3,11,4,8:49 PM,10:37,,,MISS Onuaku Free Throw 1 of 2,,,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,382,4,1,4,8:49 PM,10:37,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,383,3,12,4,8:49 PM,10:37,,,MISS Onuaku Free Throw 2 of 2,,,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,385,4,0,4,8:49 PM,10:35,Osby REBOUND (Off:1 Def:2),,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,386,6,2,4,8:49 PM,10:28,,,Withey S.FOUL (P1.T1),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,387,3,11,4,8:50 PM,10:28,Osby Free Throw 1 of 2 (3 PTS),,,77 - 59,-18,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,389,3,12,4,8:50 PM,10:28,Osby Free Throw 2 of 2 (4 PTS),,,77 - 60,-17,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,392,6,1,4,8:50 PM,10:22,Price P.FOUL (P2.T3),,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,394,2,1,4,8:51 PM,10:08,,,MISS Withey 16' Jump Shot,,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,395,4,0,4,8:51 PM,10:07,Price REBOUND (Off:1 Def:2),,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,396,6,4,4,8:51 PM,10:03,Jones OFF.Foul (P3),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,397,5,5,4,8:51 PM,10:03,Jones Foul Turnover (P1.T18),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011300108,398,6,26,4,8:51 PM,9:47,,,Thomas Offensive Charge Foul (P3.T2),,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,399,5,5,4,8:51 PM,9:47,,,Thomas Foul Turnover (P3.T17),,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011300108,400,1,1,4,8:52 PM,9:26,Moore 21' Jump Shot (5 PTS) (Price 4 AST),,,77 - 62,-15,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,401,5,40,4,8:52 PM,9:21,,,Rivers Out of Bounds Lost Ball Turnover (P2.T18),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,402,2,58,4,8:53 PM,9:13,MISS Jones 6' Turnaround Hook Shot,,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,403,4,0,4,8:53 PM,9:12,,,Morrow REBOUND (Off:0 Def:2),,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,404,5,2,4,8:53 PM,8:51,Moore STEAL (2 STL),,Rivers Lost Ball Turnover (P3.T19),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,405,1,7,4,8:53 PM,8:46,Price 2' Dunk (4 PTS) (Moore 2 AST),,,77 - 64,-13,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,406,2,3,4,8:54 PM,8:26,Jones BLOCK (1 BLK),,MISS Onuaku 4' Hook Shot,,,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0
+0011300108,407,4,0,4,8:54 PM,8:25,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,409,9,4,4,8:54 PM,8:25,,,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,412,8,0,4,8:56 PM,8:25,SUB: Joseph FOR Moore,,,,,4,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,413,8,0,4,8:56 PM,8:25,SUB: Gladness FOR Jones,,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,414,2,1,4,8:56 PM,8:20,,,MISS Withey 6' Jump Shot,,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,415,4,0,4,8:56 PM,8:18,Joseph REBOUND (Off:0 Def:3),,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,416,2,1,4,8:56 PM,8:11,MISS Harris 28' 3PT Jump Shot,,,,,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,417,4,0,4,8:56 PM,8:10,Osby REBOUND (Off:2 Def:2),,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,418,1,5,4,8:56 PM,8:10,Osby 1' Layup (6 PTS),,,77 - 66,-11,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,419,6,2,4,8:56 PM,8:10,,,Rivers S.FOUL (P2.T3),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,420,3,10,4,8:57 PM,8:10,MISS Osby Free Throw 1 of 1,,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,422,4,0,4,8:57 PM,8:09,,,Thomas REBOUND (Off:0 Def:2),,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,423,2,1,4,8:57 PM,7:52,Harris BLOCK (2 BLK),,MISS Morrow 10' Jump Shot,,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0
+0011300108,424,4,0,4,8:57 PM,7:50,Price REBOUND (Off:1 Def:3),,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,425,2,5,4,8:57 PM,7:39,MISS Harris 2' Layup,,,,,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,426,4,0,4,8:57 PM,7:38,Gladness REBOUND (Off:2 Def:2),,,,,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,427,6,3,4,8:58 PM,7:38,,,Rivers L.B.FOUL (P3.T4),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,429,8,0,4,8:59 PM,7:38,,,SUB: Roberts FOR Rivers,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,431,5,4,4,8:59 PM,7:31,Osby Traveling Turnover (P1.T19),,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011300108,433,6,26,4,9:00 PM,7:12,,,Thomas Offensive Charge Foul (P4.PN),,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,434,5,5,4,9:00 PM,7:12,,,Thomas Foul Turnover (P4.T20),,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011300108,435,2,42,4,9:00 PM,7:05,MISS Price 3' Driving Layup,,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,436,4,0,4,9:00 PM,7:04,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,437,1,1,4,9:01 PM,6:54,,,Morrow 25' 3PT Jump Shot (8 PTS) (Withey 2 AST),80 - 66,-14,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,438,6,2,4,9:01 PM,6:48,,,Onuaku S.FOUL (P1.PN),,,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,439,3,11,4,9:01 PM,6:48,MISS Harris Free Throw 1 of 2,,,,,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,440,4,1,4,9:01 PM,6:48,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,441,3,12,4,9:01 PM,6:48,Harris Free Throw 2 of 2 (6 PTS),,,80 - 67,-13,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,443,1,78,4,9:02 PM,6:30,,,Roberts 6' Floating Jump Shot (13 PTS),82 - 67,-15,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,444,2,1,4,9:02 PM,6:12,MISS Joseph 26' 3PT Jump Shot,,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,445,4,0,4,9:02 PM,6:11,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,446,6,2,4,9:03 PM,5:52,Price S.FOUL (P3.T4),,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,447,9,1,4,9:03 PM,5:52,MAGIC Timeout: Regular (Full 4 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,449,8,0,4,9:05 PM,5:52,SUB: Jones FOR Gladness,,,,,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,450,3,11,4,9:05 PM,5:52,,,Roberts Free Throw 1 of 2 (14 PTS),83 - 67,-16,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,452,3,12,4,9:05 PM,5:52,,,Roberts Free Throw 2 of 2 (15 PTS),84 - 67,-17,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,454,6,11,4,9:06 PM,5:43,,,Onuaku T.FOUL (P1.PN),,,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011300108,455,3,16,4,9:06 PM,5:43,Osby Free Throw Technical (7 PTS),,,84 - 68,-16,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,457,6,2,4,9:07 PM,5:32,,,Morrow S.FOUL (P2.PN),,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,458,3,11,4,9:07 PM,5:32,Joseph Free Throw 1 of 2 (1 PTS),,,84 - 69,-15,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,460,3,12,4,9:07 PM,5:32,Joseph Free Throw 2 of 2 (2 PTS),,,84 - 70,-14,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,464,5,1,4,9:08 PM,5:10,Jones STEAL (1 STL),,Roberts Bad Pass Turnover (P1.T21),,,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,465,5,4,4,9:09 PM,5:01,Jones Traveling Turnover (P2.T20),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011300108,466,2,1,4,9:09 PM,4:42,,,MISS Thomas 14' Jump Shot,,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,467,4,0,4,9:09 PM,4:40,Jones REBOUND (Off:6 Def:1),,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,468,2,1,4,9:09 PM,4:29,MISS Joseph  3PT Jump Shot,,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,469,4,0,4,9:09 PM,4:27,Osby REBOUND (Off:3 Def:2),,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,470,2,1,4,9:10 PM,4:23,MISS Harris 27' 3PT Jump Shot,,,,,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,471,4,0,4,9:10 PM,4:21,,,Thomas REBOUND (Off:0 Def:3),,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,472,1,1,4,9:10 PM,4:06,,,Roberts 26' 3PT Jump Shot (18 PTS),87 - 70,-17,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,473,6,2,4,9:10 PM,3:53,,,Roberts S.FOUL (P2.PN),,,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,474,3,11,4,9:10 PM,3:53,Price Free Throw 1 of 2 (5 PTS),,,87 - 71,-16,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,476,3,12,4,9:10 PM,3:53,Price Free Throw 2 of 2 (6 PTS),,,87 - 72,-15,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,478,5,1,4,9:11 PM,3:38,Harris STEAL (1 STL),,Morrow Bad Pass Turnover (P1.T22),,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,479,1,5,4,9:11 PM,3:34,Harris 2' Layup (8 PTS) (Price 5 AST),,,87 - 74,-13,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,480,1,5,4,9:11 PM,3:27,,,Morrow 2' Layup (10 PTS),89 - 74,-15,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,481,5,39,4,9:11 PM,3:21,Joseph Step Out of Bounds Turnover (P2.T21),,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,482,9,1,4,9:12 PM,3:21,,,Pelicans Timeout: Regular (Reg.4 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,485,8,0,4,9:14 PM,3:21,,,SUB: Rivers FOR Morrow,,,5,201627,Anthony Morrow,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,486,8,0,4,9:14 PM,3:21,SUB: Gladness FOR Jones,,,,,4,200780,Solomon Jones,1610612753.0,Orlando,Magic,ORL,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,487,1,3,4,9:14 PM,2:56,,,Withey 8' Hook Shot (6 PTS),91 - 74,-17,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,488,5,1,4,9:15 PM,2:43,Harris Bad Pass Turnover (P1.T22),,Roberts STEAL (1 STL),,,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,489,1,5,4,9:15 PM,2:38,,,Rivers 2' Layup (4 PTS) (Roberts 3 AST),93 - 74,-19,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011300108,490,2,1,4,9:15 PM,2:27,MISS Harris 15' Jump Shot,,,,,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,491,4,0,4,9:15 PM,2:24,Osby REBOUND (Off:4 Def:2),,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,492,2,5,4,9:15 PM,2:22,MISS Osby  Layup,,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,493,4,0,4,9:15 PM,2:20,,,Withey REBOUND (Off:1 Def:1),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,494,6,2,4,9:15 PM,2:17,Joseph S.FOUL (P4.PN),,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,495,3,11,4,9:16 PM,2:17,,,Onuaku Free Throw 1 of 2 (1 PTS),94 - 74,-20,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,497,3,12,4,9:16 PM,2:17,,,Onuaku Free Throw 2 of 2 (2 PTS),95 - 74,-21,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,499,6,2,4,9:16 PM,2:12,,,Onuaku S.FOUL (P2.PN),,,5,202620,Arinze Onuaku,1610612740.0,New Orleans,Pelicans,NOP,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011300108,500,3,11,4,9:16 PM,2:12,MISS Joseph Free Throw 1 of 2,,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,501,4,1,4,9:16 PM,2:12,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,502,3,12,4,9:16 PM,2:12,Joseph Free Throw 2 of 2 (3 PTS),,,95 - 75,-20,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,505,2,1,4,9:17 PM,1:58,Gladness BLOCK (1 BLK),,MISS Thomas 6' Jump Shot,,,5,202498,Lance Thomas,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0
+0011300108,506,4,0,4,9:17 PM,1:58,,,Withey REBOUND (Off:2 Def:1),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,507,1,5,4,9:17 PM,1:55,,,Withey 3' Layup (8 PTS),97 - 75,-22,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,508,2,5,4,9:17 PM,1:45,MISS Joseph 1' Layup,,,,,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,509,4,0,4,9:17 PM,1:40,,,Withey REBOUND (Off:2 Def:2),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,511,6,2,4,9:17 PM,1:40,Price S.FOUL (P4.PN),,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011300108,513,3,11,4,9:18 PM,1:40,,,MISS Rivers Free Throw 1 of 2,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,514,4,1,4,9:18 PM,1:40,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,515,3,12,4,9:18 PM,1:40,,,Rivers Free Throw 2 of 2 (5 PTS),98 - 75,-23,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,517,2,1,4,9:18 PM,1:29,MISS Price 17' Jump Shot,,,,,4,101179,Ronnie Price,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,518,4,0,4,9:18 PM,1:27,,,Withey REBOUND (Off:2 Def:3),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,519,1,1,4,9:18 PM,1:22,,,Roberts 27' 3PT Jump Shot (21 PTS),101 - 75,-26,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,520,1,1,4,9:18 PM,1:12,Joseph 29' 3PT Jump Shot (6 PTS) (Gladness 1 AST),,,101 - 78,-23,4,203126,Kris Joseph,1610612753.0,Orlando,Magic,ORL,4,202148,Mickell Gladness,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011300108,522,2,1,4,9:19 PM,0:51,,,MISS Rivers 14' Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,523,4,0,4,9:19 PM,0:50,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300108,524,1,42,4,9:20 PM,0:31,Harris 2' Driving Layup (10 PTS),,,101 - 80,-21,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,525,2,1,4,9:20 PM,0:05,,,MISS Roberts 8' Jump Shot,,,5,203148,Brian Roberts,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011300108,526,4,0,4,9:20 PM,0:04,Osby REBOUND (Off:4 Def:3),,,,,4,203528,Romero Osby,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,527,1,5,4,9:20 PM,0:00,Harris 2' Layup (12 PTS),,,101 - 82,-19,4,202412,Manny Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011300108,529,13,0,4,9:20 PM,0:00,,,,101 - 82,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

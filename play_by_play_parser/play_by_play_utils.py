@@ -288,7 +288,7 @@ def is_three(row):
     return three
 
 def is_team_turnover(row):
-    return is_turnover(row) and (is_5_second_violation(row) or is_8_second_violation(row) or is_shot_clock_violation(row) or is_too_many_players_violation(row))
+    return is_turnover(row) and (is_5_second_violation(row) or is_8_second_violation(row) or is_shot_clock_violation(row) or is_too_many_players_violation(row) or no_player_listed(row))
 
 def is_5_second_violation(row):
     return is_turnover(row) and row[event_subtype] == 9
@@ -298,6 +298,9 @@ def is_8_second_violation(row):
 
 def is_shot_clock_violation(row):
     return is_turnover(row) and row[event_subtype] == 11
+
+def no_player_listed(row):
+    return math.isnan(row[player1_team_id])
 
 def is_too_many_players_violation(row):
     return is_turnover(row) and row[event_subtype] == 44
