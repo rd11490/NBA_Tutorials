@@ -98,15 +98,14 @@ frame = extract_data(client, player_stats_url(season))
 
 # Extract json
 def extract_data(http_client, url):
-    r = http_client.request('GET', url, headers=header_data)      # Call the GET endpoint
-    resp = json.loads(r.data)                                     # Convert the response to a json object
-    results = resp['resultSets'][0]                               # Take the first item in the resultsSet (This can be determined by inspection of the json response)
-    headers = results['headers']                                  # Take the headers of the response (our column names)
-    rows = results['rowSet']                                      # Take the rows of our response
-    frame = pd.DataFrame(rows)                                    # Convert the rows to a dataframe
-    frame.columns = headers                                       # Set our column names using the  extracted headers
+    r = requests.get(url, headers=header_data)                  # Call the GET endpoint
+    resp = j.json()                                             # Convert the response to a json object
+    results = resp['resultSets'][0]                             # take the first item in the resultsSet (This can be determined by inspection of the json response)
+    headers = results['headers']                                # take the headers of the response (our column names)
+    rows = results['rowSet']                                    # take the rows of our response
+    frame = pd.DataFrame(rows)                                  # convert the rows to a dataframe
+    frame.columns = headers                                     # set our column names using the  extracted headers
     return frame
-
 
 ```
 

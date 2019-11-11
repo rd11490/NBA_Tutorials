@@ -1,7 +1,7 @@
 import json
 
 import pandas as pd
-import urllib3
+import requests
 
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
@@ -27,8 +27,8 @@ def player_stats_url(season):
 
 # Extract json
 def extract_data(http_client, url):
-    r = http_client.request('GET', url, headers=header_data)    # Call the GET endpoint
-    resp = json.loads(r.data)                                   # Convert the response to a json object
+    r = requests.get(url, headers=header_data)                  # Call the GET endpoint
+    resp = j.json()                                             # Convert the response to a json object
     results = resp['resultSets'][0]                             # take the first item in the resultsSet (This can be determined by inspection of the json response)
     headers = results['headers']                                # take the headers of the response (our column names)
     rows = results['rowSet']                                    # take the rows of our response
@@ -37,7 +37,6 @@ def extract_data(http_client, url):
     return frame
 
 
-client = urllib3.PoolManager()
 season = "2018-19"
 
 frame = extract_data(client, player_stats_url(season))

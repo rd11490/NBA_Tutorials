@@ -1,0 +1,507 @@
+index,G,MPG,minutes,Player,Team,playerId,playerName,primaryKey,teamId,teamName,teamAbbreviation,teamCity,season,teamAbbreviationLower
+0,78,32,2496,Trae Young,atl,1629027.0,Trae Young,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+1,77,30,2310,John Collins,atl,1628381.0,John Collins,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+2,78,27,2106,Kevin Huerter,atl,1628989.0,Kevin Huerter,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+3,65,24,1560,Jabari Parker,atl,203953.0,Jabari Parker,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+4,78,22,1716,Alex Len,atl,203458.0,Alex Len,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+5,77,18,1386,Evan Turner,atl,202323.0,Evan Turner,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+6,70,18,1260,Damian Jones,atl,1627745.0,Damian Jones,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+7,74,15,1110,Allen Crabbe,atl,203459.0,Allen Crabbe,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+8,74,15,1110,DeAndre Bembry,atl,1627761.0,DeAndre Bembry,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+9,77,8,616,Vince Carter,atl,1713.0,Vince Carter,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+10,56,6,344,Chandler Parsons,atl,202718.0,Chandler Parsons,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+11,78,5,390,Brandon Goodwin,atl,1629164.0,Brandon Goodwin,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+12,78,0,0,Marcus Derrickson,atl,1629094.0,Marcus Derrickson,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+13,78,0,0,Ray Spalding,atl,1629034.0,Ray Spalding,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+14,78,22,1716,De'Andre Hunter,atl,,,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+15,78,15,1170,Cam Reddish,atl,,,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+16,78,5,390,Bruno Fernando,atl,,,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+17,78,0,0,Charlie Brown,atl,,,1610612737_2018-19,1610612737,Hawks,ATL,Atlanta,2018-19,atl
+18,75,33,2475,Kyrie Irving,bkn,202681.0,Kyrie Irving,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+19,76,30,2280,Joe Harris,bkn,203925.0,Joe Harris,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+20,78,28,2184,Spencer Dinwiddie,bkn,203915.0,Spencer Dinwiddie,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+21,77,28,2156,Taurean Prince,bkn,1627752.0,Taurean Prince,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+22,69,28,1932,Caris LeVert,bkn,1627747.0,Caris LeVert,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+23,78,24,1872,DeAndre Jordan,bkn,201599.0,DeAndre Jordan,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+24,78,24,1872,Jarrett Allen,bkn,1628386.0,Jarrett Allen,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+25,76,18,1368,Garrett Temple,bkn,202066.0,Garrett Temple,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+26,78,18,1404,Rodions Kurucs,bkn,1629066.0,Rodions Kurucs,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+27,74,15,1110,Wilson Chandler,bkn,201163.0,Wilson Chandler,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+28,77,5,385,Dzanan Musa,bkn,1629058.0,Dzanan Musa,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+29,76,3,228,David Nwaba,bkn,1628021.0,David Nwaba,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+30,78,2,180,Theo Pinson,bkn,1629033.0,Theo Pinson,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+31,0,0,0,Kevin Durant,bkn,201142.0,Kevin Durant,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+32,78,0,0,Deng Adel,bkn,1629061.0,Deng Adel,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+33,77,0,0,Henry Ellenson,bkn,1627740.0,Henry Ellenson,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+34,78,3,234,Nicolas Claxton,bkn,,,1610612751_2018-19,1610612751,Nets,BKN,Brooklyn,2018-19,bkn
+35,78,34,2652,Kemba Walker,bos,202689.0,Kemba Walker,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+36,78,32,2496,Jayson Tatum,bos,1628369.0,Jayson Tatum,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+37,62,30,1860,Gordon Hayward,bos,202330.0,Gordon Hayward,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+38,76,30,2280,Marcus Smart,bos,203935.0,Marcus Smart,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+39,77,30,2310,Jaylen Brown,bos,1627759.0,Jaylen Brown,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+40,77,24,1848,Enes Kanter,bos,202683.0,Enes Kanter,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+41,77,15,1155,Daniel Theis,bos,1628464.0,Daniel Theis,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+42,78,10,780,Brad Wanamaker,bos,202954.0,Brad Wanamaker,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+43,78,8,624,Semi Ojeleye,bos,1628400.0,Semi Ojeleye,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+44,78,12,936,Robert Williams,bos,1629057.0,Robert Williams III,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+45,78,12,936,Grant Williams,bos,,,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+46,78,10,780,Vincent Poirier,bos,,,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+47,78,8,633,Romeo Langford,bos,,,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+48,78,5,390,Carsen Edwards,bos,,,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+49,78,0,0,Tacko Fall,bos,,,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+50,78,0,0,Max Strus,bos,,,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+51,78,0,0,Tremont Waters,bos,,,1610612738_2018-19,1610612738,Celtics,BOS,Boston,2018-19,bos
+52,77,30,2310,Nicolas Batum,cha,201587.0,Nicolas Batum,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+53,78,30,2340,Terry Rozier,cha,1626179.0,Terry Rozier,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+54,78,26,2028,Marvin Williams,cha,101107.0,Marvin Williams,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+55,61,25,1525,Cody Zeller,cha,203469.0,Cody Zeller,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+56,78,24,1872,Miles Bridges,cha,1628970.0,Miles Bridges,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+57,78,22,1716,Malik Monk,cha,1628370.0,Malik Monk,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+58,78,18,1415,Dwayne Bacon,cha,1628407.0,Dwayne Bacon,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+59,78,18,1404,Michael Kidd-Gilchrist,cha,203077.0,Michael Kidd-Gilchrist,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+60,78,14,1092,Bismack Biyombo,cha,202687.0,Bismack Biyombo,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+61,78,14,1092,Willy Hernangomez,cha,1626195.0,Willy Hernangomez,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+62,78,0,0,Joe Chealey,cha,1629147.0,Joe Chealey,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+63,78,0,0,Thomas Welsh,cha,1629118.0,Thomas Welsh,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+64,78,14,1092,Devonte' Graham,cha,1628984.0,Devonte Graham,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+65,78,18,1404,P.J. Washington,cha,,,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+66,78,5,390,Cody Martin,cha,,,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+67,78,0,0,Caleb Martin,cha,,,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+68,78,0,0,Josh Perkins,cha,,,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+69,78,0,0,Robert Franks,cha,,,1610612766_2018-19,1610612766,Hornets,CHA,Charlotte,2018-19,cha
+70,58,34,1972,Zach LaVine,chi,203897.0,Zach LaVine,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+71,75,32,2400,Lauri Markkanen,chi,1628374.0,Lauri Markkanen,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+72,78,27,2106,Thaddeus Young,chi,201152.0,Thaddeus Young,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+73,78,22,1716,Tomas Satoransky,chi,203107.0,Tomas Satoransky,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+74,71,20,1420,Kris Dunn,chi,1627739.0,Kris Dunn,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+75,78,18,1404,Ryan Arcidiacono,chi,1627853.0,Ryan Arcidiacono,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+76,65,12,780,Denzel Valentine,chi,1627756.0,Denzel Valentine,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+77,76,9,660,Chandler Hutchison,chi,1628990.0,Chandler Hutchison,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+78,78,8,624,Luke Kornet,chi,1628436.0,Luke Kornet,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+79,78,5,390,Cristiano Felicio,chi,1626245.0,Cristiano Felicio,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+80,78,5,390,Shaquille Harrison,chi,1627885.0,Shaquille Harrison,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+81,78,0,0,Antonio Blakeney,chi,1628469.0,Antonio Blakeney,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+82,76,30,2280,Otto Porter,chi,203490.0,Otto Porter Jr.,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+83,76,25,1900,Wendell Carter,chi,1628976.0,Wendell Carter Jr.,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+84,78,18,1404,Coby White,chi,,,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+85,78,3,234,Daniel Gafford,chi,,,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+86,78,0,0,Adam Mokoka,chi,,,1610612741_2018-19,1610612741,Bulls,CHI,Chicago,2018-19,chi
+87,78,31,2418,Collin Sexton,cle,1629012.0,Collin Sexton,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+88,78,30,2340,Cedi Osman,cle,1626224.0,Cedi Osman,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+89,60,28,1680,Kevin Love,cle,201567.0,Kevin Love,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+90,74,25,1850,Larry Nance Jr.,cle,1626204.0,Larry Nance Jr.,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+91,70,24,1680,Tristan Thompson,cle,202684.0,Tristan Thompson,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+92,78,24,1872,Jordan Clarkson,cle,203903.0,Jordan Clarkson,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+93,78,18,1404,Ante Zizic,cle,1627790.0,Ante Zizic,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+94,67,12,804,John Henson,cle,203089.0,John Henson,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+95,70,12,840,Matthew Dellavedova,cle,203521.0,Matthew Dellavedova,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+96,78,4,312,Sindarius Thornwell,cle,1628414.0,Sindarius Thornwell,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+97,55,4,217,Brandon Knight,cle,202688.0,Brandon Knight,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+98,77,27,2079,Darius Garland,cle,,,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+99,78,18,1404,Dylan Windler,cle,,,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+100,78,10,780,Kevin Porter,cle,,,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+101,78,0,0,Dean Wade,cle,,,1610612739_2018-19,1610612739,Cavaliers,CLE,Cleveland,2018-19,cle
+102,78,32,2496,Luka Doncic,dal,1629029.0,Luka Doncic,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+103,51,30,1530,Kristaps Porzingis,dal,204001.0,Kristaps Porzingis,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+104,75,30,2250,Tim Hardaway Jr.,dal,203501.0,Tim Hardaway Jr.,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+105,78,25,1950,Dwight Powell,dal,203939.0,Dwight Powell,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+106,73,25,1825,Delon Wright,dal,1626153.0,Delon Wright,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+107,78,24,1872,Maxi Kleber,dal,1628467.0,Maxi Kleber,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+108,78,22,1716,Jalen Brunson,dal,1628973.0,Jalen Brunson,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+109,62,21,1293,Seth Curry,dal,203552.0,Seth Curry,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+110,72,20,1440,Dorian Finney-Smith,dal,1627827.0,Dorian Finney-Smith,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+111,78,10,780,Boban Marjanovic,dal,1626246.0,Boban Marjanovic,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+112,76,5,380,Courtney Lee,dal,201584.0,Courtney Lee,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+113,78,3,234,Ryan Broekhoff,dal,1629151.0,Ryan Broekhoff,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+114,78,0,0,Antonius Cleveland,dal,1628499.0,Antonius Cleveland,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+115,78,15,1170,Justin A. Jackson,dal,,,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+116,62,12,744,Jose Juan Barea,dal,,,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+117,78,0,0,Dakota Mathias,dal,,,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+118,78,0,0,Isaiah Roby,dal,,,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+119,78,0,0,Josh Reaves,dal,,,1610612742_2018-19,1610612742,Mavericks,DAL,Dallas,2018-19,dal
+120,78,32,2496,Jamal Murray,den,1627750.0,Jamal Murray,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+121,78,31,2418,Nikola Jokic,den,203999.0,Nikola Jokic,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+122,71,29,2059,Gary Harris,den,203914.0,Gary Harris,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+123,70,26,1820,Paul Millsap,den,200794.0,Paul Millsap,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+124,72,25,1800,Will Barton,den,203115.0,Will Barton,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+125,78,22,1716,Jerami Grant,den,203924.0,Jerami Grant,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+126,78,22,1716,Monte Morris,den,1628420.0,Monte Morris,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+127,78,20,1560,Malik Beasley,den,1627736.0,Malik Beasley,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+128,78,18,1404,Mason Plumlee,den,203486.0,Mason Plumlee,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+129,78,17,1347,Torrey Craig,den,1628470.0,Torrey Craig,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+130,70,2,140,Jarred Vanderbilt,den,1629020.0,Jarred Vanderbilt,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+131,58,10,580,Michael Porter,den,,,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+132,78,8,624,Juan Hernangomez,den,,,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+133,78,0,0,Vlatko Cancar,den,,,1610612743_2018-19,1610612743,Nuggets,DEN,Denver,2018-19,den
+134,74,35,2590,Blake Griffin,det,201933.0,Blake Griffin,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+135,78,33,2574,Andre Drummond,det,203083.0,Andre Drummond,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+136,71,28,1988,Reggie Jackson,det,202704.0,Reggie Jackson,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+137,77,26,2002,Luke Kennard,det,1628379.0,Luke Kennard,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+138,78,25,1950,Tony Snell,det,203503.0,Tony Snell,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+139,65,25,1596,Derrick Rose,det,201565.0,Derrick Rose,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+140,78,22,1716,Langston Galloway,det,204038.0,Langston Galloway,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+141,76,20,1520,Markieff Morris,det,202693.0,Markieff Morris,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+142,78,20,1560,Bruce Brown,det,1628971.0,Bruce Brown,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+143,78,12,936,Thon Maker,det,1627748.0,Thon Maker,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+144,78,8,624,Tim Frazier,det,204025.0,Tim Frazier,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+145,78,3,234,Svi Mykhailiuk,det,1629004.0,Svi Mykhailiuk,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+146,78,2,156,Khyri Thomas,det,1629017.0,Khyri Thomas,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+147,78,0,0,Christian Wood,det,1626174.0,Christian Wood,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+148,78,3,234,Sekou Doumbouya,det,,,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+149,78,0,0,Jordan Bone,det,,,1610612765_2018-19,1610612765,Pistons,DET,Detroit,2018-19,det
+150,74,34,2516,Stephen Curry,gsw,201939.0,Stephen Curry,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+151,76,32,2432,Draymond Green,gsw,203110.0,Draymond Green,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+152,21,30,630,Klay Thompson,gsw,202691.0,Klay Thompson,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+153,78,24,1872,Willie Cauley-Stein,gsw,1626161.0,Willie Cauley-Stein,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+154,78,22,1716,Alfonzo McKinnie,gsw,1628035.0,Alfonzo McKinnie,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+155,69,22,1493,Glenn Robinson III,gsw,203922.0,Glenn Robinson III,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+156,78,20,1560,Kevon Looney,gsw,1626172.0,Kevon Looney,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+157,76,20,1520,Alec Burks,gsw,202692.0,Alec Burks,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+158,77,15,1155,Omari Spellman,gsw,1629016.0,Omari Spellman,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+159,78,8,624,Jacob Evans,gsw,1628980.0,Jacob Evans,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+160,78,5,390,Damion Lee,gsw,1627814.0,Damion Lee,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+161,74,32,2368,D'Angelo Russell,gsw,1626156.0,DAngelo Russell,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+162,78,10,780,Eric Paschall,gsw,,,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+163,78,8,624,Jordan Poole,gsw,,,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+164,78,0,0,Alen Smailagic,gsw,,,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+165,78,0,0,Ky Bowman,gsw,,,1610612744_2018-19,1610612744,Warriors,GSW,Golden State,2018-19,gsw
+166,78,36,2808,James Harden,hou,201935.0,James Harden,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+167,78,35,2730,Russell Westbrook,hou,201566.0,Russell Westbrook,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+168,75,33,2475,Clint Capela,hou,203991.0,Clint Capela,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+169,76,32,2432,Eric Gordon,hou,201569.0,Eric Gordon,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+170,76,24,1824,Austin Rivers,hou,203085.0,Austin Rivers,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+171,78,15,1170,Gerald Green,hou,101123.0,Gerald Green,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+172,77,14,1078,Tyson Chandler,hou,2199.0,Tyson Chandler,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+173,78,8,624,Gary Clark,hou,1629109.0,Gary Clark,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+174,78,3,234,Isaiah Hartenstein,hou,1628392.0,Isaiah Hartenstein,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+175,78,0,0,Ben McLemore,hou,203463.0,Ben McLemore,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+176,78,0,0,Michael Frazier,hou,1626187.0,Michael Frazier,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+177,78,0,0,Anthony Bennett,hou,203461.0,Anthony Bennett,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+178,76,22,1653,Danuel House,hou,1627863.0,Danuel House Jr.,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+179,78,34,2652,P.J. Tucker,hou,,,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+180,78,0,0,Chris Clemons,hou,,,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+181,78,0,0,Shamorie Ponds,hou,,,1610612745_2018-19,1610612745,Rockets,HOU,Houston,2018-19,hou
+182,77,30,2310,Myles Turner,ind,1626167.0,Myles Turner,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+183,70,30,2100,T.J. Warren,ind,203933.0,T.J. Warren,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+184,78,30,2340,Domantas Sabonis,ind,1627734.0,Domantas Sabonis,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+185,49,28,1372,Victor Oladipo,ind,203506.0,Victor Oladipo,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+186,73,28,2044,Malcolm Brogdon,ind,1627763.0,Malcolm Brogdon,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+187,77,28,2156,Jeremy Lamb,ind,203087.0,Jeremy Lamb,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+188,78,28,2184,Justin Holiday,ind,203200.0,Justin Holiday,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+189,78,18,1404,Aaron Holiday,ind,1628988.0,Aaron Holiday,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+190,77,17,1304,Doug McDermott,ind,203926.0,Doug McDermott,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+191,78,15,1170,T.J. McConnell,ind,204456.0,T.J. McConnell,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+192,78,5,390,TJ Leaf,ind,1628388.0,TJ Leaf,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+193,72,5,360,Edmond Sumner,ind,1628410.0,Edmond Sumner,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+194,78,2,156,Alize Johnson,ind,1628993.0,Alize Johnson,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+195,78,0,0,Naz Mitrou-Long,ind,1628513.0,Naz Mitrou-Long,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+196,78,5,390,Goga Bitadze,ind,,,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+197,78,0,0,JaKeenan Gant,ind,,,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+198,50,0,0,C.J. Wilcox,ind,,,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+199,78,0,0,Brian Bowen,ind,,,1610612754_2018-19,1610612754,Pacers,IND,Indiana,2018-19,ind
+200,62,34,2108,Kawhi Leonard,lac,202695.0,Kawhi Leonard,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+201,78,33,2574,Paul George,lac,202331.0,Paul George,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+202,65,29,1885,Patrick Beverley,lac,201976.0,Patrick Beverley,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+203,78,26,2028,Montrezl Harrell,lac,1626149.0,Montrezl Harrell,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+204,78,26,2028,Landry Shamet,lac,1629013.0,Landry Shamet,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+205,75,22,1650,Maurice Harkless,lac,203090.0,Maurice Harkless,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+206,78,20,1560,Ivica Zubac,lac,1627826.0,Ivica Zubac,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+207,75,17,1275,JaMychal Green,lac,203210.0,JaMychal Green,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+208,70,12,840,Rodney McGruder,lac,203585.0,Rodney McGruder,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+209,78,8,624,Jerome Robinson,lac,1629010.0,Jerome Robinson,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+210,78,5,378,Patrick Patterson,lac,202335.0,Patrick Patterson,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+211,78,27,2106,Louis Williams,lac,,,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+212,78,5,390,Terance Mann,lac,,,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+213,78,3,234,Mfiondu Kabengele,lac,,,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+214,78,0,0,Amir Coffey,lac,,,1610612746_2018-19,1610612746,Clippers,LAC,LA,2018-19,lac
+215,76,34,2584,LeBron James,lal,2544.0,LeBron James,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+216,76,34,2584,Anthony Davis,lal,203076.0,Anthony Davis,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+217,78,32,2496,Kyle Kuzma,lal,1628398.0,Kyle Kuzma,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+218,73,24,1752,Rajon Rondo,lal,200765.0,Rajon Rondo,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+219,78,24,1872,Kentavious Caldwell-Pope,lal,203484.0,Kentavious Caldwell-Pope,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+220,78,24,1872,JaVale McGee,lal,201580.0,JaVale McGee,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+221,78,20,1560,Alex Caruso,lal,1627936.0,Alex Caruso,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+222,68,13,874,Avery Bradley,lal,202340.0,Avery Bradley,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+223,78,12,936,Quinn Cook,lal,1626188.0,Quinn Cook,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+224,76,10,760,Jared Dudley,lal,201162.0,Jared Dudley,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+225,78,3,234,Troy Daniels,lal,203584.0,Troy Daniels,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+226,0,0,0,DeMarcus Cousins,lal,202326.0,DeMarcus Cousins,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+227,78,0,0,Kostas Antetokounmpo,lal,1628961.0,Kostas Antetokounmpo,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+228,77,28,2156,Daniel Green,lal,,,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+229,78,0,0,Talen Horton-Tucker,lal,,,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+230,78,0,0,Devontae Cacok,lal,,,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+231,78,0,0,Aric Holman,lal,,,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+232,78,0,0,Jordan Caroline,lal,,,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+233,78,0,0,Zach Norvell,lal,,,1610612747_2018-19,1610612747,Lakers,LAL,Los Angeles,2018-19,lal
+234,76,28,2128,Jonas Valanciunas,mem,202685.0,Jonas Valanciunas,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+235,77,28,2156,Jaren Jackson Jr.,mem,1628991.0,Jaren Jackson Jr.,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+236,78,24,1872,Tyus Jones,mem,1626145.0,Tyus Jones,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+237,71,24,1704,Dillon Brooks,mem,1628415.0,Dillon Brooks,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+238,74,23,1680,Kyle Anderson,mem,203937.0,Kyle Anderson,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+239,78,20,1560,Jae Crowder,mem,203109.0,Jae Crowder,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+240,78,20,1560,Josh Jackson,mem,1628367.0,Josh Jackson,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+241,78,8,624,Grayson Allen,mem,1628960.0,Grayson Allen,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+242,78,8,624,Bruno Caboclo,mem,203998.0,Bruno Caboclo,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+243,76,0,0,Andre Iguodala,mem,2738.0,Andre Iguodala,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+244,70,0,0,Solomon Hill,mem,203524.0,Solomon Hill,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+245,67,0,0,Miles Plumlee,mem,203101.0,Miles Plumlee,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+246,68,0,0,Dwight Howard,mem,2730.0,Dwight Howard,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+247,78,0,0,Ivan Rabb,mem,1628397.0,Ivan Rabb,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+248,78,0,0,Yuta Watanabe,mem,1629139.0,Yuta Watanabe,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+249,78,8,624,De'Anthony Melton,mem,1629001.0,DeAnthony Melton,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+250,78,28,2184,Ja Morant,mem,,,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+251,78,20,1560,Brandon Clarke,mem,,,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+252,78,18,1404,Marko Guduric,mem,,,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+253,78,0,0,John Konchar,mem,,,1610612763_2018-19,1610612763,Grizzlies,MEM,Memphis,2018-19,mem
+254,75,34,2550,Jimmy Butler,mia,202710.0,Jimmy Butler,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+255,64,30,1920,Justise Winslow,mia,1626159.0,Justise Winslow,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+256,72,28,2016,Goran Dragic,mia,201609.0,Goran Dragic,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+257,54,28,1512,Dion Waiters,mia,203079.0,Dion Waiters,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+258,78,28,2184,Bam Adebayo,mia,1628389.0,Bam Adebayo,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+259,76,25,1900,James Johnson,mia,201949.0,James Johnson,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+260,78,24,1872,Kelly Olynyk,mia,203482.0,Kelly Olynyk,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+261,78,15,1170,Meyers Leonard,mia,203086.0,Meyers Leonard,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+262,78,5,390,Duncan Robinson,mia,1629130.0,Duncan Robinson,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+263,78,2,156,Udonis Haslem,mia,2617.0,Udonis Haslem,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+264,78,24,1872,Derrick Jones,mia,1627884.0,Derrick Jones Jr.,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+265,78,20,1560,Tyler Herro,mia,,,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+266,78,7,578,KZ Okpala,mia,,,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+267,78,0,0,Kendrick Nunn,mia,,,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+268,78,0,0,Jeremiah Martin,mia,,,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+269,78,0,0,Chris Silva,mia,,,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+270,78,0,0,Kyle Alexander,mia,,,1610612748_2018-19,1610612748,Heat,MIA,Miami,2018-19,mia
+271,77,34,2618,Giannis Antetokounmpo,mil,203507.0,Giannis Antetokounmpo,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+272,73,30,2190,Khris Middleton,mil,203114.0,Khris Middleton,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+273,78,28,2184,Eric Bledsoe,mil,202339.0,Eric Bledsoe,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+274,78,28,2184,Brook Lopez,mil,201572.0,Brook Lopez,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+275,72,22,1584,George Hill,mil,201588.0,George Hill,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+276,78,20,1560,Pat Connaughton,mil,1626192.0,Pat Connaughton,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+277,78,20,1560,Sterling Brown,mil,1628425.0,Sterling Brown,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+278,78,18,1404,Robin Lopez,mil,201577.0,Robin Lopez,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+279,76,18,1332,Wesley Matthews,mil,202083.0,Wesley Matthews,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+280,77,13,1001,Ersan Ilyasova,mil,101141.0,Ersan Ilyasova,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+281,77,8,616,D.J. Wilson,mil,1628391.0,D.J. Wilson,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+282,75,8,600,Donte DiVincenzo,mil,1628978.0,Donte DiVincenzo,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+283,77,8,616,Kyle Korver,mil,2594.0,Kyle Korver,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+284,76,0,0,Dragan Bender,mil,1627733.0,Dragan Bender,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+285,78,0,0,Cameron Reynolds,mil,1629244.0,Cameron Reynolds,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+286,77,3,231,Frank Mason III,mil,1628412.0,Frank Mason,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+287,78,0,0,Luke Maye,mil,,,1610612749_2018-19,1610612749,Bucks,MIL,Milwaukee,2018-19,mil
+288,78,33,2574,Andrew Wiggins,min,203952.0,Andrew Wiggins,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+289,78,33,2574,Karl-Anthony Towns,min,1626157.0,Karl-Anthony Towns,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+290,74,30,2220,Jeff Teague,min,201952.0,Jeff Teague,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+291,72,30,2160,Robert Covington,min,203496.0,Robert Covington,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+292,78,20,1560,Jake Layman,min,1627774.0,Jake Layman,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+293,78,18,1404,Josh Okogie,min,1629006.0,Josh Okogie,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+294,77,18,1386,Noah Vonleh,min,203943.0,Noah Vonleh,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+295,78,17,1326,Shabazz Napier,min,203894.0,Shabazz Napier,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+296,77,10,770,Jordan Bell,min,1628395.0,Jordan Bell,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+297,78,8,624,Gorgui Dieng,min,203476.0,Gorgui Dieng,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+298,73,5,355,Treveon Graham,min,1626203.0,Treveon Graham,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+299,77,3,231,Keita Bates-Diop,min,1628966.0,Keita Bates-Diop,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+300,78,0,0,Tyrone Wallace,min,1627820.0,Tyrone Wallace,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+301,78,24,1872,Jarrett Culver,min,,,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+302,78,5,390,Jaylen Nowell,min,,,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+303,78,3,234,Naz Reid,min,,,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+304,78,0,0,Jordan McLaughlin,min,,,1610612750_2018-19,1610612750,Timberwolves,MIN,Minnesota,2018-19,min
+305,77,34,2618,Jrue Holiday,nop,201950.0,Jrue Holiday,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+306,74,31,2294,Brandon Ingram,nop,1627742.0,Brandon Ingram,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+307,75,28,2100,Derrick Favors,nop,202324.0,Derrick Favors,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+308,71,28,1988,Lonzo Ball,nop,1628366.0,Lonzo Ball,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+309,77,19,1435,Josh Hart,nop,1628404.0,Josh Hart,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+310,78,8,624,Darius Miller,nop,203121.0,Darius Miller,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+311,76,8,608,Jahlil Okafor,nop,1626143.0,Jahlil Okafor,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+312,78,8,624,Kenrich Williams,nop,1629026.0,Kenrich Williams,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+313,65,5,325,Frank Jackson,nop,1628402.0,Frank Jackson,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+314,78,0,0,Josh Gray,nop,1627982.0,Josh Gray,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+315,78,32,2496,Zion Williamson,nop,2590.0,Mo Williams,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+316,76,3,228,E'Twaun Moore,nop,202734.0,ETwaun Moore,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+317,77,28,2156,J.J. Redick,nop,,,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+318,78,15,1170,Jaxson Hayes,nop,,,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+319,78,8,624,Nicolo Melli,nop,,,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+320,78,5,390,Nickeil Alexander-Walker,nop,,,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+321,78,0,0,Zylan Cheatham,nop,,,1610612740_2018-19,1610612740,Pelicans,NOP,New Orleans,2018-19,nop
+322,78,30,2340,Julius Randle,nyk,203944.0,Julius Randle,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+323,78,28,2184,Kevin Knox,nyk,1628995.0,Kevin Knox,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+324,76,25,1900,Marcus Morris,nyk,202694.0,Marcus Morris,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+325,76,24,1824,Bobby Portis,nyk,1626171.0,Bobby Portis,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+326,73,24,1752,Elfrid Payton,nyk,203901.0,Elfrid Payton,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+327,76,24,1824,Dennis Smith Jr.,nyk,1628372.0,Dennis Smith Jr.,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+328,78,24,1872,Mitchell Robinson,nyk,1629011.0,Mitchell Robinson,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+329,77,15,1155,Allonzo Trier,nyk,1629019.0,Allonzo Trier,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+330,77,12,924,Wayne Ellington,nyk,201961.0,Wayne Ellington,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+331,59,10,590,Reggie Bullock,nyk,203493.0,Reggie Bullock,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+332,78,8,624,Taj Gibson,nyk,201959.0,Taj Gibson,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+333,76,4,273,Frank Ntilikina,nyk,1628373.0,Frank Ntilikina,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+334,78,3,234,Damyean Dotson,nyk,1628422.0,Damyean Dotson,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+335,78,0,0,Kadeem Allen,nyk,1628443.0,Kadeem Allen,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+336,78,28,2184,R.J. Barrett,nyk,,,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+337,78,0,0,Ignas Brazdeikis,nyk,,,1610612752_2018-19,1610612752,Knicks,NYK,New York,2018-19,nyk
+338,78,33,2574,Steven Adams,okc,203500.0,Steven Adams,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+339,71,32,2272,Chris Paul,okc,101108.0,Chris Paul,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+340,64,30,1920,Danilo Gallinari,okc,201568.0,Danilo Gallinari,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+341,78,28,2184,Terrance Ferguson,okc,1628390.0,Terrance Ferguson,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+342,52,25,1300,Andre Roberson,okc,203460.0,Andre Roberson,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+343,78,25,1950,Shai Gilgeous-Alexander,okc,1628983.0,Shai Gilgeous-Alexander,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+344,75,20,1500,Mike Muscala,okc,203488.0,Mike Muscala,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+345,70,14,980,Nerlens Noel,okc,203457.0,Nerlens Noel,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+346,78,14,1092,Abdel Nader,okc,1627846.0,Abdel Nader,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+347,78,14,1092,Hamidou Diallo,okc,1628977.0,Hamidou Diallo,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+348,78,11,866,Deonte Burton,okc,1629126.0,Deonte Burton,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+349,78,20,1560,Dennis Schroeder,okc,203471.0,Dennis Schroder,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+350,78,3,234,Luguentz Dort,okc,,,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+351,78,2,156,Darius Bazley,okc,,,1610612760_2018-19,1610612760,Thunder,OKC,Oklahoma City,2018-19,okc
+352,77,34,2618,Aaron Gordon,orl,203932.0,Aaron Gordon,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+353,76,31,2356,Nikola Vucevic,orl,202696.0,Nikola Vucevic,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+354,76,31,2356,Evan Fournier,orl,203095.0,Evan Fournier,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+355,78,28,2184,D.J. Augustin,orl,201571.0,D.J. Augustin,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+356,72,28,2016,Jonathan Isaac,orl,1628371.0,Jonathan Isaac,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+357,72,26,1872,Terrence Ross,orl,203082.0,Terrence Ross,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+358,76,25,1900,Al-Farouq Aminu,orl,202329.0,Al-Farouq Aminu,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+359,50,15,750,Markelle Fultz,orl,1628365.0,Markelle Fultz,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+360,73,12,876,Michael Carter-Williams,orl,203487.0,Michael Carter-Williams,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+361,78,11,858,Khem Birch,orl,203920.0,Khem Birch,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+362,78,3,234,Josh Magette,orl,203705.0,Josh Magette,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+363,78,0,0,Amile Jefferson,orl,1628518.0,Amile Jefferson,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+364,78,0,0,Melvin Frazier,orl,1628982.0,Melvin Frazier Jr.,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+365,78,12,900,Wesley Iwundu,orl,,,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+366,76,10,760,Mohamed Bamba,orl,,,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+367,78,0,0,DaQuan Jeffries,orl,,,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+368,78,0,0,Vic Law,orl,,,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+369,21,0,0,Chuma Okeke,orl,,,1610612753_2018-19,1610612753,Magic,ORL,Orlando,2018-19,orl
+370,78,34,2652,Tobias Harris,phi,202699.0,Tobias Harris,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+371,76,34,2584,Josh Richardson,phi,1626196.0,Josh Richardson,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+372,66,34,2244,Ben Simmons,phi,1627732.0,Ben Simmons,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+373,66,33,2178,Joel Embiid,phi,203954.0,Joel Embiid,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+374,76,29,2204,Al Horford,phi,201143.0,Al Horford,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+375,77,18,1386,Mike Scott,phi,203118.0,Mike Scott,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+376,68,12,816,Raul Neto,phi,203526.0,Raul Neto,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+377,72,10,720,Zhaire Smith,phi,1629015.0,Zhaire Smith,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+378,71,10,710,Furkan Korkmaz,phi,1627788.0,Furkan Korkmaz,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+379,78,10,780,Trey Burke,phi,203504.0,Trey Burke,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+380,78,8,624,Jonah Bolden,phi,1628413.0,Jonah Bolden,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+381,77,3,253,Shake Milton,phi,1629003.0,Shake Milton,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+382,75,15,1125,James Ennis,phi,203516.0,James Ennis III,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+383,78,8,624,Kyle O'Quinn,phi,203124.0,Kyle OQuinn,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+384,78,10,780,Matisse Thybulle,phi,,,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+385,78,0,0,Christ Koumadje,phi,,,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+386,78,0,0,Norvel Pelle,phi,,,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+387,78,0,0,Marial Shayok,phi,,,1610612755_2018-19,1610612755,76ers,PHI,Philadelphia,2018-19,phi
+388,74,35,2590,Devin Booker,phx,1626164.0,Devin Booker,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+389,78,31,2418,Deandre Ayton,phx,1629028.0,Deandre Ayton,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+390,78,28,2184,Mikal Bridges,phx,1628969.0,Mikal Bridges,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+391,77,27,2079,Ricky Rubio,phx,201937.0,Ricky Rubio,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+392,78,24,1872,Dario Saric,phx,203967.0,Dario Saric,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+393,76,18,1368,Tyler Johnson,phx,204020.0,Tyler Johnson,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+394,76,16,1216,Aron Baynes,phx,203382.0,Aron Baynes,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+395,78,15,1170,Frank Kaminsky,phx,1626163.0,Frank Kaminsky,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+396,78,3,234,Elie Okobo,phx,1629059.0,Elie Okobo,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+397,78,3,234,Jevon Carter,phx,1628975.0,Jevon Carter,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+398,78,3,234,Cheick Diallo,phx,1627767.0,Cheick Diallo,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+399,78,27,2131,Kelly Oubre,phx,1626162.0,Kelly Oubre Jr.,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+400,78,15,1170,Cameron Johnson,phx,,,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+401,78,10,780,Ty Jerome,phx,,,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+402,78,0,0,Jalen Lecque,phx,,,1610612756_2018-19,1610612756,Suns,PHX,Phoenix,2018-19,phx
+403,78,35,2730,Damian Lillard,por,203081.0,Damian Lillard,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+404,76,28,2128,Hassan Whiteside,por,202355.0,Hassan Whiteside,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+405,73,28,2044,Rodney Hood,por,203918.0,Rodney Hood,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+406,78,25,1950,Zach Collins,por,1628380.0,Zach Collins,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+407,75,24,1800,Kent Bazemore,por,203145.0,Kent Bazemore,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+408,35,20,700,Jusuf Nurkic,por,203994.0,Jusuf Nurkic,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+409,78,20,1560,Anfernee Simons,por,1629014.0,Anfernee Simons,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+410,78,15,1170,Mario Hezonja,por,1626209.0,Mario Hezonja,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+411,78,15,1170,Anthony Tolliver,por,201229.0,Anthony Tolliver,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+412,72,14,1008,Pau Gasol,por,2200.0,Pau Gasol,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+413,78,5,390,Skal Labissiere,por,1627746.0,Skal Labissiere,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+414,78,3,222,Gary Trent Jr.,por,1629018.0,Gary Trent Jr.,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+415,78,34,2652,C.J. McCollum,por,203468.0,CJ McCollum,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+416,78,2,156,Nassir Little,por,,,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+417,78,0,0,Jaylen Hoard,por,,,1610612757_2018-19,1610612757,Trail Blazers,POR,Portland,2018-19,por
+418,78,32,2496,Harrison Barnes,sac,203084.0,Harrison Barnes,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+419,78,32,2496,Buddy Hield,sac,1627741.0,Buddy Hield,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+420,78,28,2184,Bogdan Bogdanovic,sac,203992.0,Bogdan Bogdanovic,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+421,78,18,1404,Cory Joseph,sac,202709.0,Cory Joseph,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+422,77,16,1245,Trevor Ariza,sac,2772.0,Trevor Ariza,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+423,77,12,924,Richaun Holmes,sac,1626158.0,Richaun Holmes,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+424,76,10,760,Nemanja Bjelica,sac,202357.0,Nemanja Bjelica,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+425,78,5,390,Yogi Ferrell,sac,1627812.0,Yogi Ferrell,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+426,78,3,234,Caleb Swanigan,sac,1628403.0,Caleb Swanigan,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+427,76,0,0,Tyler Lydon,sac,1628399.0,Tyler Lydon,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+428,78,0,0,Wenyen Gabriel,sac,1629117.0,Wenyen Gabriel,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+429,78,31,2418,De'Aaron Fox,sac,1628368.0,DeAaron Fox,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+430,77,28,2156,Marvin Bagley,sac,1628963.0,Marvin Bagley III,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+431,75,25,1875,DeWayne Dedmon,sac,203473.0,Dewayne Dedmon,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+432,61,18,1098,Harry Giles,sac,1628385.0,Harry Giles III,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+433,78,0,0,Justin James,sac,,,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+434,78,0,0,Isaiah Pineiro,sac,,,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+435,78,0,0,Kyle Guy,sac,,,1610612758_2018-19,1610612758,Kings,SAC,Sacramento,2018-19,sac
+436,78,35,2730,DeMar DeRozan,sas,201942.0,DeMar DeRozan,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+437,77,33,2541,LaMarcus Aldridge,sas,200746.0,LaMarcus Aldridge,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+438,65,27,1755,Rudy Gay,sas,200752.0,Rudy Gay,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+439,77,27,2079,Derrick White,sas,1628401.0,Derrick White,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+440,62,25,1550,Dejounte Murray,sas,1627749.0,Dejounte Murray,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+441,76,24,1824,DeMarre Carroll,sas,201960.0,DeMarre Carroll,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+442,78,20,1560,Jakob Poeltl,sas,1627751.0,Jakob Poeltl,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+443,78,18,1404,Bryn Forbes,sas,1627854.0,Bryn Forbes,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+444,78,10,815,Marco Belinelli,sas,201158.0,Marco Belinelli,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+445,78,10,780,Trey Lyles,sas,1626168.0,Trey Lyles,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+446,78,0,0,Chimezie Metu,sas,1629002.0,Chimezie Metu,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+447,78,0,0,Drew Eubanks,sas,1629234.0,Drew Eubanks,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+448,77,10,770,Lonnie Walker,sas,1629022.0,Lonnie Walker IV,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+449,78,18,1404,Patrick Mills,sas,,,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+450,78,3,234,Luka Samanic,sas,,,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+451,78,3,234,Keldon Johnson,sas,,,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+452,78,0,0,Quinndary Weatherspoon,sas,,,1610612759_2018-19,1610612759,Spurs,SAS,San Antonio,2018-19,sas
+453,75,33,2475,Kyle Lowry,tor,200768.0,Kyle Lowry,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+454,78,33,2574,Pascal Siakam,tor,1627783.0,Pascal Siakam,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+455,77,28,2156,Fred VanVleet,tor,1627832.0,Fred VanVleet,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+456,77,25,1925,Marc Gasol,tor,201188.0,Marc Gasol,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+457,76,25,1900,OG Anunoby,tor,1628384.0,OG Anunoby,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+458,78,24,1872,Serge Ibaka,tor,201586.0,Serge Ibaka,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+459,77,24,1848,Norman Powell,tor,1626181.0,Norman Powell,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+460,76,20,1520,Patrick McCaw,tor,1627775.0,Patrick McCaw,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+461,77,18,1386,Stanley Johnson,tor,1626169.0,Stanley Johnson,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+462,77,15,1155,Rondae Hollis-Jefferson,tor,1626178.0,Rondae Hollis-Jefferson,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+463,64,0,0,Cameron Payne,tor,1626166.0,Cameron Payne,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+464,78,0,0,Malcolm Miller,tor,1626259.0,Malcolm Miller,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+465,73,0,0,Chris Boucher,tor,1628449.0,Chris Boucher,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+466,78,0,0,Devin Robinson,tor,1628421.0,Devin Robinson,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+467,78,0,0,Jordan Loyd,tor,1628070.0,Jordan Loyd,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+468,78,6,479,Matt Thomas,tor,,,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+469,78,5,390,Terence Davis,tor,,,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+470,78,0,0,Dewan Hernandez,tor,,,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+471,78,0,0,Oshae Brissett,tor,,,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+472,78,0,0,Sagaba Konate,tor,,,1610612761_2018-19,1610612761,Raptors,TOR,Toronto,2018-19,tor
+473,78,34,2652,Donovan Mitchell,uta,1628378.0,Donovan Mitchell,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+474,64,33,2112,Mike Conley,uta,201144.0,Mike Conley,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+475,77,32,2464,Rudy Gobert,uta,203497.0,Rudy Gobert,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+476,78,32,2496,Bojan Bogdanovic,uta,202711.0,Bojan Bogdanovic,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+477,78,30,2340,Joe Ingles,uta,204060.0,Joe Ingles,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+478,57,18,1026,Dante Exum,uta,203957.0,Dante Exum,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+479,75,18,1350,Emmanuel Mudiay,uta,1626144.0,Emmanuel Mudiay,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+480,76,17,1292,Ed Davis,uta,202334.0,Ed Davis,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+481,77,15,1155,Jeff Green,uta,201145.0,Jeff Green,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+482,78,10,780,Georges Niang,uta,1627777.0,Georges Niang,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+483,77,2,154,Tony Bradley,uta,1628396.0,Tony Bradley,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+484,78,20,1547,Royce O'Neale,uta,1626220.0,Royce ONeale,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+485,78,2,156,Nigel Williams-Goss,uta,,,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+486,78,2,156,Miye Oni,uta,,,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+487,78,0,0,Jarrell Brantley,uta,,,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+488,78,0,0,Justin Wright-Foreman,uta,,,1610612762_2018-19,1610612762,Jazz,UTA,Utah,2018-19,uta
+489,78,36,2808,Bradley Beal,was,203078.0,Bradley Beal,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+490,78,25,1950,Thomas Bryant,was,1628418.0,Thomas Bryant,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+491,78,25,1950,Davis Bertans,was,202722.0,Davis Bertans,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+492,58,24,1392,Isaiah Thomas,was,202738.0,Isaiah Thomas,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+493,78,20,1560,Moritz Wagner,was,1629021.0,Moritz Wagner,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+494,73,5,365,Ian Mahinmi,was,101133.0,Ian Mahinmi,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+495,78,5,375,Isaac Bonga,was,1629067.0,Isaac Bonga,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+496,78,3,234,Jordan McRae,was,203895.0,Jordan McRae,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+497,78,3,234,Jemerrio Jones,was,1629203.0,Jemerrio Jones,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+498,0,0,0,John Wall,was,202322.0,John Wall,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+499,78,20,1560,Troy Brown,was,1628972.0,Troy Brown Jr.,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+500,77,30,2310,Ishmael Smith,was,,,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+501,76,25,1900,C.J. Miles,was,,,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+502,78,24,1872,Rui Hachimura,was,,,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+503,78,12,936,Admiral Schofield,was,,,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+504,78,3,234,Justin Robinson,was,,,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
+505,78,0,0,Tarik Phillip,was,,,1610612764_2018-19,1610612764,Wizards,WAS,Washington,2018-19,was
