@@ -238,7 +238,7 @@ team2 = {
 }
 ```
 
-And We will edit our shooting possession code to account for offensive rebounds by
+We will edit our shooting possession code to account for offensive rebounds by
 checking to see if the team recovered an offensive rebound, and then if they did, giving them another shot attempt:
 ```python
 def points(team):
