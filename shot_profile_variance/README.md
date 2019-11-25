@@ -209,7 +209,7 @@ plt.show()
 ![Variance](Variance.png)
 
 
-### [What about Offensive Rebound?](shot_profile_with_orbd_sim.py)
+### [What about Offensive Rebounds?](shot_profile_with_orbd_sim.py)
 A handful of people mentioned that the team taking more 3s will miss more shots,
 leading to more offensive rebounding opportunities and thus giving them an advantage.
 In order to account for this in our simulation we will assume both teams
