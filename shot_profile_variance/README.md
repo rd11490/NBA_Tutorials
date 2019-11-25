@@ -4,9 +4,7 @@ Normally I write tutorials here, but today I want to investigate a question I re
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you had 2 teams:<br>Team 1: 80% 2 pt shots at 50% FG%, 20% 3pt shots at 33% FG%<br>Team 2: 50% 2 pt shots at 50% FG%, 50% 3pt shots at 33% FG%<br><br>And they played 1,000,000 times, all else being equal who do you think would win more games?</p>&mdash; Ryan Davis (@rd11490) <a href="https://twitter.com/rd11490/status/1198601947999285250?ref_src=twsrc%5Etfw">November 24, 2019</a></blockquote>
 
 We are going to write a very simple simulation to explore this problem.
-We are going to ignore everything but shooting possessions in the sim.
-No turnover, rebounds, fouls, etc. This is basically a dice roll simulation
-extrapolated for basketball.
+In the first simulation we are only going to care about shooting possessions. Turnovers, rebounds, fouls, etc are going to be ignored. This is basically a dice roll simulation extrapolated for basketball.
 
 ### [Basic Simulation](shot_profile_sim.py)
 
