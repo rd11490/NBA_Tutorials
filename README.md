@@ -23,3 +23,6 @@
 
 ### [RAPM](rapm/)
 
+### [Shot Profile Variance and Optimal Strategies for Underdogs](shot_profile_variance/)
+
+
