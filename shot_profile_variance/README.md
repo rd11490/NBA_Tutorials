@@ -1,7 +1,7 @@
 ## Can you out sample the variance in an NBA game?
 
 Normally I write tutorials here, but today I want to investigate a question I recently posted to twitter:
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you had 2 teams:<br>Team 1: 80% 2 pt shots at 50% FG%, 20% 3pt shots at 33% FG%<br>Team 2: 50% 2 pt shots at 50% FG%, 50% 3pt shots at 33% FG%<br><br>And they played 1,000,000 times, all else being equal who do you think would win more games?</p>&mdash; Ryan Davis (@rd11490) <a href="https://twitter.com/rd11490/status/1198601947999285250?ref_src=twsrc%5Etfw">November 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you had 2 teams:<br>Team 1: 80% 2 pt shots at 50% FG%, 20% 3pt shots at 33% FG%<br>Team 2: 50% 2 pt shots at 50% FG%, 50% 3pt shots at 33% FG%<br><br>And they played 1,000,000 times, all else being equal who do you think would win more games?</p>&mdash; Ryan Davis (@rd11490) <a href="https://twitter.com/rd11490/status/1198601947999285250?ref_src=twsrc%5Etfw">November 24, 2019</a></blockquote>
 
 We are going to write a very simple simulation to explore this problem.
 We are going to ignore everything but shooting possessions in the sim.
