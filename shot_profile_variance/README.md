@@ -214,7 +214,7 @@ A handful of people mentioned that the team taking more 3s will miss more shots,
 leading to more offensive rebounding opportunities and thus giving them an advantage.
 In order to account for this in our simulation we will assume both teams
 have a league average offensive rebound rate (22.5%)
-```
+```python
 ##########
 # Team 1 #
 ##########
@@ -240,7 +240,7 @@ team2 = {
 
 And We will edit our shooting possession code to account for offensive rebounds by
 checking to see if the team recovered an offensive rebound, and then if they did, giving them another shot attempt:
-```
+```python
 def points(team):
     roll_shot_type = random.random()
     roll_make = random.random()
@@ -262,7 +262,7 @@ def points(team):
 
 When both teams have a league average offensive rebound rate Team 2 is the team that
 wins more often due to the extra shot attempts.
-```
+```python
 Team 1 wins 46.79% of the time
 Team 2 wins 53.21% of the time
 ```
@@ -293,7 +293,7 @@ and measure the underdog's win percentage.
 
 The code for this simulation is almost exactly the same was the code for the previous simulation, but we will make a few changes:
 
-```
+```python
 import random
 
 import pandas as pd
@@ -304,8 +304,7 @@ import matplotlib.pyplot as plt
 We need to include matplotlib for plotting purposes.
 
 
-```
-
+```python
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
@@ -337,7 +336,7 @@ team2 = {
 We want to make sure that Team 1 is 5 percentage points better from 2, 3 and in offensive rebounds.
 This is an arbitrary number.
 
-```
+```python
 def points(team):
     roll_shot_type = random.random()
     roll_make = random.random()
@@ -367,7 +366,7 @@ def play_game(shots_to_take):
 ```
 Our code to simulate shooting possessions and game is exactly the same as in the previous sims.
 
-```
+```python
 results = []
 for rate3 in [0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6]:
     team2['3pt rate'] = rate3
@@ -396,7 +395,7 @@ We are also going to vary the pace of the game from a game where the pace was gr
 to a high flying game where each team took 120 shots.
 
 
-```
+```python
 frame = pd.DataFrame(results)
 wins = frame.groupby(by=['shots', '3rate'])['team2_win'].sum().reset_index()
 wins['win%'] = wins['team2_win']/num_games
@@ -417,7 +416,11 @@ plt.show()
 ```
 We store our results in a dataframe, group by the our two independent variables and measure the win percentage for our underdog
 We then plot the results on a 3d plot. From the result of our plot we can see that in our simplified scenario our optimal strategy
-is to slow the pace of the game as much as possible and shoot as many 3s as we can.
+is to slow the pace of the game as much as possible and shoot as many 3s as we can. Because there is a defined skill gap, the underdog needs
+to use variance to their advantage, and in this case that means taking as many high variance shots as possible, while limiting
+the sample size as much as possible as well. If you played this out thousands of times, you might lose the games you loose by more points
+than if you played a different play style, but your odds of winning go up. In the standigns it doesn't matter if you lose by 1 or by 100, so
+the high variance strategy should be prefered.
 
 ![Win Percentage against 3pt Attempt Rate and Pace](Overmatched_angle1.png)
 
