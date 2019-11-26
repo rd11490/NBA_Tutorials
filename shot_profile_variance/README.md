@@ -476,7 +476,7 @@ for rate3 in [0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6]:
             }
             results.append(result)
 ```
-We are going to vary our 3pt attempt rate from 30% of the underdog's shots form 3 to 60% of their shots from 3.
+We are going to vary our 3pt attempt rate from 30% of the underdog's shots from 3 to 60% of their shots from 3.
 We are also going to vary the pace of the game from a game where the pace was grounded to a halt and each team only had 60 shots
 to a high flying game where each team took 120 shots.
 
