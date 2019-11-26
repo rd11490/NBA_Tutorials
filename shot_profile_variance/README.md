@@ -265,6 +265,94 @@ Team 1 wins 46.79% of the time
 Team 2 wins 53.21% of the time
 ```
 
+### [What about Fouls?](shot_profile_with_orbd_and_fouls_sim.py)
+The difference on shooting foul rates for 2pt shots and 3pt shots was
+also brought up in the discussion surrounding this problem.
+In order to tackle it I was provided with the perentage of 2 point shots that
+resulted in a shooting foul (5.7%) and the percentage of 3 point shots that
+resulted in a shooting foul (1.5%). From there we just need to update our
+simple simulation to account for shooting fouls and free throws. In this simulation
+both teams will shoot at leave average rate (77%).
+```python
+##########
+# Team 1 #
+##########
+team1 = {
+    '2pt rate': .80,
+    '3pt rate': .20,
+    '2pt%': .50,
+    '3pt%': .33333,
+    'orbd': .225,
+    'foul3': .015,
+    'foul2': .057,
+    'ft%': .77
+}
+
+##########
+# Team 2 #
+##########
+team2 = {
+    '2pt rate': .50,
+    '3pt rate': .50,
+    '2pt%': .50,
+    '3pt%': .33333,
+    'orbd': .225,
+    'foul3': .015,
+    'foul2': .057,
+    'ft%': .77
+}
+```
+
+We will edit our shooting possession code to account for shooting fouls by
+checking to see the shooter was fouled and adding additional points based on
+free throws:
+```python
+def shoot_ft(team, ft_attempts):
+    ft_points = 0
+    i = 0
+    while i <= ft_attempts:
+        make = random.random()
+        if make < team['ft%']:
+            ft_points += 1
+        i += 1
+    return ft_points
+
+def points(team):
+    roll_shot_type = random.random()
+    roll_make = random.random()
+    roll_foul = random.random()
+
+    if roll_shot_type <= team['2pt rate']:
+        if roll_foul <= team['foul2']:
+            if roll_make <= team['2pt%']:
+                return 2 + shoot_ft(team, 1)
+            else:
+                return shoot_ft(team, 2)
+        elif roll_make <= team['2pt%']:
+            return 2
+    else:
+        if roll_foul <= team['foul3']:
+            if roll_make <= team['3pt%']:
+                return 3 + shoot_ft(team, 1)
+            else:
+                return shoot_ft(team, 3)
+        elif roll_make <= team['3pt%']:
+            return 3
+
+    roll_orbd = random.random()
+
+    if roll_orbd <= team['orbd']:
+        return points(team)
+
+    return 0
+```
+
+When both teams have a league average freacpe throw percentages and foul drawing rates Team 1 ends up back on top.
+```python
+Team 1 wins 51.48% of the time
+Team 2 wins 48.52% of the time
+```
+
 ### What About Turnovers?
 Turnovers fall into that "All Things Being Equal" qualifier I provided.
 We have no public methods for determining if a turnover was the result
