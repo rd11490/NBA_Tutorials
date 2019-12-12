@@ -97,20 +97,7 @@ for season in ['2019-20']: #'2018-19',
         frame['NET'] = 100 * ((frame['POINTS SCORED ORIG']/frame['OFFENSE POSSESSION ORIG']) - (frame['POINTS ALLOWED ORIG']/frame['DEFENSE POSSESSION ORIG']))
         frame['NET - RUN ALLOWED'] = 100 * ((frame['POINTS SCORED ORIG']/frame['OFFENSE POSSESSION']) - (frame['POINTS ALLOWED']/frame['DEFENSE POSSESSION']))
         frame['NET - RUN SCORED'] = 100 * ((frame['POINTS SCORED']/frame['OFFENSE POSSESSION']) - (frame['POINTS ALLOWED ORIG']/frame['DEFENSE POSSESSION']))
-        fig = plt.figure()
-        plt.plot(frame['RUN'], frame['NET'], label='NET RATING')
-        plt.plot(frame['RUN'], frame['NET - RUN ALLOWED'], label='N POINT RUN ALLOWED')
-        plt.plot(frame['RUN'], frame['NET - RUN SCORED'], label='N POINT RUN SCORED')
 
-        plt.title('{}\n{}'.format(team_lineup['TEAM'], team_lineup['LINEUP']))
-        plt.xlabel('N Point Run')
-        plt.ylabel('Net Rating')
-        plt.ylim(-25, 25)
-        plt.xlim(1, 15)
-        plt.legend()
-
-        plt.savefig('plots/{}-centered.png'.format(team_lineup['TEAM']))
-        plt.close(fig)
 
         fig = plt.figure()
         plt.plot(frame['RUN'], frame['NET'], label='NET RATING')
@@ -123,7 +110,7 @@ for season in ['2019-20']: #'2018-19',
         plt.xlim(1, 15)
         plt.legend()
 
-        plt.savefig('plots/{}.png'.format(team_lineup['TEAM']))
+        plt.savefig('plots/{}.png'.format(team_lineup['TEAM'].replace(' ','_')))
         plt.close(fig)
 
 

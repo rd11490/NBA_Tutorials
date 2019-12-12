@@ -32,4 +32,80 @@ The average number of possessions a lineup has faced together is: 16.92. <br />
 
 ![1 Possession Swing](plots/OnePossessionSwing.png)
 
-##
+## Your Favorite Teams Most Played Lineup is a 15 point run away from Glory/Disaster
+
+### 76ers
+![76ers](plots/76ers.png)
+
+### Bucks
+![Bucks](plots/Bucks.png)
+
+### Bulls
+![Bulls](plots/Bulls.png)
+
+### Clippers
+![Clippers](plots/Clippers.png)
+
+### Grizzlies
+![Grizzlies](plots/Grizzlies.png)
+
+### Hawks
+![Hawks](plots/Hawks.png)
+
+### Heat
+![Heat](plots/Heat.png)
+
+### Hornets
+![Hornets](plots/Hornets.png)
+
+### Jazz
+![Jazz](plots/Jazz.png)
+
+### Kings
+![Kings](plots/Kings.png)
+
+### Knicks
+![Knicks](plots/Knicks.png)
+
+### Lakers
+![Lakers](plots/Lakers.png)
+
+### Magic
+![Magic](plots/Magic.png)
+
+### Mavericks
+![Mavericks](plots/Mavericks.png)
+
+### Nuggets
+![Nuggets](plots/Nuggets.png)
+
+### Pelicans
+![Pelicans](plots/Pelicans.png)
+
+### Raptors
+![Raptors](plots/Raptors.png)
+
+### Rockets
+![Rockets](plots/Rockets.png)
+
+### Spurs
+![Spurs](plots/Spurs.png)
+
+### Suns
+![Suns](plots/Suns.png)
+
+### Thunder
+![Thunder](plots/Thunder.png)
+
+### Timberwolves
+![Timberwolves](plots/Timberwolves.png)
+
+### Trail Blazers
+![Trail Blazers](plots/Trail_Blazers.png)
+
+### Warriors
+![Warriors](plots/Warriors.png)
+
+### Wizards
+![Wizards](plots/Wizards.png)
+
