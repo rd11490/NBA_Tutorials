@@ -107,7 +107,8 @@ for season in ['2019-20']: #'2018-19',
         plt.title('{}\n{}'.format(team_lineup['TEAM'], team_lineup['LINEUP']))
         plt.xlabel('N Point Run')
         plt.ylabel('Net Rating')
-        plt.xlim(1, 15)
+        plt.xlim(0, 15)
+
         plt.legend()
 
         plt.savefig('plots/{}.png'.format(team_lineup['TEAM'].replace(' ','_')))
