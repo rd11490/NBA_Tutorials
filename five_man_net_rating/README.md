@@ -32,5 +32,4 @@ The average number of possessions a lineup has faced together is: 16.92. <br />
 
 ![1 Possession Swing](plots/OnePossessionSwing.png)
 
-
 ##
