@@ -1,6 +1,7 @@
 # 5 Man Lineup Net Rating Are Bad
 
 ## 5 Man Units are almost all Small Sample
+
 #### 2019-20 (December 10, 2019)
 The minimum number of possessions played: 0, the maximum number of possessions played 806
 82 out of 5440 lineups have played more than 100 possessions together
