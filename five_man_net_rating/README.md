@@ -34,8 +34,8 @@ possession. Below is a histogram of
 how many possessions. It's pretty easy to tell that the vast majority
 of lineups at this point have less than 20 possessions.
 
-![2019-20 5 Man Unit Possession Histogram](plots/PossessionHisto1920.png)
-![2019-20 5 Man Unit Possession Histogram (<100 Possession)](plots/PossessionHisto1920_100.png)
+![2019-20 5 Man Unit Possession Histogram](graphs/PossessionHisto1920.png)
+![2019-20 5 Man Unit Possession Histogram (<100 Possession)](graphs/PossessionHisto1920_100.png)
 
 #### 2018-19 Full Season
 We know that at ~25 games only a handful of five man units have played
@@ -60,8 +60,8 @@ We now have 2.5% of all five man units with at least 100 possessions played and 
 The most played lineup has about 21 games worth of possessions and it's net rating would no longer be impacted by a large run.
 Only 40 lineups have played the equivalent of five games together and only 15 have played the equivalent of 10 games.
 
-![2018-19 5 Man Unit Possession Histogram](plots/PossessionHisto1819.png)
-![2018-19 5 Man Unit Possession Histogram (<100 Possession)](plots/PossessionHisto1819_100.png)
+![2018-19 5 Man Unit Possession Histogram](graphs/PossessionHisto1819.png)
+![2018-19 5 Man Unit Possession Histogram (<100 Possession)](graphs/PossessionHisto1819_100.png)
 
 Even by the end of a season, we only have a handful of five man units whose net rating we could discuss as any indication of
 talent and even then we are only looking at 10 games worth of possessions.
@@ -83,7 +83,7 @@ a single shot has massive impact on the lineups net rating and even at
 250 possession a single trip up and down the has a noticeable impact.
 
 
-![1 Possession Swing](plots/OnePossessionSwing.png)
+![1 Possession Swing](graphs/OnePossessionSwing.png)
 
 ## Your Favorite Teams Most Played Lineup is a 15 point run away from Glory/Disaster
 
@@ -95,77 +95,77 @@ This way you can see what each lineup's net rating would be after going on a 15 
 or giving up a 15 point run.
 
 ### 76ers
-![76ers](plots/76ers.png)
+![76ers](graphs/76ers.png)
 
 ### Bucks
-![Bucks](plots/Bucks.png)
+![Bucks](graphs/Bucks.png)
 
 ### Bulls
-![Bulls](plots/Bulls.png)
+![Bulls](graphs/Bulls.png)
 
 ### Clippers
-![Clippers](plots/Clippers.png)
+![Clippers](graphs/Clippers.png)
 
 ### Grizzlies
-![Grizzlies](plots/Grizzlies.png)
+![Grizzlies](graphs/Grizzlies.png)
 
 ### Hawks
-![Hawks](plots/Hawks.png)
+![Hawks](graphs/Hawks.png)
 
 ### Heat
-![Heat](plots/Heat.png)
+![Heat](graphs/Heat.png)
 
 ### Hornets
-![Hornets](plots/Hornets.png)
+![Hornets](graphs/Hornets.png)
 
 ### Jazz
-![Jazz](plots/Jazz.png)
+![Jazz](graphs/Jazz.png)
 
 ### Kings
-![Kings](plots/Kings.png)
+![Kings](graphs/Kings.png)
 
 ### Knicks
-![Knicks](plots/Knicks.png)
+![Knicks](graphs/Knicks.png)
 
 ### Lakers
-![Lakers](plots/Lakers.png)
+![Lakers](graphs/Lakers.png)
 
 ### Magic
-![Magic](plots/Magic.png)
+![Magic](graphs/Magic.png)
 
 ### Mavericks
-![Mavericks](plots/Mavericks.png)
+![Mavericks](graphs/Mavericks.png)
 
 ### Nuggets
-![Nuggets](plots/Nuggets.png)
+![Nuggets](graphs/Nuggets.png)
 
 ### Pelicans
-![Pelicans](plots/Pelicans.png)
+![Pelicans](graphs/Pelicans.png)
 
 ### Raptors
-![Raptors](plots/Raptors.png)
+![Raptors](graphs/Raptors.png)
 
 ### Rockets
-![Rockets](plots/Rockets.png)
+![Rockets](graphs/Rockets.png)
 
 ### Spurs
-![Spurs](plots/Spurs.png)
+![Spurs](graphs/Spurs.png)
 
 ### Suns
-![Suns](plots/Suns.png)
+![Suns](graphs/Suns.png)
 
 ### Thunder
-![Thunder](plots/Thunder.png)
+![Thunder](graphs/Thunder.png)
 
 ### Timberwolves
-![Timberwolves](plots/Timberwolves.png)
+![Timberwolves](graphs/Timberwolves.png)
 
 ### Trail Blazers
-![Trail Blazers](plots/Trail_Blazers.png)
+![Trail Blazers](graphs/Trail_Blazers.png)
 
 ### Warriors
-![Warriors](plots/Warriors.png)
+![Warriors](graphs/Warriors.png)
 
 ### Wizards
-![Wizards](plots/Wizards.png)
+![Wizards](graphs/Wizards.png)
 
