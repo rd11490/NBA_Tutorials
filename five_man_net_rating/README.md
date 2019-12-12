@@ -28,6 +28,9 @@ The average number of possessions a lineup has faced together is: 16.92. <br />
 ![2018-19 5 Man Unit Possession Histogram](plots/PossessionHisto1819.png)
 ![2018-19 5 Man Unit Possession Histogram (<100 Possession)](plots/PossessionHisto1819_100.png)
 
-##
+## Small Sample Means Each Event Can Have Dramatic Impact
+
+![1 Possession Swing](plots/OnePossessionSwing.png)
+
 
 ##
