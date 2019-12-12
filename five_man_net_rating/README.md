@@ -58,7 +58,7 @@ The average number of possessions a lineup has faced together is: 16.92 <br />
 From the histograms below and from the numbers above, we can see that the distribution is about the same.
 We now have 2.5% of all 5 man units with at least 100 possessions played and the average is up to ~17 possessions.
 The most played lineup has about 21 games worth of possessions and it's net rating would no longer be impacted by a large run.
-Only 40 lineups have played the equivalent of 5 games together and 15 have played 10.
+Only 40 lineups have played the equivalent of 5 games together and only 15 have played the equivalent of 10 games.
 
 ![2018-19 5 Man Unit Possession Histogram](plots/PossessionHisto1819.png)
 ![2018-19 5 Man Unit Possession Histogram (<100 Possession)](plots/PossessionHisto1819_100.png)
