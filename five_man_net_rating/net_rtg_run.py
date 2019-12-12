@@ -105,11 +105,27 @@ for season in ['2019-20']: #'2018-19',
         plt.title('{}\n{}'.format(team_lineup['TEAM'], team_lineup['LINEUP']))
         plt.xlabel('N Point Run')
         plt.ylabel('Net Rating')
-        # plt.ylim(-30, 30)
+        plt.ylim(-25, 25)
+        plt.xlim(1, 15)
+        plt.legend()
+
+        plt.savefig('plots/{}-centered.png'.format(team_lineup['TEAM']))
+        plt.close(fig)
+
+        fig = plt.figure()
+        plt.plot(frame['RUN'], frame['NET'], label='NET RATING')
+        plt.plot(frame['RUN'], frame['NET - RUN ALLOWED'], label='N POINT RUN ALLOWED')
+        plt.plot(frame['RUN'], frame['NET - RUN SCORED'], label='N POINT RUN SCORED')
+
+        plt.title('{}\n{}'.format(team_lineup['TEAM'], team_lineup['LINEUP']))
+        plt.xlabel('N Point Run')
+        plt.ylabel('Net Rating')
         plt.xlim(1, 15)
         plt.legend()
 
         plt.savefig('plots/{}.png'.format(team_lineup['TEAM']))
+        plt.close(fig)
+
 
 
 
