@@ -104,12 +104,30 @@ for season in ['2019-20']: #'2018-19',
         plt.plot(frame['RUN'], frame['NET - RUN SCORED'], label='Net Rating After N Point Run')
         plt.plot(frame['RUN'], frame['NET - RUN ALLOWED'], label='Net Rating After N Point Run Against')
 
+        y_up=frame['NET - RUN SCORED'].round(2)[10]
+        y_down=frame['NET - RUN ALLOWED'].round(2)[10]
+
+        y_max = frame['NET - RUN SCORED'].round(2)[15] + 2
+        y_min = frame['NET - RUN ALLOWED'].round(2)[15]  - 2
+
+        net_rtg = frame['NET'].round(2)[0]
+
+
+        y_txt_down = (y_down + net_rtg)/2
+
+
+        plt.annotate(xy=(10, y_up), xytext=(6, y_up + 1), arrowprops=dict(arrowstyle="->",connectionstyle="arc3"), s='Net Rating of {}\nafter 10 point run!'.format(y_up))
+        plt.annotate(xy=(7, net_rtg), xytext=(7, net_rtg+0.1), s='Net Rating of {} at start'.format(net_rtg))
+        plt.annotate(xy=(10, y_down), xytext=(10, y_txt_down ), arrowprops=dict(arrowstyle="->",connectionstyle="arc3"), s='Net Rating of {}\nafter 10 point run!'.format(y_down))
+
+
         plt.title('{}\n{}'.format(team_lineup['TEAM'], team_lineup['LINEUP']))
         plt.xlabel('N Point Run')
         plt.ylabel('Net Rating')
         plt.xlim(0, 15)
+        plt.ylim(y_min, y_max)
 
-        plt.legend()
+        plt.legend(loc='lower left')
 
         plt.savefig('plots/{}.png'.format(team_lineup['TEAM'].replace(' ','_')))
         plt.close(fig)

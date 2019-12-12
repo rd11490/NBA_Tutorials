@@ -86,6 +86,13 @@ A single trip up and down the court has that big of an impact.
 
 ## Your Favorite Teams Most Played Lineup is a 15 point run away from Glory/Disaster
 
+The last thing I want to leave you with is a chart of how a quick run
+could impact the net rating of your favorite teams most played lineup.
+In the below charts I have plotted the current Net Rating of the the
+lineup and what the net rating would be after each point in a run up to 15 points.
+This way you can see what each lineup's net rating would be after going on a 15 point run
+or giving up a 15 point run.
+
 ### 76ers
 ![76ers](plots/76ers.png)
 
