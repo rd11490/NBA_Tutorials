@@ -10,31 +10,62 @@ on less than 100 possessions is insanity, especially when a single basket change
 ## 5 Man Units are almost all Small Sample
 
 #### 2019-20 (December 10, 2019)
-Let's start with
-The minimum number of possessions played: 0, the maximum number of possessions played 806. <br />
-82 out of 5440 lineups have played more than 100 possessions together. <br />
-The average number of possessions a lineup has played together is: 12.52. <br />
+Let's start with the current season. Through December 10th the stats for
+the number of offensive and defensive possessions played 5 man units are shown below.
 
+```
+The minimum number of possessions played: 0, the maximum number of possessions played 806 <br />
+82 out of 5440 lineups have played more than 100 possessions together <br />
+3 out of 5440 lineups have played more than 500 possessions together <br />
+0 out of 5440 lineups have played more than 1000 possessions together <br />
+The average number of possessions a lineup has played together is: 12.52 <br />
 
-The minimum number of possessions faced: 0, the maximum number of possessions faced 809. <br />
-82 out of 5440 lineups have faced more than 100 possessions together. <br />
-The average number of possessions a lineup has faced together is: 12.52. <br />
+The minimum number of possessions faced: 0, the maximum number of possessions faced 809 <br />
+82 out of 5440 lineups have faced more than 100 possessions together <br />
+3 out of 5440 lineups have played more than 500 possessions together <br />
+0 out of 5440 lineups have played more than 1000 possessions together <br />
+The average number of possessions a lineup has faced together is: 12.52 <br />
+```
+
+This means that the MOST played 5 man unit in the league at this point has
+played about 8 games worth of possessions, only 3 linupes have played the equivalent of 5 games together,
+and only 82 lineups have played the equivalent or more of 1 game of
+possession. Below is a histogram of
+how many lineup possession. It's pretty easy to tell that the vast majority
+of lineups at this point have less than 20 possessions.
 
 ![2019-20 5 Man Unit Possession Histogram](plots/PossessionHisto1920.png)
 ![2019-20 5 Man Unit Possession Histogram (<100 Possession)](plots/PossessionHisto1920_100.png)
 
 #### 2018-19 Full Season
-The minimum number of possessions played: 0, the maximum number of possessions played 2110. <br />
-371 out of 15297 lineups have played more than 100 possessions together. <br />
-The average number of possessions a lineup has played together is: 16.92. <br />
+Since we know that at ~25 games only a handful of 5 man units have played
+enough possessions to make it so that a single basket doesn't have a large impact on the net rating
+we should look at a full season.
+```
+The minimum number of possessions played: 0, the maximum number of possessions played 2110 <br />
+371 out of 15297 lineups have played more than 100 possessions together <br />
+40 out of 15297 lineups have played more than 500 possessions together <br />
+15 out of 15297 lineups have played more than 1000 possessions together <br />
+The average number of possessions a lineup has played together is: 16.92 <br />
 
+The minimum number of possessions faced: 0, the maximum number of possessions faced 2122 <br />
+371 out of 15297 lineups have faced more than 100 possessions together <br />
+40 out of 15297 lineups have played more than 500 possessions together <br />
+15 out of 15297 lineups have played more than 1000 possessions together <br />
+The average number of possessions a lineup has faced together is: 16.92 <br />
+```
 
-The minimum number of possessions faced: 0, the maximum number of possessions faced 2122. <br />
-371 out of 15297 lineups have faced more than 100 possessions together. <br />
-The average number of possessions a lineup has faced together is: 16.92. <br />
+From the histograms below and from the numbers above, we can see that the distribution is about the same.
+We now have 2.5% of all 5 man units with at least 100 possessions played and the average is up to ~17 possessions.
+The most played lineup has about 21 games worth of possessions and it's net rating would no longer be impacted by a large run.
+Only 40 lineups have played the equivalent of 5 games together and 15 have played 10.
 
 ![2018-19 5 Man Unit Possession Histogram](plots/PossessionHisto1819.png)
 ![2018-19 5 Man Unit Possession Histogram (<100 Possession)](plots/PossessionHisto1819_100.png)
+
+Even by the end of a season, we only have a handful of 5 man units whose net rating we could discuss as any indication of
+talent and even then we are only looking at 10 games worth of possessions.
+How much can you tell about a team from the net rating after 10 games?
 
 ## Small Sample Means Each Event Can Have Dramatic Impact
 

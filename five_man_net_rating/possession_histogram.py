@@ -36,8 +36,15 @@ for season in ['2018-19', '2019-20']:
     ### Offensive possession - Filter > 100
     total_lineup_count = o_possession_counts.shape[0]
     filtered_offesnive_possessions = o_possession_counts[o_possession_counts['possessions'] <= 100]
+    filtered_offesnive_possessions_500 = o_possession_counts[o_possession_counts['possessions'] > 500]
+    filtered_offesnive_possessions_1000 = o_possession_counts[o_possession_counts['possessions'] > 1000]
+
+
     high_possession_count = o_possession_counts[o_possession_counts['possessions'] > 100].shape[0]
     print('{} out of {} lineups have played more than 100 possessions together'.format(high_possession_count, total_lineup_count))
+    print('{} out of {} lineups have played more than 500 possessions together'.format(filtered_offesnive_possessions_500.shape[0], total_lineup_count))
+    print('{} out of {} lineups have played more than 1000 possessions together'.format(filtered_offesnive_possessions_1000.shape[0], total_lineup_count))
+
     print('The average number of possessions a lineup has played together is: {}'.format(o_possession_counts['possessions'].mean().round(2)))
 
     plt.figure()
@@ -55,8 +62,14 @@ for season in ['2018-19', '2019-20']:
     ### Defensive possession - Filter > 100
     total_lineup_count_d = d_possession_counts.shape[0]
     filtered_defensive_possessions = d_possession_counts[d_possession_counts['possessions'] <= 100]
+    filtered_defensive_possessions_500 = d_possession_counts[d_possession_counts['possessions'] > 500]
+    filtered_defensive_possessions_1000 = d_possession_counts[d_possession_counts['possessions'] > 1000]
+
+
     high_possession_count_d = d_possession_counts[d_possession_counts['possessions'] > 100].shape[0]
     print('{} out of {} lineups have faced more than 100 possessions together'.format(high_possession_count_d, total_lineup_count_d))
+    print('{} out of {} lineups have played more than 500 possessions together'.format(filtered_defensive_possessions_500.shape[0], total_lineup_count))
+    print('{} out of {} lineups have played more than 1000 possessions together'.format(filtered_defensive_possessions_1000.shape[0], total_lineup_count))
     print('The average number of possessions a lineup has faced together is: {}'.format(d_possession_counts['possessions'].mean().round(2)))
 
 
