@@ -7,7 +7,7 @@ newly acquired players A and B is dominating" or "Wow what a terrible move signi
 The problem with making these judgements is that they are based on something like a 55 possession sample. Using points per 100 possession
 on less than 100 possessions is insanity, especially when a single basket changes Net Rating by 2-3 points at 100 possessions.
 
-## 5 Man Units are almost all Small Sample
+## 5 Man Units Are Almost All Small Sample
 
 #### 2019-20 (December 10, 2019)
 Let's start with the current season. Through December 10th the stats for
