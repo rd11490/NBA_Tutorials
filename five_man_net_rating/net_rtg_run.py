@@ -100,9 +100,9 @@ for season in ['2019-20']: #'2018-19',
 
 
         fig = plt.figure()
-        plt.plot(frame['RUN'], frame['NET'], label='NET RATING')
-        plt.plot(frame['RUN'], frame['NET - RUN ALLOWED'], label='N POINT RUN ALLOWED')
-        plt.plot(frame['RUN'], frame['NET - RUN SCORED'], label='N POINT RUN SCORED')
+        plt.plot(frame['RUN'], frame['NET'], label='Net Rating')
+        plt.plot(frame['RUN'], frame['NET - RUN SCORED'], label='Net Rating After N Point Run')
+        plt.plot(frame['RUN'], frame['NET - RUN ALLOWED'], label='Net Rating After N Point Run Against')
 
         plt.title('{}\n{}'.format(team_lineup['TEAM'], team_lineup['LINEUP']))
         plt.xlabel('N Point Run')
