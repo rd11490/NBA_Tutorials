@@ -69,6 +69,19 @@ How much can you tell about a team from the net rating after 10 games?
 
 ## Small Sample Means Each Event Can Have Dramatic Impact
 
+Now that we know that 5 Man Units are all pretty much small sample size
+theater, let's look at the impact a single offensive and defensive
+possession have on net rating.
+
+Let us assume that we have a 5 man unit that has a league average net rating after N possession.
+What would the result of possession N+1 have on the lineups net rating?
+Below there is a chart showing the results of this idea. If a 5 man unit
+has played 99 offensive and defensive possessions and on offensive
+possession 100 they miss a shot and their opponent gets the rebound and then hits a 3,
+that is a -3 swing in the lineups net rating!
+A single trip up and down the court has that big of an impact.
+
+
 ![1 Possession Swing](plots/OnePossessionSwing.png)
 
 ## Your Favorite Teams Most Played Lineup is a 15 point run away from Glory/Disaster
