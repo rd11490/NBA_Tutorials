@@ -14,17 +14,17 @@ Let's start with the current season. Through December 10th the stats for
 the number of offensive and defensive possessions played five man units are shown below.
 
 ```
-The minimum number of possessions played: 0, the maximum number of possessions played 806 <br />
-82 out of 5440 lineups have played more than 100 possessions together <br />
-3 out of 5440 lineups have played more than 500 possessions together <br />
-0 out of 5440 lineups have played more than 1000 possessions together <br />
-The average number of possessions a lineup has played together is: 12.52 <br />
+The minimum number of possessions played: 0, the maximum number of possessions played 806
+82 out of 5440 lineups have played more than 100 possessions together
+3 out of 5440 lineups have played more than 500 possessions together
+0 out of 5440 lineups have played more than 1000 possessions together
+The average number of possessions a lineup has played together is: 12.52
 
-The minimum number of possessions faced: 0, the maximum number of possessions faced 809 <br />
-82 out of 5440 lineups have faced more than 100 possessions together <br />
-3 out of 5440 lineups have played more than 500 possessions together <br />
-0 out of 5440 lineups have played more than 1000 possessions together <br />
-The average number of possessions a lineup has faced together is: 12.52 <br />
+The minimum number of possessions faced: 0, the maximum number of possessions faced 809
+82 out of 5440 lineups have faced more than 100 possessions together
+3 out of 5440 lineups have played more than 500 possessions together
+0 out of 5440 lineups have played more than 1000 possessions together
+The average number of possessions a lineup has faced together is: 12.52
 ```
 
 This means that the MOST played five man unit in the league at this point has
@@ -42,17 +42,17 @@ We know that at ~25 games only a handful of five man units have played
 enough possessions so that a single basket doesn't have a large impact
 on their net rating. Therefore,  we should look at a full season of data instead.
 ```
-The minimum number of possessions played: 0, the maximum number of possessions played 2110 <br />
-371 out of 15297 lineups have played more than 100 possessions together <br />
-40 out of 15297 lineups have played more than 500 possessions together <br />
-15 out of 15297 lineups have played more than 1000 possessions together <br />
-The average number of possessions a lineup has played together is: 16.92 <br />
+The minimum number of possessions played: 0, the maximum number of possessions played 2110
+371 out of 15297 lineups have played more than 100 possessions together
+40 out of 15297 lineups have played more than 500 possessions together
+15 out of 15297 lineups have played more than 1000 possessions together
+The average number of possessions a lineup has played together is: 16.92
 
-The minimum number of possessions faced: 0, the maximum number of possessions faced 2122 <br />
-371 out of 15297 lineups have faced more than 100 possessions together <br />
-40 out of 15297 lineups have played more than 500 possessions together <br />
-15 out of 15297 lineups have played more than 1000 possessions together <br />
-The average number of possessions a lineup has faced together is: 16.92 <br />
+The minimum number of possessions faced: 0, the maximum number of possessions faced 2122
+371 out of 15297 lineups have faced more than 100 possessions together
+40 out of 15297 lineups have played more than 500 possessions together
+15 out of 15297 lineups have played more than 1000 possessions together
+The average number of possessions a lineup has faced together is: 16.92
 ```
 
 From the histograms below and from the numbers above, we can see that the distribution is about the same.
