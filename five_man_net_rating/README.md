@@ -1,8 +1,16 @@
 # 5 Man Lineup Net Rating Are Bad
 
+I've never really thought about 5 man unit net ratings until this year. I've always heard them brought up by various
+talking headers and occasionally a stats person will say they are small sample size theater, but in general they've been
+outside my focus. This year I've started to see these numbers pop up as a way to say "See our new starting lineup with
+newly acquired players A and B is dominating" or "Wow what a terrible move signing player C, they are dragging down the closing lineup".
+The problem with making these judgements is that they are based on something like a 55 possession sample. Using points per 100 possession
+on less than 100 possessions is insanity, especially when a single basket changes Net Rating by 2-3 points at 100 possessions.
+
 ## 5 Man Units are almost all Small Sample
 
 #### 2019-20 (December 10, 2019)
+Let's start with
 The minimum number of possessions played: 0, the maximum number of possessions played 806. <br />
 82 out of 5440 lineups have played more than 100 possessions together. <br />
 The average number of possessions a lineup has played together is: 12.52. <br />

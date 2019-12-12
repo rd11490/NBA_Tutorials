@@ -25,4 +25,7 @@
 
 ### [Shot Profile Variance and Optimal Strategies for Underdogs](shot_profile_variance/)
 
+### [5 Man Unit Net Ratings Are Bad](five_man_net_rating/)
+
+
 
