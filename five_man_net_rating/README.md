@@ -29,8 +29,8 @@ The average number of possessions a lineup has faced together is: 12.52
 
 This means that the MOST played five man unit in the league at this point has
 played about eight games worth of possessions, only 3 lineups have played the equivalent of five games together,
-and only 82 lineups have played the equivalent or more of one game of
-possession. Below is a histogram of
+and only 82 lineups have played the equivalent of 1 or more games of
+worth of possessions. Below is a histogram of
 how many possessions. It's pretty easy to tell that the vast majority
 of lineups at this point have less than 20 possessions.
 
@@ -80,7 +80,7 @@ has played 99 offensive and defensive possessions and on offensive
 possession 100 they miss a shot and their opponent gets the rebound and then hits a three,
 that is a -3 swing in the lineups net rating! From the chart you can see how at low possession counts
 a single shot has massive impact on the lineups net rating and even at
-250 possession a single trip up and down the has a noticeable impact.
+250 possessions a single trip up and down the has a noticeable impact.
 
 
 ![1 Possession Swing](graphs/OnePossessionSwing.png)
