@@ -103,6 +103,12 @@ or giving up a 15 point run.
 ### Bulls
 ![Bulls](graphs/Bulls.png)
 
+### Cavaliers
+![Cavaliers](graphs/Cavaliers.png)
+
+### Celtics
+![Celtics](graphs/Celtics.png)
+
 ### Clippers
 ![Clippers](graphs/Clippers.png)
 
