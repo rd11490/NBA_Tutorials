@@ -14,14 +14,20 @@ season_stats = pd.read_csv('season_stats.csv')
 
 starters = {}
 end_of_bench = {}
-
+player_names = {}
 
 def select_starters(team):
     starters[team['TEAM_ID'].values[0]] = list(team.nlargest(5, 'MIN')['PLAYER_ID'].values)
     end_of_bench[team['TEAM_ID'].values[0]] = list(team.nsmallest(7, 'MIN')['PLAYER_ID'].values)
 
+def build_player_names(row):
+    player_names[str(row['PLAYER_ID'])] = row['PLAYER_NAME'].split(' ', 1)[-1]
+
 
 season_stats[['PLAYER_ID', 'TEAM_ID', 'MIN']].groupby(by='TEAM_ID').apply(select_starters)
+
+season_stats.apply(build_player_names, axis=1)
+
 
 print(starters[celtics_team_id])
 
@@ -181,7 +187,7 @@ print(tatum_no_brown_stats.round(2))
 def calculate_key(row, player):
     players = [row['offensePlayer1Id'], row['offensePlayer2Id'], row['offensePlayer3Id'], row['offensePlayer4Id'], row['offensePlayer5Id']]
 
-    others = [str(int(p)) for p in players if p != player]
+    others = [player_names[str(int(p))] for p in players if p != player]
     return '-'.join(others)
 
 every_possession_with_brown_not_tatum['new_key'] = every_possession_with_brown_not_tatum.apply(calculate_key, args=(jaylen_brown,), axis=1)
@@ -197,12 +203,14 @@ calculate_eppp(stints_tatum_not_brown)
 joined = stints_brown_not_tatum.merge(stints_tatum_not_brown, how='inner', on='new_key', suffixes=('_brown', '_tatum'))
 
 joined = joined.fillna(0.0)
+print('OFFENSE STATS')
 print(joined[['new_key', 'possessions_brown', 'PPP_brown', 'EPPP_brown', 'possessions_tatum', 'PPP_tatum', 'EPPP_tatum']].round(2))
 
 ###########################
 # STARTERS & END OF BENCH #
 ###########################
 
+print('OFFENSE STATS')
 print('\n Offense and Defense \n')
 brown_no_tatun_with_starters = every_possession_with_brown_not_tatum[['OFFENSIVE_STARTERS', 'DEFENSIVE_STARTERS', 'points', 'expectedPoints', 'possessions']].groupby(by=['OFFENSIVE_STARTERS', 'DEFENSIVE_STARTERS']).sum().reset_index()
 brown_no_tatun_with_starters = calculate_stats(brown_no_tatun_with_starters)
@@ -311,7 +319,7 @@ print(tatum_no_brown_stats.round(2))
 def calculate_key(row, player):
     players = [row['defensePlayer1Id'], row['defensePlayer2Id'], row['defensePlayer3Id'], row['defensePlayer4Id'], row['defensePlayer5Id']]
 
-    others = [str(int(p)) for p in players if p != player]
+    others = [player_names[str(int(p))] for p in players if p != player]
     return '-'.join(others)
 
 every_possession_with_brown_not_tatum['new_key'] = every_possession_with_brown_not_tatum.apply(calculate_key, args=(jaylen_brown,), axis=1)
@@ -327,12 +335,15 @@ calculate_eppp(stints_tatum_not_brown)
 joined = stints_brown_not_tatum.merge(stints_tatum_not_brown, how='inner', on='new_key', suffixes=('_brown', '_tatum'))
 
 joined = joined.fillna(0.0)
+
+print('DEFENSE STATS')
 print(joined[['new_key', 'possessions_brown', 'PPP_brown', 'EPPP_brown', 'possessions_tatum', 'PPP_tatum', 'EPPP_tatum']].round(2))
 
 ###########################
 # STARTERS & END OF BENCH #
 ###########################
 
+print('DEFENSE STATS')
 print('\n Offense and Defense \n')
 brown_no_tatun_with_starters = every_possession_with_brown_not_tatum[['OFFENSIVE_STARTERS', 'DEFENSIVE_STARTERS', 'points', 'expectedPoints', 'possessions']].groupby(by=['OFFENSIVE_STARTERS', 'DEFENSIVE_STARTERS']).sum().reset_index()
 brown_no_tatun_with_starters = calculate_stats(brown_no_tatun_with_starters)
