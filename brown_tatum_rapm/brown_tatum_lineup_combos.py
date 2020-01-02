@@ -7,10 +7,10 @@ celtics_team_id = 1610612738
 jaylen_brown = 1627759
 jayson_tatum = 1628369
 
-data = pd.read_csv('possessions_19_20.csv')
+data = pd.read_csv('data/possessions_19_20.csv')
 data = data[(data['offenseTeamId1'] == celtics_team_id) | (data['defenseTeamId2'] == celtics_team_id)]
 
-season_stats = pd.read_csv('season_stats.csv')
+season_stats = pd.read_csv('data/season_stats.csv')
 
 starters = {}
 end_of_bench = {}
