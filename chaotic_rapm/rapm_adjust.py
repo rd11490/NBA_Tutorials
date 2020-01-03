@@ -9,9 +9,6 @@ from sklearn.linear_model import RidgeCV
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
-jaylen_brown = 1627759
-jayson_tatum = 1628369
-
 # Convert lambda value to alpha needed for ridge CV
 def lambda_to_alpha(lambda_value, samples):
     return (lambda_value * samples) / 2.0
@@ -125,13 +122,13 @@ def calculate_rapm(train_x, train_y, possessions, lambdas, name, players):
 
     return players_coef, intercept
 
-merged = []
+rapms = []
 
-for i in range(1,20):
+for i in range(0,10):
     # Read possessions CSV
 
     start = datetime.datetime.now()
-    possessions = pd.read_csv('data/adjusted_{}_possessions_19_20.csv'.format(i))
+    possessions = pd.read_csv('data/adjusted_possessions/adjusted_{}_possessions_per_game_19_20.csv'.format(i))
 
     # Read player name CSV
     player_names = pd.read_csv('data/player_names.csv')
@@ -168,41 +165,17 @@ for i in range(1,20):
     results = player_names.merge(results, how='inner', on='playerId')
 
     # save as CSV
-    results.to_csv('data/rapm_with_adjust_{}.csv'.format(i))
+    results['adjustedPossessions'] = i
+    results.to_csv('data/adjusted_rapm/rapm_with_adjust_{}.csv'.format(i))
 
     # print first 30 players
     # print(results)
 
-    # RAPM, RAPM_Rank, RAPM__Def, RAPM__Def_Rank, RAPM__Off, RAPM__Off_Rank
-
-    brown = results[(results['playerId'] == jaylen_brown)]
-    body_brown = {
-        'AdjustedPossessions': i,
-        'Player': 'Brown',
-        'RAPM': brown['RAPM'].values[0],
-        'RAPM_Rank': brown['RAPM_Rank'].values[0],
-        'RAPM__Off': brown['RAPM__Off'].values[0],
-        'RAPM_Off_Rank': brown['RAPM__Off_Rank'].values[0],
-        'RAPM__Def': brown['RAPM__Def'].values[0],
-        'RAPM__Def_Rank': brown['RAPM__Def_Rank'].values[0]
-    }
-    tatum = results[(results['playerId'] == jayson_tatum)]
-    body_tatum = {
-        'AdjustedPossessions': i,
-        'Player': 'Tatum',
-        'RAPM': tatum['RAPM'].values[0],
-        'RAPM_Rank': tatum['RAPM_Rank'].values[0],
-        'RAPM__Off': tatum['RAPM__Off'].values[0],
-        'RAPM_Off_Rank': tatum['RAPM__Off_Rank'].values[0],
-        'RAPM__Def': tatum['RAPM__Def'].values[0],
-        'RAPM__Def_Rank': tatum['RAPM__Def_Rank'].values[0]
-    }
-    merged.append(body_brown)
-    merged.append(body_tatum)
+    rapms.append(results)
     end = datetime.datetime.now()
     print(end-start)
 
 
-frame = pd.DataFrame(merged)
+frame = pd.concat(rapms)
 print(frame)
 frame.to_csv('data/rapm_adjusted.csv', index=False)
