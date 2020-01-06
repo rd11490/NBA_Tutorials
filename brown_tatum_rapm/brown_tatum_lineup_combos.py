@@ -4,8 +4,8 @@ pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
 celtics_team_id = 1610612738
-jaylen_brown = 1627759
-jayson_tatum = 1628369
+jaylen_brown = 202683
+jayson_tatum = 1629057
 
 data = pd.read_csv('data/possessions_19_20.csv')
 data = data[(data['offenseTeamId1'] == celtics_team_id) | (data['defenseTeamId2'] == celtics_team_id)]

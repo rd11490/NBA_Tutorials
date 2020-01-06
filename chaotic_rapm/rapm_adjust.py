@@ -136,9 +136,6 @@ for i in range(0,10):
     # Filter out 0 possession possessions
     possessions = possessions[possessions['possessions'] > 0]
 
-    print(possessions.columns)
-
-
 
     # build the list o unique player ids
     player_list = build_player_list(possessions)
@@ -148,6 +145,7 @@ for i in range(0,10):
 
     # extract the training data from our possession data frame
     train_x, train_y, possessions_raw = convert_to_matricies(possessions, 'PointsPerPossession', player_list)
+
 
     # a list of lambdas for cross validation
     lambdas_rapm = [.01, .05, .1]
