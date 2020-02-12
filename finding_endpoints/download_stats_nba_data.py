@@ -27,9 +27,9 @@ def player_stats_url(season):
 
 
 # Extract json
-def extract_data(http_client, url):
+def extract_data(url):
     r = requests.get(url, headers=header_data)                  # Call the GET endpoint
-    resp = j.json()                                             # Convert the response to a json object
+    resp = r.json()                                             # Convert the response to a json object
     results = resp['resultSets'][0]                             # take the first item in the resultsSet (This can be determined by inspection of the json response)
     headers = results['headers']                                # take the headers of the response (our column names)
     rows = results['rowSet']                                    # take the rows of our response
@@ -40,6 +40,6 @@ def extract_data(http_client, url):
 
 season = "2018-19"
 
-frame = extract_data(client, player_stats_url(season))
+frame = extract_data(player_stats_url(season))
 
 frame.to_csv("stats_nba_player_data_{0}.csv".format(season), index=False)
