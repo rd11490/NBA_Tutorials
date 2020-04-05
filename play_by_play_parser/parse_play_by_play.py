@@ -117,7 +117,7 @@ def is_end_of_possession(ind, row, rows):
 
 
 # The main function of our tutorial, the method to group events by possession
-def parse_possession(rows):
+def parse_possessions(rows):
     # we will have a list of possessions and each possession will be a list of events
     possessions = []
     current_posession = []
@@ -142,7 +142,7 @@ def parse_possession(rows):
 # convert dataframe into a list of rows. I know there is a better way to do this,
 # but this is the first thing I thought of.
 pbp_rows = list(play_by_play.iterrows())
-possessions = parse_possession(pbp_rows)
+possessions = parse_possessions(pbp_rows)
 
 
 # Print out the first couple of possessions so that you can see how the parser split them.
