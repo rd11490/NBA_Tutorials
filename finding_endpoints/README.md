@@ -77,25 +77,36 @@ For this we will be getting single season totals for all players who played in a
 The necessary params for this call can be found here: http://nbasense.com/nba-api/Stats/Stats/Players/PlayersGeneralStats
 
 The code for this process is very simple:
-First we need to import the necessary libraries. We need json for parsing the
-response from the nba api, pandas for building our dataframe and urllib3 for making calls to the nba api.
+First we need to import the necessary libraries. We need pandas for building our dataframe and requests for making calls to the nba api.
+We will also set the display setting for pandas so that we can see our entire dataframe when we print it out
 ```
-import json
 import pandas as pd
-import urllib3
+import requests
+
+pd.set_option('display.max_columns', 500)
+pd.set_option('display.width', 1000)
 ```
 
-We now need to instantiate a client and choose a season
+The NBA has some very specifc headers that it requires for requests to not time out, so let's set those.
 ```
-client = urllib3.PoolManager()
-season = "2018-19"
+header_data  = {
+    'Connection': 'keep-alive',
+    'Accept': 'application/json, text/plain, */*',
+    'x-nba-stats-token': 'true',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
+    'x-nba-stats-origin': 'stats',
+    'Sec-Fetch-Site': 'same-origin',
+    'Sec-Fetch-Mode': 'cors',
+    'Referer': 'https://stats.nba.com/',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Accept-Language': 'en-US,en;q=0.9',
+}
 ```
 
 Then we need to build our dataframe We do this by calling the endpoint described above and parsing the json into our dataframe.
-Luckily the stats.nba api returns objects that can easily be converted into a dataframe, with a single field of headers and then an array of arrays
+Luckily the stats.nba api returns objects that can easily be converted into a dataframe, with a single field of headers and then an array of arrays.
+In order to convert the response into a dataframe we need to write the following methond.
 ```
-frame = extract_data(client, player_stats_url(season))
-
 # Extract json
 def extract_data(http_client, url):
     r = requests.get(url, headers=header_data)                  # Call the GET endpoint
@@ -109,7 +120,7 @@ def extract_data(http_client, url):
 
 ```
 
-Here is where we will copy the url we extracted in part 1.
+Here is where we will copy the url we extracted in part 1. We want to build an href for the data we want.
 ```
 # endpoints
 def player_stats_url(season):
@@ -118,7 +129,11 @@ def player_stats_url(season):
 
 ```
 
-Now we just need to save our dataframe as a csv.
+Finally now that we have all of the plumbing written we can make a request and save it to a CSV.
 ```
+season = "2018-19"
+
+frame = extract_data(player_stats_url(season))
+
 frame.to_csv("stats_nba_player_data_{0}.csv".format(season), index=False)
 ```
