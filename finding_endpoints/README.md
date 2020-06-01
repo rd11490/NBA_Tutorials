@@ -108,7 +108,7 @@ Luckily the stats.nba api returns objects that can easily be converted into a da
 In order to convert the response into a dataframe we need to write the following methond.
 ```
 # Extract json
-def extract_data(http_client, url):
+def extract_data(gurl):
     r = requests.get(url, headers=header_data)                  # Call the GET endpoint
     resp = j.json()                                             # Convert the response to a json object
     results = resp['resultSets'][0]                             # take the first item in the resultsSet (This can be determined by inspection of the json response)
