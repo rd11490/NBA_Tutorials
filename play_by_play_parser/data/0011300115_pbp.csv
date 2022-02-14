@@ -1,472 +1,472 @@
 GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
-0011300115,0,12,0,1,8:40 PM,12:00,,,,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,1,10,0,1,8:40 PM,12:00,Jump Ball Dalembert vs. Hibbert: Tip to,,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,3,1610612754,,,,,,0
-0011300115,3,2,1,1,8:40 PM,11:42,,,MISS George 25' 3PT Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,4,4,0,1,8:40 PM,11:40,Ellis REBOUND (Off:0 Def:1),,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,5,1,1,1,8:41 PM,11:25,Nowitzki 17' Jump Shot (2 PTS) (Ellis 1 AST),,,0 - 2,2,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,6,1,80,1,8:41 PM,11:11,,,West 12' Step Back Jump Shot (2 PTS) (Stephenson 1 AST),2 - 2,TIE,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,7,1,77,1,8:41 PM,10:55,Ellis 6' Driving Jump Shot (2 PTS),,,2 - 4,2,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,8,2,1,1,8:41 PM,10:39,,,MISS West 14' Jump Shot,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,9,4,0,1,8:41 PM,10:38,Ellis REBOUND (Off:0 Def:2),,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,10,5,4,1,8:42 PM,10:29,Dalembert Traveling Turnover (P1.T1),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,11,2,77,1,8:42 PM,10:13,Dalembert BLOCK (1 BLK),,MISS West 6' Driving Jump Shot,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0
-0011300115,12,4,0,1,8:42 PM,10:10,Dalembert REBOUND (Off:0 Def:1),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,13,2,42,1,8:42 PM,9:59,MISS Calderon 2' Driving Layup,,,,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,14,4,0,1,8:42 PM,9:57,,,Hibbert REBOUND (Off:0 Def:1),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,15,1,42,1,8:42 PM,9:53,,,George 2' Driving Layup (2 PTS),4 - 4,TIE,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,17,1,75,1,8:43 PM,9:34,Ellis 1' Driving Finger Roll Layup (4 PTS),,,4 - 6,2,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,18,6,27,1,8:43 PM,9:28,Ellis Personal Block Foul (P1.T1),,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,19,2,63,1,8:44 PM,9:19,,,MISS George 13' Fadeaway Jumper,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,20,4,0,1,8:44 PM,9:18,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,21,2,1,1,8:44 PM,9:03,,,MISS Stephenson 25' 3PT Jump Shot,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,22,4,0,1,8:44 PM,9:02,Dalembert REBOUND (Off:0 Def:2),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,23,1,79,1,8:44 PM,8:49,Calderon 17' Pullup Jump Shot (2 PTS),,,4 - 8,4,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,24,2,77,1,8:45 PM,8:32,,,MISS G. Hill 7' Driving Jump Shot,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,25,4,0,1,8:45 PM,8:31,,,Hibbert REBOUND (Off:1 Def:1),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,26,5,13,1,8:45 PM,8:29,,,Hibbert Backcourt Turnover (P1.T1),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,27,2,79,1,8:45 PM,8:20,MISS Ellis 16' Pullup Jump Shot,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,28,4,0,1,8:45 PM,8:19,,,Stephenson REBOUND (Off:0 Def:1),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,29,1,58,1,8:46 PM,8:05,,,Hibbert 10' Turnaround Hook Shot (2 PTS),6 - 8,2,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,30,2,1,1,8:46 PM,7:49,MISS Nowitzki 24' 3PT Jump Shot,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,31,4,0,1,8:46 PM,7:48,,,Hibbert REBOUND (Off:1 Def:2),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,32,2,1,1,8:46 PM,7:27,,,MISS West 13' Jump Shot,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,33,4,0,1,8:46 PM,7:26,Calderon REBOUND (Off:0 Def:1),,,,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,34,1,1,1,8:46 PM,7:17,Dalembert 17' Jump Shot (2 PTS) (Ellis 2 AST),,,6 - 10,4,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,35,1,80,1,8:47 PM,6:55,,,G. Hill 20' Step Back Jump Shot (2 PTS),8 - 10,2,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,36,2,86,1,8:47 PM,6:40,MISS Dalembert 14' Turnaround Fadeaway Shot,,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,37,4,0,1,8:47 PM,6:39,,,Stephenson REBOUND (Off:0 Def:2),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,38,2,1,1,8:47 PM,6:33,,,MISS G. Hill 25' 3PT Jump Shot,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,39,4,0,1,8:47 PM,6:32,,,West REBOUND (Off:1 Def:0),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,40,2,1,1,8:47 PM,6:26,,,MISS George 16' Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,41,4,0,1,8:47 PM,6:25,Marion REBOUND (Off:0 Def:1),,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,42,9,1,1,8:47 PM,6:25,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,43,8,0,1,8:50 PM,6:25,SUB: Carter FOR Nowitzki,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,45,5,1,1,8:50 PM,6:14,Ellis Bad Pass Turnover (P1.T2),,West STEAL (1 STL),,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,46,1,50,1,8:50 PM,6:09,,,George 1' Running Dunk (4 PTS),10 - 10,TIE,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,47,1,1,1,8:51 PM,5:53,Ellis 22' Jump Shot (6 PTS) (Carter 1 AST),,,10 - 12,2,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,48,6,2,1,8:51 PM,5:39,Dalembert S.FOUL (P1.T2),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,49,3,11,1,8:51 PM,5:39,,,Hibbert Free Throw 1 of 2 (3 PTS),11 - 12,1,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,51,8,0,1,8:52 PM,5:39,,,SUB: Johnson FOR Stephenson,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,52,3,12,1,8:52 PM,5:39,,,Hibbert Free Throw 2 of 2 (4 PTS),12 - 12,TIE,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,54,5,4,1,8:52 PM,5:29,Marion Traveling Turnover (P1.T3),,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,55,2,5,1,8:52 PM,5:18,,,MISS G. Hill  Layup,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,57,4,0,1,8:52 PM,5:16,,,Hibbert REBOUND (Off:2 Def:2),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,56,1,72,1,8:52 PM,5:16,,,Hibbert  Putback Layup (6 PTS),14 - 12,-2,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,58,1,79,1,8:52 PM,5:03,Calderon 18' Pullup Jump Shot (4 PTS),,,14 - 14,TIE,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,59,5,1,1,8:53 PM,4:43,Calderon STEAL (1 STL),,West Bad Pass Turnover (P1.T2),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,60,6,17,1,8:53 PM,4:26,,,Pacers T.Foul (Def. 3 Sec Hibbert ),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,61,3,16,1,8:53 PM,4:26,Calderon Free Throw Technical (5 PTS),,,14 - 15,1,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,63,8,0,1,8:53 PM,4:26,,,SUB: Scola FOR West,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,64,5,15,1,8:54 PM,4:20,Dalembert Offensive Goaltending Turnover (P2.T4),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,65,6,4,1,8:54 PM,4:12,,,Johnson OFF.Foul (P1),,,5.0,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,66,5,5,1,8:54 PM,4:12,,,Johnson Foul Turnover (P1.T3),,,5.0,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,67,1,1,1,8:55 PM,3:55,Ellis 22' Jump Shot (8 PTS) (Calderon 1 AST),,,14 - 17,3,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,68,2,1,1,8:55 PM,3:41,,,MISS Hibbert 21' Jump Shot,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,69,4,0,1,8:55 PM,3:39,Dalembert REBOUND (Off:0 Def:3),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,70,2,84,1,8:55 PM,3:29,MISS Marion 11' Running Bank Shot,,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,71,4,0,1,8:55 PM,3:28,,,Hibbert REBOUND (Off:2 Def:3),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,73,8,0,1,8:55 PM,3:14,SUB: Blair FOR Dalembert,,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,74,8,0,1,8:56 PM,3:14,SUB: Mekel FOR Calderon,,,,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,75,2,66,1,8:56 PM,3:06,,,MISS G. Hill 25' 3PT Jump Bank Shot,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,76,4,0,1,8:56 PM,3:05,Ellis REBOUND (Off:0 Def:3),,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,77,5,1,1,8:56 PM,2:57,Blair Bad Pass Turnover (P1.T5),,,,,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,78,9,1,1,8:56 PM,2:57,,,Pacers Timeout: Regular (Reg.1 Short 0),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,80,8,0,1,8:58 PM,2:57,SUB: Nowitzki FOR Marion,,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,81,8,0,1,8:58 PM,2:57,SUB: Ellington FOR Ellis,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,82,8,0,1,8:58 PM,2:57,,,SUB: Watson FOR G. Hill,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,83,1,1,1,8:59 PM,2:41,,,Scola 20' Jump Shot (2 PTS) (Watson 1 AST),16 - 17,1,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,84,2,1,1,8:59 PM,2:24,MISS Nowitzki 19' Jump Shot,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,85,4,0,1,8:59 PM,2:23,Blair REBOUND (Off:1 Def:0),,,,,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,86,2,1,1,8:59 PM,2:16,MISS Mekel 10' Jump Shot,,Hibbert BLOCK (1 BLK),,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0
-0011300115,87,4,0,1,8:59 PM,2:15,Mekel REBOUND (Off:1 Def:0),,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,88,5,40,1,8:59 PM,2:06,Ellington Out of Bounds Lost Ball Turnover (P1.T6),,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,89,2,78,1,9:00 PM,1:49,,,MISS George 8' Floating Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,90,4,0,1,9:00 PM,1:48,,,Hibbert REBOUND (Off:3 Def:3),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,91,1,5,1,9:00 PM,1:43,,,Scola 1' Layup (4 PTS) (Hibbert 1 AST),18 - 17,-1,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,92,7,1,1,9:00 PM,1:41,,,Pacers Violation: Delay of game Violation,,,3.0,1610612754,,,,,,0,0,,,,,,1,0,,,,,,0
-0011300115,93,5,1,1,9:00 PM,1:31,Mekel Bad Pass Turnover (P1.T7),,Scola STEAL (1 STL),,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,94,2,79,1,9:01 PM,1:25,,,MISS Watson 14' Pullup Jump Shot,,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,95,4,0,1,9:01 PM,1:23,Nowitzki REBOUND (Off:0 Def:1),,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,96,2,1,1,9:01 PM,1:14,MISS Ellington 18' Jump Shot,,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,97,4,0,1,9:01 PM,1:13,,,Johnson REBOUND (Off:0 Def:1),,,5.0,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,98,1,79,1,9:01 PM,1:06,,,George 24' 3PT Pullup Jump Shot (7 PTS) (Watson 2 AST),21 - 17,-4,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,99,2,1,1,9:01 PM,0:48,MISS Carter 22' Jump Shot,,,,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,100,4,0,1,9:01 PM,0:46,,,Scola REBOUND (Off:0 Def:1),,,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,101,6,2,1,9:02 PM,0:27,Blair S.FOUL (P1.T3),,,,,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,102,3,11,1,9:02 PM,0:27,,,Hibbert Free Throw 1 of 2 (7 PTS),22 - 17,-5,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,104,3,12,1,9:02 PM,0:27,,,Hibbert Free Throw 2 of 2 (8 PTS),23 - 17,-6,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,106,6,2,1,9:03 PM,0:05,,,Johnson S.FOUL (P2.T1),,,5.0,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,107,3,11,1,9:03 PM,0:05,MISS Blair Free Throw 1 of 2,,,,,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,108,4,1,1,9:03 PM,0:05,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,109,8,0,1,9:03 PM,0:05,SUB: Crowder FOR Carter,,,,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,110,3,12,1,9:04 PM,0:05,Blair Free Throw 2 of 2 (1 PTS),,,23 - 18,-5,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,112,1,79,1,9:04 PM,0:00,,,George 16' Pullup Jump Shot (9 PTS),25 - 18,-7,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,114,18,0,1,9:04 PM,0:00,,,,,,,112,Dontonio Wingfield,,,,,0,0,,,,,,1,0,,,,,,0
-0011300115,115,13,0,1,9:05 PM,0:00,,,,25 - 18,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,116,12,0,2,9:06 PM,12:00,,,,25 - 18,-7,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,117,2,1,2,9:07 PM,11:45,MISS Crowder 18' Jump Shot,,,,,4.0,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,118,4,0,2,9:07 PM,11:43,,,Watson REBOUND (Off:0 Def:1),,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,119,6,4,2,9:07 PM,11:32,,,Mahinmi OFF.Foul (P1),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,120,5,5,2,9:07 PM,11:32,,,Mahinmi Foul Turnover (P1.T4),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,121,6,4,2,9:07 PM,11:23,Blair OFF.Foul (P2),,,,,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,122,5,5,2,9:07 PM,11:23,Blair Foul Turnover (P2.T8),,,,,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,123,2,5,2,9:08 PM,11:12,,,MISS Scola 1' Layup,,,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,124,4,0,2,9:08 PM,11:10,,,Mahinmi REBOUND (Off:1 Def:0),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,125,2,5,2,9:08 PM,11:09,,,MISS Mahinmi 3' Layup,,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,126,4,0,2,9:08 PM,11:07,Ellington REBOUND (Off:0 Def:1),,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,127,1,73,2,9:08 PM,10:59,Blair 2' Driving Reverse Layup (3 PTS) (Ellington 1 AST),,,25 - 20,-5,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,128,6,2,2,9:08 PM,10:41,Crowder S.FOUL (P1.T1),,,,,4.0,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,129,3,13,2,9:09 PM,10:41,,,MISS Copeland Free Throw 1 of 3,,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,136,4,0,2,9:09 PM,10:41,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,131,3,14,2,9:09 PM,10:41,,,MISS Copeland Free Throw 2 of 3,,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,132,4,1,2,9:09 PM,10:41,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,133,8,0,2,9:09 PM,10:41,SUB: James FOR Blair,,,,,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,134,3,15,2,9:09 PM,10:41,,,Copeland Free Throw 3 of 3 (1 PTS),26 - 20,-6,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,137,6,2,2,9:10 PM,10:27,,,Scola S.FOUL (P1.T1),,,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,140,3,11,2,9:10 PM,10:27,Nowitzki Free Throw 1 of 2 (3 PTS),,,26 - 21,-5,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,142,3,12,2,9:10 PM,10:27,Nowitzki Free Throw 2 of 2 (4 PTS),,,26 - 22,-4,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,144,2,1,2,9:10 PM,10:11,,,MISS Watson 25' 3PT Jump Shot,,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,145,4,0,2,9:11 PM,10:10,James REBOUND (Off:0 Def:1),,,,,4.0,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,146,1,1,2,9:11 PM,9:57,Ellington 25' 3PT Jump Shot (3 PTS) (James 1 AST),,,26 - 25,-1,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,147,1,1,2,9:11 PM,9:42,,,Scola 18' Jump Shot (6 PTS) (Mahinmi 1 AST),28 - 25,-3,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,148,6,2,2,9:11 PM,9:27,,,Mahinmi S.FOUL (P2.T2),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,149,3,11,2,9:12 PM,9:27,Mekel Free Throw 1 of 2 (1 PTS),,,28 - 26,-2,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,151,3,12,2,9:12 PM,9:27,MISS Mekel Free Throw 2 of 2,,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,153,4,0,2,9:12 PM,9:27,,,Scola REBOUND (Off:0 Def:2),,,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,154,6,17,2,9:12 PM,9:14,MAVERICKS T.Foul (Def. 3 Sec Mekel ),,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,155,3,16,2,9:12 PM,9:14,,,Watson Free Throw Technical (1 PTS),29 - 26,-3,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,157,2,42,2,9:13 PM,9:04,,,MISS Mahinmi 1' Driving Layup,,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,158,4,0,2,9:13 PM,9:03,Nowitzki REBOUND (Off:0 Def:2),,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,159,2,1,2,9:13 PM,8:57,MISS Ellington 24' 3PT Jump Shot,,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,160,4,0,2,9:13 PM,8:55,Crowder REBOUND (Off:1 Def:0),,,,,4.0,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,161,2,1,2,9:13 PM,8:40,MISS Mekel 19' Jump Shot,,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,162,4,0,2,9:13 PM,8:39,Nowitzki REBOUND (Off:1 Def:2),,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,163,1,1,2,9:13 PM,8:36,Nowitzki 13' Jump Shot (6 PTS),,,29 - 28,-1,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,164,9,1,2,9:14 PM,8:36,,,Pacers Timeout: Regular (Reg.2 Short 0),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,165,8,0,2,9:15 PM,8:36,SUB: Marion FOR Nowitzki,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,167,5,4,2,9:16 PM,8:24,,,Copeland Traveling Turnover (P1.T5),,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,169,2,77,2,9:17 PM,8:03,MISS Ellington 11' Driving Jump Shot,,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,170,4,0,2,9:17 PM,8:02,,,Scola REBOUND (Off:0 Def:3),,,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,171,2,1,2,9:17 PM,7:55,,,MISS Copeland 25' 3PT Jump Shot,,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,172,4,0,2,9:17 PM,7:55,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,174,8,0,2,9:18 PM,7:48,SUB: Ellis FOR Mekel,,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,175,8,0,2,9:18 PM,7:48,SUB: Calderon FOR Ellington,,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,176,8,0,2,9:18 PM,7:48,SUB: Carter FOR Crowder,,,,,4.0,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,177,1,46,2,9:18 PM,7:42,Marion 11' Running Jump Shot (2 PTS) (Calderon 2 AST),,,29 - 30,1,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,178,2,77,2,9:18 PM,7:16,Marion BLOCK (1 BLK),,MISS Watson 13' Driving Jump Shot,,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0
-0011300115,179,4,0,2,9:18 PM,7:14,James REBOUND (Off:0 Def:2),,,,,4.0,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,180,5,1,2,9:18 PM,7:09,Marion Bad Pass Turnover (P2.T9),,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,181,6,2,2,9:19 PM,7:00,Carter S.FOUL (P1.T2),,,,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,182,3,11,2,9:19 PM,7:00,,,Mahinmi Free Throw 1 of 2 (1 PTS),30 - 30,TIE,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,184,8,0,2,9:19 PM,7:00,,,SUB: G. Hill FOR Watson,,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,185,8,0,2,9:19 PM,7:00,,,SUB: West FOR Scola,,,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,186,3,12,2,9:19 PM,7:00,,,Mahinmi Free Throw 2 of 2 (2 PTS),31 - 30,-1,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,188,6,1,2,9:20 PM,6:48,,,Copeland P.FOUL (P1.T3),,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,189,2,5,2,9:20 PM,6:42,MISS James 2' Layup,,Mahinmi BLOCK (1 BLK),,,4.0,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0
-0011300115,190,4,0,2,9:20 PM,6:41,Ellis REBOUND (Off:1 Def:3),,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,191,2,1,2,9:20 PM,6:37,MISS Ellis 12' Jump Shot,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,192,4,0,2,9:20 PM,6:36,,,Stephenson REBOUND (Off:0 Def:3),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,193,2,1,2,9:21 PM,6:15,,,MISS Copeland  3PT Jump Shot,,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,194,4,0,2,9:21 PM,6:14,Carter REBOUND (Off:0 Def:1),,,,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,195,1,1,2,9:21 PM,6:07,Carter 24' 3PT Jump Shot (3 PTS) (Ellis 3 AST),,,31 - 33,2,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,196,5,2,2,9:21 PM,5:46,Carter STEAL (1 STL),,Copeland Lost Ball Turnover (P2.T6),,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,197,5,21,2,9:21 PM,5:40,Calderon Palming Turnover (P1.T10),,,,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,199,9,4,2,9:22 PM,5:40,,,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,203,2,1,2,9:25 PM,5:16,,,MISS Stephenson 26' 3PT Jump Shot,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,204,4,0,2,9:25 PM,5:15,Marion REBOUND (Off:0 Def:2),,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,205,1,1,2,9:25 PM,5:07,Carter 25' 3PT Jump Shot (6 PTS) (Calderon 3 AST),,,31 - 36,5,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,206,1,1,2,9:25 PM,4:42,,,G. Hill 26' 3PT Jump Shot (5 PTS) (Copeland 1 AST),34 - 36,2,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,207,2,1,2,9:25 PM,4:23,MISS Ellis 21' Jump Shot,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,208,4,0,2,9:25 PM,4:22,,,West REBOUND (Off:1 Def:1),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,209,2,58,2,9:26 PM,4:08,,,MISS West 9' Turnaround Hook Shot,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,210,4,0,2,9:26 PM,4:07,,,Mahinmi REBOUND (Off:2 Def:0),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,211,2,1,2,9:26 PM,4:04,,,MISS Copeland  3PT Jump Shot,,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,212,4,0,2,9:26 PM,4:03,Marion REBOUND (Off:0 Def:3),,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,213,2,42,2,9:26 PM,3:55,MISS Ellis 3' Driving Layup,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,214,4,0,2,9:26 PM,3:53,,,Stephenson REBOUND (Off:0 Def:4),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,215,5,8,2,9:26 PM,3:47,,,West 3 Second Violation Turnover (P2.T7),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,216,8,0,2,9:26 PM,3:47,SUB: Dalembert FOR Carter,,,,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,217,8,0,2,9:26 PM,3:47,SUB: Nowitzki FOR James,,,,,4.0,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,218,8,0,2,9:27 PM,3:47,,,SUB: Hibbert FOR Copeland,,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,219,8,0,2,9:27 PM,3:47,,,SUB: George FOR Mahinmi,,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,220,2,1,2,9:27 PM,3:33,MISS Nowitzki 17' Jump Shot,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,221,4,0,2,9:27 PM,3:31,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,222,5,1,2,9:27 PM,3:23,Ellis Bad Pass Turnover (P2.T11),,George STEAL (1 STL),,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,223,5,1,2,9:27 PM,3:18,,,George Bad Pass Turnover (P1.T8),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,224,2,1,2,9:28 PM,3:03,MISS Calderon  3PT Jump Shot,,,,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,225,4,0,2,9:28 PM,3:02,Dalembert REBOUND (Off:1 Def:3),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,226,2,1,2,9:28 PM,2:52,MISS Marion  3PT Jump Shot,,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,227,4,0,2,9:28 PM,2:51,Dalembert REBOUND (Off:2 Def:3),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,228,5,39,2,9:28 PM,2:51,Dalembert Step Out of Bounds Turnover (P3.T12),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,230,9,1,2,9:28 PM,2:51,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,233,5,1,2,9:31 PM,2:36,Marion STEAL (1 STL),,Stephenson Bad Pass Turnover (P1.T9),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,234,1,7,2,9:31 PM,2:32,Marion 1' Dunk (4 PTS),,,34 - 38,4,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,235,2,1,2,9:31 PM,2:18,,,MISS George 24' 3PT Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,236,4,0,2,9:31 PM,2:16,,,Stephenson REBOUND (Off:1 Def:4),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,237,2,46,2,9:31 PM,2:09,,,MISS Stephenson 5' Running Jump Shot,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,238,4,0,2,9:31 PM,2:08,Nowitzki REBOUND (Off:1 Def:3),,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,239,5,1,2,9:32 PM,2:03,Marion Bad Pass Turnover (P3.T13),,Stephenson STEAL (1 STL),,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,240,1,1,2,9:32 PM,1:56,,,George 25' 3PT Jump Shot (12 PTS) (West 1 AST),37 - 38,1,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,241,2,1,2,9:32 PM,1:28,MISS Nowitzki 18' Jump Shot,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,242,4,0,2,9:32 PM,1:27,,,George REBOUND (Off:0 Def:1),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,243,2,58,2,9:32 PM,1:09,,,MISS Hibbert 6' Turnaround Hook Shot,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,244,4,0,2,9:32 PM,1:08,,,George REBOUND (Off:1 Def:1),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,245,2,63,2,9:33 PM,1:04,,,MISS George 9' Fadeaway Jumper,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,246,4,0,2,9:33 PM,1:03,,,Hibbert REBOUND (Off:4 Def:3),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,247,2,4,2,9:33 PM,1:01,,,MISS Hibbert 1' Tip Shot,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,248,4,0,2,9:33 PM,0:59,Calderon REBOUND (Off:0 Def:2),,,,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,249,6,1,2,9:33 PM,0:54,,,George P.FOUL (P1.T4),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,250,9,2,2,9:33 PM,0:54,MAVERICKS Timeout: Short (Full 2 Short 1),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,251,8,0,2,9:34 PM,0:54,SUB: Carter FOR Marion,,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,253,2,1,2,9:34 PM,0:44,MISS Nowitzki 24' 3PT Jump Shot,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,254,4,0,2,9:34 PM,0:44,Dalembert REBOUND (Off:3 Def:3),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,255,6,3,2,9:34 PM,0:44,,,Hibbert L.B.FOUL (P1.PN),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,256,3,11,2,9:35 PM,0:44,Dalembert Free Throw 1 of 2 (3 PTS),,,37 - 39,2,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,258,3,12,2,9:35 PM,0:44,Dalembert Free Throw 2 of 2 (4 PTS),,,37 - 40,3,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,260,2,5,2,9:35 PM,0:33,Dalembert BLOCK (2 BLK),,MISS Hibbert 2' Layup,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0
-0011300115,261,4,0,2,9:35 PM,0:33,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,262,1,56,2,9:36 PM,0:24,,,Hibbert 7' Running Hook Shot (10 PTS),39 - 40,1,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,263,6,18,2,9:36 PM,0:24,,,Pacers Delay,,,3.0,1610612754,,,,,,0,0,,,,,,1,0,,,,,,0
-0011300115,264,3,16,2,9:36 PM,0:24,Nowitzki Free Throw Technical (7 PTS),,,39 - 41,2,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,266,2,82,2,9:37 PM,0:03,MISS Ellis 6' Driving Bank Shot,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,267,4,0,2,9:37 PM,0:02,Dalembert REBOUND (Off:4 Def:3),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,268,2,65,2,9:37 PM,0:00,MISS Dalembert 6' Jump Hook Shot,,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,269,4,0,2,9:37 PM,0:00,,,West REBOUND (Off:1 Def:2),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,271,13,0,2,9:37 PM,0:00,,,,39 - 41,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,273,12,0,3,9:54 PM,12:00,,,,39 - 41,2,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,274,2,1,3,9:54 PM,11:46,MISS Calderon 18' Jump Shot,,,,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,275,4,0,3,9:54 PM,11:45,,,George REBOUND (Off:1 Def:2),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,276,1,75,3,9:55 PM,11:34,,,West 2' Driving Finger Roll Layup (4 PTS) (Hibbert 2 AST),41 - 41,TIE,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,277,2,1,3,9:55 PM,11:08,MISS Nowitzki 19' Jump Shot,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,278,4,0,3,9:55 PM,11:07,,,Stephenson REBOUND (Off:1 Def:5),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,279,6,2,3,9:55 PM,10:49,Dalembert S.FOUL (P2.T1),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,280,3,11,3,9:56 PM,10:49,,,Hibbert Free Throw 1 of 2 (11 PTS),42 - 41,-1,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,282,3,12,3,9:56 PM,10:49,,,Hibbert Free Throw 2 of 2 (12 PTS),43 - 41,-2,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,284,2,42,3,9:56 PM,10:34,MISS Ellis 1' Driving Layup,,West BLOCK (1 BLK),,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0
-0011300115,285,4,0,3,9:56 PM,10:33,,,Stephenson REBOUND (Off:1 Def:6),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,286,5,1,3,9:57 PM,10:23,,,Stephenson Bad Pass Turnover (P2.T10),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,287,2,46,3,9:57 PM,10:13,MISS Marion 13' Running Jump Shot,,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,289,4,0,3,9:57 PM,10:12,Dalembert REBOUND (Off:5 Def:3),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,288,2,4,3,9:57 PM,10:12,MISS Dalembert 1' Tip Shot,,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,290,4,0,3,9:57 PM,10:11,,,Hibbert REBOUND (Off:4 Def:4),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,291,2,80,3,9:57 PM,10:00,,,MISS G. Hill 15' Step Back Jump Shot,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,292,4,0,3,9:57 PM,9:59,Ellis REBOUND (Off:1 Def:4),,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,293,1,7,3,9:57 PM,9:48,Marion 1' Dunk (6 PTS) (Nowitzki 1 AST),,,43 - 43,TIE,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,294,2,1,3,9:58 PM,9:31,,,MISS George 25' 3PT Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,295,4,0,3,9:58 PM,9:31,Dalembert REBOUND (Off:5 Def:4),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,296,1,1,3,9:58 PM,9:19,Nowitzki 16' Jump Shot (9 PTS),,,43 - 45,2,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,297,6,2,3,9:58 PM,9:19,,,West S.FOUL (P1.T1),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,298,3,10,3,9:58 PM,9:19,Nowitzki Free Throw 1 of 1 (10 PTS),,,43 - 46,3,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,300,2,5,3,9:59 PM,9:05,Nowitzki BLOCK (1 BLK),,MISS George 2' Layup,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0
-0011300115,301,4,0,3,9:59 PM,9:04,Nowitzki REBOUND (Off:1 Def:4),,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,302,1,41,3,9:59 PM,8:58,Marion 2' Running Layup (8 PTS) (Dalembert 1 AST),,,43 - 48,5,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,303,5,40,3,9:59 PM,8:43,,,George Out of Bounds Lost Ball Turnover (P2.T11),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,304,6,2,3,9:59 PM,8:33,,,Hibbert S.FOUL (P2.T2),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,305,6,11,3,10:00 PM,8:33,,,George T.FOUL (P1.T2),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,306,3,16,3,10:00 PM,8:33,Nowitzki Free Throw Technical (11 PTS),,,43 - 49,6,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,308,3,11,3,10:00 PM,8:33,Dalembert Free Throw 1 of 2 (5 PTS),,,43 - 50,7,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,310,3,12,3,10:01 PM,8:33,Dalembert Free Throw 2 of 2 (6 PTS),,,43 - 51,8,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,312,1,56,3,10:01 PM,8:23,,,West 6' Running Hook Shot (6 PTS) (G. Hill 1 AST),45 - 51,6,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,313,6,4,3,10:01 PM,8:09,Dalembert OFF.Foul (P3),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,314,5,5,3,10:01 PM,8:09,Dalembert Foul Turnover (P4.T14),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,315,6,1,3,10:02 PM,7:55,Dalembert P.FOUL (P4.T2),,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,316,8,0,3,10:02 PM,7:55,SUB: Blair FOR Dalembert,,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,317,7,1,3,10:02 PM,7:55,MAVERICKS Violation: Delay of game Violation,,,,,2.0,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
-0011300115,318,1,89,3,10:02 PM,7:44,,,George 2' Reverse Slam Dunk (14 PTS) (Hibbert 3 AST),47 - 51,4,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,319,5,2,3,10:02 PM,7:34,Calderon Lost Ball Turnover (P2.T15),,George STEAL (2 STL),,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,320,1,90,3,10:03 PM,7:30,,,G. Hill 2' Running Slam Dunk (7 PTS) (George 1 AST),49 - 51,2,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,322,9,1,3,10:03 PM,7:27,MAVERICKS Timeout: Regular (Full 3 Short 1),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,325,5,1,3,10:06 PM,7:14,Marion Bad Pass Turnover (P4.T16),,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,326,6,1,3,10:06 PM,7:07,Nowitzki P.FOUL (P1.T3),,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,5,2561,David West,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,327,1,1,3,10:06 PM,6:52,,,Stephenson 25' 3PT Jump Shot (3 PTS) (West 2 AST),52 - 51,-1,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,328,6,1,3,10:07 PM,6:39,,,West P.FOUL (P2.T3),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,329,6,1,3,10:07 PM,6:34,,,G. Hill P.FOUL (P1.T4),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,330,2,73,3,10:07 PM,6:24,MISS Ellis 3' Driving Reverse Layup,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,331,4,0,3,10:07 PM,6:23,,,G. Hill REBOUND (Off:0 Def:1),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,332,1,42,3,10:08 PM,6:17,,,G. Hill 1' Driving Layup (9 PTS),54 - 51,-3,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,333,5,1,3,10:08 PM,6:04,Calderon Bad Pass Turnover (P3.T17),,G. Hill STEAL (1 STL),,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,334,1,8,3,10:08 PM,5:50,,,George 1' Slam Dunk (16 PTS) (G. Hill 2 AST),56 - 51,-5,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,335,9,2,3,10:08 PM,5:48,MAVERICKS Timeout: Short (Full 3 Short 2),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,336,8,0,3,10:09 PM,5:48,SUB: Carter FOR Nowitzki,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,338,1,46,3,10:09 PM,5:28,Blair 12' Running Jump Shot (5 PTS) (Ellis 4 AST),,,56 - 53,-3,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,339,5,1,3,10:10 PM,5:11,Ellis STEAL (1 STL),,Stephenson Bad Pass Turnover (P3.T12),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,340,2,1,3,10:10 PM,5:04,MISS Blair 9' Jump Shot,,,,,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,341,4,0,3,10:10 PM,5:03,,,G. Hill REBOUND (Off:0 Def:2),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,342,1,1,3,10:10 PM,4:54,,,G. Hill 25' 3PT Jump Shot (12 PTS) (George 2 AST),59 - 53,-6,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,343,1,46,3,10:10 PM,4:35,Marion 13' Running Jump Shot (10 PTS) (Calderon 4 AST),,,59 - 55,-4,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,344,1,8,3,10:10 PM,4:23,,,Hibbert 1' Slam Dunk (14 PTS) (George 3 AST),61 - 55,-6,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,345,1,42,3,10:11 PM,4:09,Blair 1' Driving Layup (7 PTS) (Ellis 5 AST),,,61 - 57,-4,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,346,5,2,3,10:11 PM,3:54,Marion STEAL (2 STL),,West Lost Ball Turnover (P3.T13),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,347,1,1,3,10:11 PM,3:35,Blair 5' Jump Shot (9 PTS) (Ellis 6 AST),,,61 - 59,-2,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,348,9,1,3,10:11 PM,3:33,,,Pacers Timeout: Regular (Reg.3 Short 0),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,351,8,0,3,10:14 PM,3:33,,,SUB: Mahinmi FOR Hibbert,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,352,8,0,3,10:14 PM,3:33,,,SUB: Johnson FOR Stephenson,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,353,1,79,3,10:14 PM,3:12,,,George 21' Pullup Jump Shot (18 PTS),63 - 59,-4,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,354,2,79,3,10:14 PM,3:03,MISS Calderon 18' Pullup Jump Shot,,,,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,355,4,0,3,10:15 PM,3:02,,,Mahinmi REBOUND (Off:2 Def:1),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,356,2,1,3,10:15 PM,2:49,,,MISS G. Hill 25' 3PT Jump Shot,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,357,4,0,3,10:15 PM,2:47,Marion REBOUND (Off:0 Def:4),,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,358,5,1,3,10:15 PM,2:34,Carter Bad Pass Turnover (P1.T18),,George STEAL (3 STL),,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,359,1,78,3,10:15 PM,2:28,,,George 5' Floating Jump Shot (20 PTS),65 - 59,-6,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,360,5,4,3,10:15 PM,2:18,Blair Traveling Turnover (P3.T19),,,,,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,361,8,0,3,10:15 PM,2:18,SUB: Mekel FOR Calderon,,,,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,362,8,0,3,10:16 PM,2:18,,,SUB: Watson FOR G. Hill,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,363,8,0,3,10:16 PM,2:18,SUB: Ellington FOR Ellis,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,364,6,29,3,10:16 PM,2:08,Carter Shooting Block Foul (P2.T4),,,,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,365,3,11,3,10:16 PM,2:08,,,George Free Throw 1 of 2 (21 PTS),66 - 59,-7,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,367,8,0,3,10:16 PM,2:08,SUB: Nowitzki FOR Marion,,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,368,3,12,3,10:17 PM,2:08,,,George Free Throw 2 of 2 (22 PTS),67 - 59,-8,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,370,1,42,3,10:17 PM,1:54,Carter 1' Driving Layup (8 PTS),,,67 - 61,-6,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,371,2,63,3,10:17 PM,1:39,,,MISS West 8' Fadeaway Jumper,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,372,4,0,3,10:17 PM,1:38,Blair REBOUND (Off:1 Def:1),,,,,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,373,2,1,3,10:17 PM,1:24,MISS Nowitzki 18' Jump Shot,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,374,4,0,3,10:17 PM,1:23,,,Watson REBOUND (Off:0 Def:2),,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,375,6,1,3,10:18 PM,1:19,Nowitzki P.FOUL (P2.PN),,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,5,2561,David West,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,376,3,11,3,10:18 PM,1:19,,,West Free Throw 1 of 2 (7 PTS),68 - 61,-7,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,378,3,12,3,10:18 PM,1:19,,,West Free Throw 2 of 2 (8 PTS),69 - 61,-8,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,381,6,4,3,10:19 PM,1:10,Carter OFF.Foul (P3),,,,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,382,5,5,3,10:19 PM,1:10,Carter Foul Turnover (P2.T20),,,,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,383,6,4,3,10:19 PM,1:05,,,Watson OFF.Foul (P1),,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,384,5,5,3,10:19 PM,1:05,,,Watson Foul Turnover (P1.T14),,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,385,6,1,3,10:20 PM,0:57,,,Watson P.FOUL (P2.PN),,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,386,3,11,3,10:20 PM,0:57,MISS Mekel Free Throw 1 of 2,,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,387,4,1,3,10:20 PM,0:57,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,388,3,12,3,10:20 PM,0:57,Mekel Free Throw 2 of 2 (2 PTS),,,69 - 62,-7,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,390,1,1,3,10:21 PM,0:47,,,Watson 21' Jump Shot (3 PTS) (George 4 AST),71 - 62,-9,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,391,2,1,3,10:21 PM,0:34,MISS Carter 24' 3PT Jump Shot,,,,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,392,4,0,3,10:21 PM,0:32,,,Johnson REBOUND (Off:0 Def:2),,,5.0,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,393,2,1,3,10:21 PM,0:12,,,MISS George 25' 3PT Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,394,4,0,3,10:21 PM,0:10,Mekel REBOUND (Off:1 Def:1),,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,395,2,1,3,10:21 PM,0:03,MISS Ellington 24' 3PT Jump Shot,,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,396,4,0,3,10:21 PM,0:01,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,397,13,0,3,10:21 PM,0:00,,,,71 - 62,-9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,399,12,0,4,10:24 PM,12:00,,,,71 - 62,-9,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,400,5,2,4,10:24 PM,11:43,Blair STEAL (1 STL),,George Lost Ball Turnover (P3.T15),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,401,1,1,4,10:25 PM,11:36,Nowitzki 17' Jump Shot (13 PTS) (Ellington 2 AST),,,71 - 64,-7,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,402,1,5,4,10:25 PM,11:18,,,Scola 1' Layup (8 PTS) (George 5 AST),73 - 64,-9,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,403,6,1,4,10:25 PM,11:06,,,Scola P.FOUL (P2.T1),,,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,405,6,2,4,10:26 PM,10:55,,,Mahinmi S.FOUL (P3.T2),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,406,3,11,4,10:26 PM,10:55,Nowitzki Free Throw 1 of 2 (14 PTS),,,73 - 65,-8,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,408,3,12,4,10:26 PM,10:55,MISS Nowitzki Free Throw 2 of 2,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,410,4,0,4,10:26 PM,10:54,,,George REBOUND (Off:1 Def:3),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,411,1,1,4,10:27 PM,10:33,,,George 15' Jump Shot (24 PTS),75 - 65,-10,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,412,6,2,4,10:27 PM,10:15,,,Mahinmi S.FOUL (P4.T3),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,414,3,11,4,10:27 PM,10:15,MISS Ellis Free Throw 1 of 2,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,415,4,1,4,10:27 PM,10:15,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,417,3,12,4,10:28 PM,10:15,Ellis Free Throw 2 of 2 (9 PTS),,,75 - 66,-9,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,420,1,77,4,10:28 PM,9:58,,,George 8' Driving Jump Shot (26 PTS),77 - 66,-11,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,421,2,79,4,10:28 PM,9:42,MISS Ellis 19' Pullup Jump Shot,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,422,4,0,4,10:28 PM,9:40,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,423,5,1,4,10:29 PM,9:40,Ellington Bad Pass Turnover (P2.T21),,Watson STEAL (1 STL),,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,424,2,41,4,10:29 PM,9:35,,,MISS Watson 2' Running Layup,,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,425,4,0,4,10:29 PM,9:33,,,Mahinmi REBOUND (Off:3 Def:1),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,426,2,80,4,10:29 PM,9:16,,,MISS George 15' Step Back Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,427,4,0,4,10:29 PM,9:15,Mekel REBOUND (Off:1 Def:2),,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,428,2,66,4,10:29 PM,9:08,MISS Nowitzki 13' Jump Bank Shot,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,429,4,0,4,10:29 PM,9:05,,,Watson REBOUND (Off:0 Def:3),,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,430,1,1,4,10:29 PM,8:57,,,Johnson  3PT Jump Shot (3 PTS) (Watson 3 AST),80 - 66,-14,5.0,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,431,9,1,4,10:29 PM,8:57,MAVERICKS Timeout: Regular (Full 4 Short 2),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,433,8,0,4,10:32 PM,8:57,SUB: Marion FOR Nowitzki,,,,,4.0,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,434,8,0,4,10:32 PM,8:57,SUB: Dalembert FOR Ellis,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,435,8,0,4,10:32 PM,8:57,SUB: Carter FOR Blair,,,,,4.0,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,437,2,1,4,10:32 PM,8:37,MISS Ellington 26' 3PT Jump Shot,,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,438,4,0,4,10:32 PM,8:36,,,Mahinmi REBOUND (Off:3 Def:2),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,439,2,42,4,10:33 PM,8:22,,,MISS Mahinmi 3' Driving Layup,,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,440,4,0,4,10:33 PM,8:21,,,George REBOUND (Off:2 Def:3),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,441,1,72,4,10:33 PM,8:19,,,George 2' Putback Layup (28 PTS),82 - 66,-16,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,442,6,2,4,10:33 PM,8:08,,,Scola S.FOUL (P3.T4),,,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,443,3,11,4,10:33 PM,8:08,Mekel Free Throw 1 of 2 (3 PTS),,,82 - 67,-15,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,445,3,12,4,10:33 PM,8:08,Mekel Free Throw 2 of 2 (4 PTS),,,82 - 68,-14,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,447,2,82,4,10:34 PM,7:57,Dalembert BLOCK (3 BLK),,MISS Watson 7' Driving Bank Shot,,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0
-0011300115,448,4,0,4,10:34 PM,7:56,,,Mahinmi REBOUND (Off:4 Def:2),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,449,2,1,4,10:34 PM,7:52,,,MISS Watson 22' Jump Shot,,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,450,4,0,4,10:34 PM,7:51,Marion REBOUND (Off:0 Def:5),,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,451,5,40,4,10:34 PM,7:42,Ellington Out of Bounds Lost Ball Turnover (P3.T22),,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
-0011300115,452,8,0,4,10:34 PM,7:42,SUB: Calderon FOR Mekel,,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,453,8,0,4,10:34 PM,7:42,SUB: Ellis FOR Ellington,,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,454,6,1,4,10:35 PM,7:28,Calderon P.FOUL (P1.T1),,,,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,455,5,1,4,10:35 PM,7:22,Ellis STEAL (2 STL),,Watson Bad Pass Turnover (P2.T16),,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,456,2,42,4,10:35 PM,7:16,MISS Ellis 2' Driving Layup,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,457,4,0,4,10:35 PM,7:12,,,Scola REBOUND (Off:0 Def:4),,,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,458,1,1,4,10:35 PM,7:07,,,Watson  3PT Jump Shot (6 PTS) (Johnson 1 AST),85 - 68,-17,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,459,9,1,4,10:35 PM,7:02,MAVERICKS Timeout: Regular (Full 5 Short 2),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,462,2,1,4,10:38 PM,6:55,MISS Carter 11' Jump Shot,,,,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,463,4,0,4,10:38 PM,6:54,,,George REBOUND (Off:2 Def:4),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,464,1,46,4,10:38 PM,6:36,,,Watson 13' Running Jump Shot (8 PTS) (George 6 AST),87 - 68,-19,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,465,5,1,4,10:38 PM,6:20,Ellis Bad Pass Turnover (P3.T23),,Johnson STEAL (1 STL),,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,466,2,1,4,10:39 PM,6:04,,,MISS Watson 24' 3PT Jump Shot,,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,467,4,0,4,10:39 PM,6:03,Marion REBOUND (Off:0 Def:6),,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,468,2,1,4,10:39 PM,5:53,MISS Ellis 25' 3PT Jump Shot,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,469,4,0,4,10:39 PM,5:52,,,Mahinmi REBOUND (Off:4 Def:3),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,470,1,1,4,10:39 PM,5:33,,,Mahinmi 22' Jump Shot (4 PTS) (Watson 4 AST),89 - 68,-21,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,471,9,1,4,10:39 PM,5:28,MAVERICKS Timeout: Regular (Full 6 Short 2),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,472,8,0,4,10:42 PM,5:28,SUB: James FOR Marion,,,,,4.0,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,473,8,0,4,10:42 PM,5:28,SUB: Ledo FOR Dalembert,,,,,4.0,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,474,8,0,4,10:42 PM,5:28,SUB: Crowder FOR Ellis,,,,,4.0,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,475,8,0,4,10:42 PM,5:28,SUB: Ellington FOR Calderon,,,,,4.0,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,476,8,0,4,10:42 PM,5:28,SUB: Mekel FOR Carter,,,,,4.0,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,477,8,0,4,10:42 PM,5:28,,,SUB: S. Hill FOR George,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,478,1,1,4,10:42 PM,5:22,Crowder 24' 3PT Jump Shot (3 PTS) (Mekel 1 AST),,,89 - 71,-18,4.0,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,479,2,1,4,10:43 PM,4:57,,,MISS Watson 25' 3PT Jump Shot,,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,480,4,0,4,10:43 PM,4:56,Ellington REBOUND (Off:0 Def:2),,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,481,5,1,4,10:43 PM,4:46,Ledo Bad Pass Turnover (P1.T24),,Watson STEAL (2 STL),,,4.0,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,482,1,41,4,10:43 PM,4:43,,,Watson 1' Running Layup (10 PTS),91 - 71,-20,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,483,2,86,4,10:43 PM,4:22,MISS Ledo 10' Turnaround Fadeaway Shot,,,,,4.0,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,484,4,0,4,10:43 PM,4:20,,,Johnson REBOUND (Off:0 Def:3),,,5.0,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,485,2,1,4,10:44 PM,3:58,,,MISS Johnson 24' 3PT Jump Shot,,,5.0,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,486,4,0,4,10:44 PM,3:54,Crowder REBOUND (Off:1 Def:1),,,,,4.0,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,487,2,46,4,10:44 PM,3:40,MISS Crowder 11' Running Jump Shot,,,,,4.0,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,488,4,0,4,10:44 PM,3:38,,,Mahinmi REBOUND (Off:4 Def:4),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,489,9,2,4,10:44 PM,3:34,,,Pacers Timeout: Short (Reg.3 Short 1),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,491,8,0,4,10:45 PM,3:34,,,SUB: Armstrong FOR Johnson,,,5.0,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,5,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,492,8,0,4,10:45 PM,3:34,,,SUB: Copeland FOR Scola,,,5.0,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,493,8,0,4,10:45 PM,3:34,,,SUB: Sloan FOR Watson,,,5.0,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,494,8,0,4,10:45 PM,3:34,,,SUB: Butler FOR Mahinmi,,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,5,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
-0011300115,495,2,44,4,10:45 PM,3:22,,,MISS S. Hill  Reverse Layup,,,5.0,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,496,4,0,4,10:45 PM,3:21,James REBOUND (Off:0 Def:3),,,,,4.0,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,497,6,2,4,10:46 PM,3:16,,,Copeland S.FOUL (P2.PN),,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,498,3,11,4,10:46 PM,3:16,Mekel Free Throw 1 of 2 (5 PTS),,,91 - 72,-19,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,500,3,12,4,10:46 PM,3:16,MISS Mekel Free Throw 2 of 2,,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,502,4,0,4,10:46 PM,3:15,,,Armstrong REBOUND (Off:0 Def:1),,,5.0,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,503,2,1,4,10:47 PM,2:56,,,MISS Copeland 25' 3PT Jump Shot,,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,504,4,0,4,10:47 PM,2:55,,,S. Hill REBOUND (Off:1 Def:0),,,5.0,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,505,2,1,4,10:47 PM,2:42,James BLOCK (1 BLK),,MISS S. Hill 17' Jump Shot,,,5.0,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0
-0011300115,506,4,0,4,10:47 PM,2:40,Ellington REBOUND (Off:0 Def:3),,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,508,7,2,4,10:47 PM,2:38,,,S. Hill Violation:Defensive Goaltending,,,5.0,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
-0011300115,507,1,42,4,10:47 PM,2:38,Ellington 1' Driving Layup (5 PTS),,,91 - 74,-17,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,509,2,77,4,10:47 PM,2:22,James BLOCK (2 BLK),,MISS Butler 5' Driving Jump Shot,,,5.0,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0
-0011300115,510,4,0,4,10:47 PM,2:20,,,Butler REBOUND (Off:1 Def:0),,,5.0,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,511,5,2,4,10:47 PM,2:18,Ellington STEAL (1 STL),,Butler Lost Ball Turnover (P1.T17),,,5.0,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
-0011300115,512,2,1,4,10:47 PM,2:13,MISS Ellington 24' 3PT Jump Shot,,,,,4.0,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,513,4,0,4,10:48 PM,2:12,,,Armstrong REBOUND (Off:0 Def:2),,,5.0,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,514,2,1,4,10:48 PM,1:53,,,MISS Butler  3PT Jump Shot,,,5.0,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,515,4,0,4,10:48 PM,1:52,James REBOUND (Off:0 Def:4),,,,,4.0,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,516,1,1,4,10:48 PM,1:43,Crowder 22' Jump Shot (5 PTS),,,91 - 76,-15,4.0,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,517,2,1,4,10:48 PM,1:28,,,MISS Sloan 18' Jump Shot,,,5.0,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,519,4,0,4,10:48 PM,1:27,,,Armstrong REBOUND (Off:1 Def:2),,,5.0,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,518,2,4,4,10:48 PM,1:27,,,MISS Armstrong 2' Tip Shot,,,5.0,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,520,4,0,4,10:48 PM,1:25,,,Copeland REBOUND (Off:1 Def:0),,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,521,1,72,4,10:48 PM,1:25,,,Copeland 1' Putback Layup (3 PTS),93 - 76,-17,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,522,6,1,4,10:49 PM,1:20,,,Copeland P.FOUL (P3.PN),,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
-0011300115,523,3,11,4,10:49 PM,1:20,MISS Mekel Free Throw 1 of 2,,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,524,4,1,4,10:49 PM,1:20,MAVERICKS Rebound,,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,525,3,12,4,10:49 PM,1:20,Mekel Free Throw 2 of 2 (6 PTS),,,93 - 77,-16,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,527,6,2,4,10:49 PM,1:07,James S.FOUL (P1.T2),,,,,4.0,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,528,3,11,4,10:50 PM,1:07,,,Sloan Free Throw 1 of 2 (1 PTS),94 - 77,-17,5.0,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,530,3,12,4,10:50 PM,1:07,,,Sloan Free Throw 2 of 2 (2 PTS),95 - 77,-18,5.0,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,532,2,66,4,10:50 PM,0:51,MISS Mekel 12' Jump Bank Shot,,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,533,4,0,4,10:50 PM,0:50,,,Copeland REBOUND (Off:1 Def:1),,,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,534,2,1,4,10:51 PM,0:41,,,MISS S. Hill 26' 3PT Jump Shot,,,5.0,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,535,4,0,4,10:51 PM,0:40,Ledo REBOUND (Off:0 Def:1),,,,,4.0,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,536,9,1,4,10:51 PM,0:38,MAVERICKS Timeout: Regular (Full 7 Short 2),,,,,2.0,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
-0011300115,537,6,25,4,10:51 PM,0:38,MAVERICKS Excess Timeout Technical,,,,,2.0,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
-0011300115,538,5,42,4,10:51 PM,0:38,MAVERICKS Turnover:  (T#25),,,,,2.0,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
-0011300115,542,3,16,4,10:52 PM,0:38,,,Sloan Free Throw Technical (3 PTS),96 - 77,-19,5.0,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,544,2,1,4,10:53 PM,0:24,,,MISS Butler 24' 3PT Jump Shot,,,5.0,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,545,4,0,4,10:53 PM,0:23,,,S. Hill REBOUND (Off:2 Def:0),,,5.0,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,546,6,28,4,10:53 PM,0:15,Mekel Personal Take Foul (P1.PN),,,,,4.0,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
-0011300115,547,3,11,4,10:53 PM,0:15,,,Copeland Free Throw 1 of 2 (4 PTS),97 - 77,-20,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,549,3,12,4,10:53 PM,0:15,,,Copeland Free Throw 2 of 2 (5 PTS),98 - 77,-21,5.0,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,551,2,79,4,10:54 PM,0:05,MISS Ledo 17' Pullup Jump Shot,,,,,4.0,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
-0011300115,552,4,0,4,10:54 PM,0:04,,,Armstrong REBOUND (Off:1 Def:3),,,5.0,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
-0011300115,553,13,0,4,10:54 PM,0:00,,,,98 - 77,-21,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,0,12,0,1,8:40 PM,12:00,,Start of 1st Period (8:40 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,1,10,0,1,8:40 PM,12:00,Jump Ball Dalembert vs. Hibbert: Tip to,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,3,1610612754,,,,,,0
+0011300115,3,2,1,1,8:40 PM,11:42,,,MISS George 25' 3PT Jump Shot,,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,4,4,0,1,8:40 PM,11:40,Ellis REBOUND (Off:0 Def:1),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,5,1,1,1,8:41 PM,11:25,Nowitzki 17' Jump Shot (2 PTS) (Ellis 1 AST),,,0 - 2,2,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,6,1,80,1,8:41 PM,11:11,,,West 12' Step Back Jump Shot (2 PTS) (Stephenson 1 AST),2 - 2,TIE,5,2561,David West,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,7,1,77,1,8:41 PM,10:55,Ellis 6' Driving Jump Shot (2 PTS),,,2 - 4,2,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,8,2,1,1,8:41 PM,10:39,,,MISS West 14' Jump Shot,,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,9,4,0,1,8:41 PM,10:38,Ellis REBOUND (Off:0 Def:2),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,10,5,4,1,8:42 PM,10:29,Dalembert Traveling Turnover (P1.T1),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,11,2,77,1,8:42 PM,10:13,Dalembert BLOCK (1 BLK),,MISS West 6' Driving Jump Shot,,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0
+0011300115,12,4,0,1,8:42 PM,10:10,Dalembert REBOUND (Off:0 Def:1),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,13,2,42,1,8:42 PM,9:59,MISS Calderon 2' Driving Layup,,,,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,14,4,0,1,8:42 PM,9:57,,,Hibbert REBOUND (Off:0 Def:1),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,15,1,42,1,8:42 PM,9:53,,,George 2' Driving Layup (2 PTS),4 - 4,TIE,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,17,1,75,1,8:43 PM,9:34,Ellis 1' Driving Finger Roll Layup (4 PTS),,,4 - 6,2,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,18,6,27,1,8:43 PM,9:28,Ellis Personal Block Foul (P1.T1),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,19,2,63,1,8:44 PM,9:19,,,MISS George 13' Fadeaway Jumper,,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,20,4,0,1,8:44 PM,9:18,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,21,2,1,1,8:44 PM,9:03,,,MISS Stephenson 25' 3PT Jump Shot,,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,22,4,0,1,8:44 PM,9:02,Dalembert REBOUND (Off:0 Def:2),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,23,1,79,1,8:44 PM,8:49,Calderon 17' Pullup Jump Shot (2 PTS),,,4 - 8,4,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,24,2,77,1,8:45 PM,8:32,,,MISS G. Hill 7' Driving Jump Shot,,,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,25,4,0,1,8:45 PM,8:31,,,Hibbert REBOUND (Off:1 Def:1),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,26,5,13,1,8:45 PM,8:29,,,Hibbert Backcourt Turnover (P1.T1),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,27,2,79,1,8:45 PM,8:20,MISS Ellis 16' Pullup Jump Shot,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,28,4,0,1,8:45 PM,8:19,,,Stephenson REBOUND (Off:0 Def:1),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,29,1,58,1,8:46 PM,8:05,,,Hibbert 10' Turnaround Hook Shot (2 PTS),6 - 8,2,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,30,2,1,1,8:46 PM,7:49,MISS Nowitzki 24' 3PT Jump Shot,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,31,4,0,1,8:46 PM,7:48,,,Hibbert REBOUND (Off:1 Def:2),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,32,2,1,1,8:46 PM,7:27,,,MISS West 13' Jump Shot,,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,33,4,0,1,8:46 PM,7:26,Calderon REBOUND (Off:0 Def:1),,,,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,34,1,1,1,8:46 PM,7:17,Dalembert 17' Jump Shot (2 PTS) (Ellis 2 AST),,,6 - 10,4,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,35,1,80,1,8:47 PM,6:55,,,G. Hill 20' Step Back Jump Shot (2 PTS),8 - 10,2,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,36,2,86,1,8:47 PM,6:40,MISS Dalembert 14' Turnaround Fadeaway Shot,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,37,4,0,1,8:47 PM,6:39,,,Stephenson REBOUND (Off:0 Def:2),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,38,2,1,1,8:47 PM,6:33,,,MISS G. Hill 25' 3PT Jump Shot,,,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,39,4,0,1,8:47 PM,6:32,,,West REBOUND (Off:1 Def:0),,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,40,2,1,1,8:47 PM,6:26,,,MISS George 16' Jump Shot,,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,41,4,0,1,8:47 PM,6:25,Marion REBOUND (Off:0 Def:1),,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,42,9,1,1,8:47 PM,6:25,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,43,8,0,1,8:50 PM,6:25,SUB: Carter FOR Nowitzki,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,45,5,1,1,8:50 PM,6:14,Ellis Bad Pass Turnover (P1.T2),,West STEAL (1 STL),,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,46,1,50,1,8:50 PM,6:09,,,George 1' Running Dunk (4 PTS),10 - 10,TIE,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,47,1,1,1,8:51 PM,5:53,Ellis 22' Jump Shot (6 PTS) (Carter 1 AST),,,10 - 12,2,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,48,6,2,1,8:51 PM,5:39,Dalembert S.FOUL (P1.T2),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,49,3,11,1,8:51 PM,5:39,,,Hibbert Free Throw 1 of 2 (3 PTS),11 - 12,1,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,51,8,0,1,8:52 PM,5:39,,,SUB: Johnson FOR Stephenson,,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,52,3,12,1,8:52 PM,5:39,,,Hibbert Free Throw 2 of 2 (4 PTS),12 - 12,TIE,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,54,5,4,1,8:52 PM,5:29,Marion Traveling Turnover (P1.T3),,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,55,2,5,1,8:52 PM,5:18,,,MISS G. Hill  Layup,,,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,57,4,0,1,8:52 PM,5:16,,,Hibbert REBOUND (Off:2 Def:2),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,56,1,72,1,8:52 PM,5:16,,,Hibbert  Putback Layup (6 PTS),14 - 12,-2,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,58,1,79,1,8:52 PM,5:03,Calderon 18' Pullup Jump Shot (4 PTS),,,14 - 14,TIE,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,59,5,1,1,8:53 PM,4:43,Calderon STEAL (1 STL),,West Bad Pass Turnover (P1.T2),,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,60,6,17,1,8:53 PM,4:26,,,Pacers T.Foul (Def. 3 Sec Hibbert ),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,61,3,16,1,8:53 PM,4:26,Calderon Free Throw Technical (5 PTS),,,14 - 15,1,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,63,8,0,1,8:53 PM,4:26,,,SUB: Scola FOR West,,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,64,5,15,1,8:54 PM,4:20,Dalembert Offensive Goaltending Turnover (P2.T4),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,65,6,4,1,8:54 PM,4:12,,,Johnson OFF.Foul (P1),,,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,66,5,5,1,8:54 PM,4:12,,,Johnson Foul Turnover (P1.T3),,,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,67,1,1,1,8:55 PM,3:55,Ellis 22' Jump Shot (8 PTS) (Calderon 1 AST),,,14 - 17,3,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,68,2,1,1,8:55 PM,3:41,,,MISS Hibbert 21' Jump Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,69,4,0,1,8:55 PM,3:39,Dalembert REBOUND (Off:0 Def:3),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,70,2,84,1,8:55 PM,3:29,MISS Marion 11' Running Bank Shot,,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,71,4,0,1,8:55 PM,3:28,,,Hibbert REBOUND (Off:2 Def:3),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,73,8,0,1,8:55 PM,3:14,SUB: Blair FOR Dalembert,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,74,8,0,1,8:56 PM,3:14,SUB: Mekel FOR Calderon,,,,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,75,2,66,1,8:56 PM,3:06,,,MISS G. Hill 25' 3PT Jump Bank Shot,,,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,76,4,0,1,8:56 PM,3:05,Ellis REBOUND (Off:0 Def:3),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,77,5,1,1,8:56 PM,2:57,Blair Bad Pass Turnover (P1.T5),,,,,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,78,9,1,1,8:56 PM,2:57,,,Pacers Timeout: Regular (Reg.1 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,80,8,0,1,8:58 PM,2:57,SUB: Nowitzki FOR Marion,,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,81,8,0,1,8:58 PM,2:57,SUB: Ellington FOR Ellis,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,82,8,0,1,8:58 PM,2:57,,,SUB: Watson FOR G. Hill,,,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,83,1,1,1,8:59 PM,2:41,,,Scola 20' Jump Shot (2 PTS) (Watson 1 AST),16 - 17,1,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,84,2,1,1,8:59 PM,2:24,MISS Nowitzki 19' Jump Shot,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,85,4,0,1,8:59 PM,2:23,Blair REBOUND (Off:1 Def:0),,,,,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,86,2,1,1,8:59 PM,2:16,MISS Mekel 10' Jump Shot,,Hibbert BLOCK (1 BLK),,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0
+0011300115,87,4,0,1,8:59 PM,2:15,Mekel REBOUND (Off:1 Def:0),,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,88,5,40,1,8:59 PM,2:06,Ellington Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,89,2,78,1,9:00 PM,1:49,,,MISS George 8' Floating Jump Shot,,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,90,4,0,1,9:00 PM,1:48,,,Hibbert REBOUND (Off:3 Def:3),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,91,1,5,1,9:00 PM,1:43,,,Scola 1' Layup (4 PTS) (Hibbert 1 AST),18 - 17,-1,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,92,7,1,1,9:00 PM,1:41,,,Pacers Violation: Delay of game Violation,,,3,1610612754,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300115,93,5,1,1,9:00 PM,1:31,Mekel Bad Pass Turnover (P1.T7),,Scola STEAL (1 STL),,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,94,2,79,1,9:01 PM,1:25,,,MISS Watson 14' Pullup Jump Shot,,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,95,4,0,1,9:01 PM,1:23,Nowitzki REBOUND (Off:0 Def:1),,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,96,2,1,1,9:01 PM,1:14,MISS Ellington 18' Jump Shot,,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,97,4,0,1,9:01 PM,1:13,,,Johnson REBOUND (Off:0 Def:1),,,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,98,1,79,1,9:01 PM,1:06,,,George 24' 3PT Pullup Jump Shot (7 PTS) (Watson 2 AST),21 - 17,-4,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,99,2,1,1,9:01 PM,0:48,MISS Carter 22' Jump Shot,,,,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,100,4,0,1,9:01 PM,0:46,,,Scola REBOUND (Off:0 Def:1),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,101,6,2,1,9:02 PM,0:27,Blair S.FOUL (P1.T3),,,,,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,102,3,11,1,9:02 PM,0:27,,,Hibbert Free Throw 1 of 2 (7 PTS),22 - 17,-5,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,104,3,12,1,9:02 PM,0:27,,,Hibbert Free Throw 2 of 2 (8 PTS),23 - 17,-6,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,106,6,2,1,9:03 PM,0:05,,,Johnson S.FOUL (P2.T1),,,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,107,3,11,1,9:03 PM,0:05,MISS Blair Free Throw 1 of 2,,,,,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,108,4,1,1,9:03 PM,0:05,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,109,8,0,1,9:03 PM,0:05,SUB: Crowder FOR Carter,,,,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,110,3,12,1,9:04 PM,0:05,Blair Free Throw 2 of 2 (1 PTS),,,23 - 18,-5,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,112,1,79,1,9:04 PM,0:00,,,George 16' Pullup Jump Shot (9 PTS),25 - 18,-7,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,114,18,0,1,9:04 PM,0:00,,Support Ruling,,,,0,112,Dontonio Wingfield,,,,,0,0,,,,,,1,0,,,,,,0
+0011300115,115,13,0,1,9:05 PM,0:00,,End of 1st Period (9:05 PM EST),,25 - 18,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,116,12,0,2,9:06 PM,12:00,,Start of 2nd Period (9:06 PM EST),,25 - 18,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,117,2,1,2,9:07 PM,11:45,MISS Crowder 18' Jump Shot,,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,118,4,0,2,9:07 PM,11:43,,,Watson REBOUND (Off:0 Def:1),,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,119,6,4,2,9:07 PM,11:32,,,Mahinmi OFF.Foul (P1),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,120,5,5,2,9:07 PM,11:32,,,Mahinmi Foul Turnover (P1.T4),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,121,6,4,2,9:07 PM,11:23,Blair OFF.Foul (P2),,,,,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,122,5,5,2,9:07 PM,11:23,Blair Foul Turnover (P2.T8),,,,,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,123,2,5,2,9:08 PM,11:12,,,MISS Scola 1' Layup,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,124,4,0,2,9:08 PM,11:10,,,Mahinmi REBOUND (Off:1 Def:0),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,125,2,5,2,9:08 PM,11:09,,,MISS Mahinmi 3' Layup,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,126,4,0,2,9:08 PM,11:07,Ellington REBOUND (Off:0 Def:1),,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,127,1,73,2,9:08 PM,10:59,Blair 2' Driving Reverse Layup (3 PTS) (Ellington 1 AST),,,25 - 20,-5,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,128,6,2,2,9:08 PM,10:41,Crowder S.FOUL (P1.T1),,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,129,3,13,2,9:09 PM,10:41,,,MISS Copeland Free Throw 1 of 3,,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,136,4,0,2,9:09 PM,10:41,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,131,3,14,2,9:09 PM,10:41,,,MISS Copeland Free Throw 2 of 3,,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,132,4,1,2,9:09 PM,10:41,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,133,8,0,2,9:09 PM,10:41,SUB: James FOR Blair,,,,,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,134,3,15,2,9:09 PM,10:41,,,Copeland Free Throw 3 of 3 (1 PTS),26 - 20,-6,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,137,6,2,2,9:10 PM,10:27,,,Scola S.FOUL (P1.T1),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,140,3,11,2,9:10 PM,10:27,Nowitzki Free Throw 1 of 2 (3 PTS),,,26 - 21,-5,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,142,3,12,2,9:10 PM,10:27,Nowitzki Free Throw 2 of 2 (4 PTS),,,26 - 22,-4,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,144,2,1,2,9:10 PM,10:11,,,MISS Watson 25' 3PT Jump Shot,,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,145,4,0,2,9:11 PM,10:10,James REBOUND (Off:0 Def:1),,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,146,1,1,2,9:11 PM,9:57,Ellington 25' 3PT Jump Shot (3 PTS) (James 1 AST),,,26 - 25,-1,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,147,1,1,2,9:11 PM,9:42,,,Scola 18' Jump Shot (6 PTS) (Mahinmi 1 AST),28 - 25,-3,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,148,6,2,2,9:11 PM,9:27,,,Mahinmi S.FOUL (P2.T2),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,149,3,11,2,9:12 PM,9:27,Mekel Free Throw 1 of 2 (1 PTS),,,28 - 26,-2,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,151,3,12,2,9:12 PM,9:27,MISS Mekel Free Throw 2 of 2,,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,153,4,0,2,9:12 PM,9:27,,,Scola REBOUND (Off:0 Def:2),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,154,6,17,2,9:12 PM,9:14,MAVERICKS T.Foul (Def. 3 Sec Mekel ),,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,155,3,16,2,9:12 PM,9:14,,,Watson Free Throw Technical (1 PTS),29 - 26,-3,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,157,2,42,2,9:13 PM,9:04,,,MISS Mahinmi 1' Driving Layup,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,158,4,0,2,9:13 PM,9:03,Nowitzki REBOUND (Off:0 Def:2),,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,159,2,1,2,9:13 PM,8:57,MISS Ellington 24' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,160,4,0,2,9:13 PM,8:55,Crowder REBOUND (Off:1 Def:0),,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,161,2,1,2,9:13 PM,8:40,MISS Mekel 19' Jump Shot,,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,162,4,0,2,9:13 PM,8:39,Nowitzki REBOUND (Off:1 Def:2),,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,163,1,1,2,9:13 PM,8:36,Nowitzki 13' Jump Shot (6 PTS),,,29 - 28,-1,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,164,9,1,2,9:14 PM,8:36,,,Pacers Timeout: Regular (Reg.2 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,165,8,0,2,9:15 PM,8:36,SUB: Marion FOR Nowitzki,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,167,5,4,2,9:16 PM,8:24,,,Copeland Traveling Turnover (P1.T5),,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,169,2,77,2,9:17 PM,8:03,MISS Ellington 11' Driving Jump Shot,,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,170,4,0,2,9:17 PM,8:02,,,Scola REBOUND (Off:0 Def:3),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,171,2,1,2,9:17 PM,7:55,,,MISS Copeland 25' 3PT Jump Shot,,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,172,4,0,2,9:17 PM,7:55,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,174,8,0,2,9:18 PM,7:48,SUB: Ellis FOR Mekel,,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,175,8,0,2,9:18 PM,7:48,SUB: Calderon FOR Ellington,,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,176,8,0,2,9:18 PM,7:48,SUB: Carter FOR Crowder,,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,177,1,46,2,9:18 PM,7:42,Marion 11' Running Jump Shot (2 PTS) (Calderon 2 AST),,,29 - 30,1,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,178,2,77,2,9:18 PM,7:16,Marion BLOCK (1 BLK),,MISS Watson 13' Driving Jump Shot,,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0
+0011300115,179,4,0,2,9:18 PM,7:14,James REBOUND (Off:0 Def:2),,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,180,5,1,2,9:18 PM,7:09,Marion Bad Pass Turnover (P2.T9),,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,181,6,2,2,9:19 PM,7:00,Carter S.FOUL (P1.T2),,,,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,182,3,11,2,9:19 PM,7:00,,,Mahinmi Free Throw 1 of 2 (1 PTS),30 - 30,TIE,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,184,8,0,2,9:19 PM,7:00,,,SUB: G. Hill FOR Watson,,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,185,8,0,2,9:19 PM,7:00,,,SUB: West FOR Scola,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,186,3,12,2,9:19 PM,7:00,,,Mahinmi Free Throw 2 of 2 (2 PTS),31 - 30,-1,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,188,6,1,2,9:20 PM,6:48,,,Copeland P.FOUL (P1.T3),,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,189,2,5,2,9:20 PM,6:42,MISS James 2' Layup,,Mahinmi BLOCK (1 BLK),,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0
+0011300115,190,4,0,2,9:20 PM,6:41,Ellis REBOUND (Off:1 Def:3),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,191,2,1,2,9:20 PM,6:37,MISS Ellis 12' Jump Shot,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,192,4,0,2,9:20 PM,6:36,,,Stephenson REBOUND (Off:0 Def:3),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,193,2,1,2,9:21 PM,6:15,,,MISS Copeland  3PT Jump Shot,,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,194,4,0,2,9:21 PM,6:14,Carter REBOUND (Off:0 Def:1),,,,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,195,1,1,2,9:21 PM,6:07,Carter 24' 3PT Jump Shot (3 PTS) (Ellis 3 AST),,,31 - 33,2,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,196,5,2,2,9:21 PM,5:46,Carter STEAL (1 STL),,Copeland Lost Ball Turnover (P2.T6),,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,197,5,21,2,9:21 PM,5:40,Calderon Palming Turnover (P1.T10),,,,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,199,9,4,2,9:22 PM,5:40,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,203,2,1,2,9:25 PM,5:16,,,MISS Stephenson 26' 3PT Jump Shot,,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,204,4,0,2,9:25 PM,5:15,Marion REBOUND (Off:0 Def:2),,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,205,1,1,2,9:25 PM,5:07,Carter 25' 3PT Jump Shot (6 PTS) (Calderon 3 AST),,,31 - 36,5,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,206,1,1,2,9:25 PM,4:42,,,G. Hill 26' 3PT Jump Shot (5 PTS) (Copeland 1 AST),34 - 36,2,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,207,2,1,2,9:25 PM,4:23,MISS Ellis 21' Jump Shot,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,208,4,0,2,9:25 PM,4:22,,,West REBOUND (Off:1 Def:1),,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,209,2,58,2,9:26 PM,4:08,,,MISS West 9' Turnaround Hook Shot,,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,210,4,0,2,9:26 PM,4:07,,,Mahinmi REBOUND (Off:2 Def:0),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,211,2,1,2,9:26 PM,4:04,,,MISS Copeland  3PT Jump Shot,,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,212,4,0,2,9:26 PM,4:03,Marion REBOUND (Off:0 Def:3),,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,213,2,42,2,9:26 PM,3:55,MISS Ellis 3' Driving Layup,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,214,4,0,2,9:26 PM,3:53,,,Stephenson REBOUND (Off:0 Def:4),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,215,5,8,2,9:26 PM,3:47,,,West 3 Second Violation Turnover (P2.T7),,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,216,8,0,2,9:26 PM,3:47,SUB: Dalembert FOR Carter,,,,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,217,8,0,2,9:26 PM,3:47,SUB: Nowitzki FOR James,,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,218,8,0,2,9:27 PM,3:47,,,SUB: Hibbert FOR Copeland,,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,219,8,0,2,9:27 PM,3:47,,,SUB: George FOR Mahinmi,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,220,2,1,2,9:27 PM,3:33,MISS Nowitzki 17' Jump Shot,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,221,4,0,2,9:27 PM,3:31,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,222,5,1,2,9:27 PM,3:23,Ellis Bad Pass Turnover (P2.T11),,George STEAL (1 STL),,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,223,5,1,2,9:27 PM,3:18,,,George Bad Pass Turnover (P1.T8),,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,224,2,1,2,9:28 PM,3:03,MISS Calderon  3PT Jump Shot,,,,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,225,4,0,2,9:28 PM,3:02,Dalembert REBOUND (Off:1 Def:3),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,226,2,1,2,9:28 PM,2:52,MISS Marion  3PT Jump Shot,,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,227,4,0,2,9:28 PM,2:51,Dalembert REBOUND (Off:2 Def:3),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,228,5,39,2,9:28 PM,2:51,Dalembert Step Out of Bounds Turnover (P3.T12),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,230,9,1,2,9:28 PM,2:51,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,233,5,1,2,9:31 PM,2:36,Marion STEAL (1 STL),,Stephenson Bad Pass Turnover (P1.T9),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,234,1,7,2,9:31 PM,2:32,Marion 1' Dunk (4 PTS),,,34 - 38,4,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,235,2,1,2,9:31 PM,2:18,,,MISS George 24' 3PT Jump Shot,,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,236,4,0,2,9:31 PM,2:16,,,Stephenson REBOUND (Off:1 Def:4),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,237,2,46,2,9:31 PM,2:09,,,MISS Stephenson 5' Running Jump Shot,,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,238,4,0,2,9:31 PM,2:08,Nowitzki REBOUND (Off:1 Def:3),,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,239,5,1,2,9:32 PM,2:03,Marion Bad Pass Turnover (P3.T13),,Stephenson STEAL (1 STL),,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,240,1,1,2,9:32 PM,1:56,,,George 25' 3PT Jump Shot (12 PTS) (West 1 AST),37 - 38,1,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,241,2,1,2,9:32 PM,1:28,MISS Nowitzki 18' Jump Shot,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,242,4,0,2,9:32 PM,1:27,,,George REBOUND (Off:0 Def:1),,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,243,2,58,2,9:32 PM,1:09,,,MISS Hibbert 6' Turnaround Hook Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,244,4,0,2,9:32 PM,1:08,,,George REBOUND (Off:1 Def:1),,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,245,2,63,2,9:33 PM,1:04,,,MISS George 9' Fadeaway Jumper,,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,246,4,0,2,9:33 PM,1:03,,,Hibbert REBOUND (Off:4 Def:3),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,247,2,4,2,9:33 PM,1:01,,,MISS Hibbert 1' Tip Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,248,4,0,2,9:33 PM,0:59,Calderon REBOUND (Off:0 Def:2),,,,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,249,6,1,2,9:33 PM,0:54,,,George P.FOUL (P1.T4),,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,250,9,2,2,9:33 PM,0:54,MAVERICKS Timeout: Short (Full 2 Short 1),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,251,8,0,2,9:34 PM,0:54,SUB: Carter FOR Marion,,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,253,2,1,2,9:34 PM,0:44,MISS Nowitzki 24' 3PT Jump Shot,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,254,4,0,2,9:34 PM,0:44,Dalembert REBOUND (Off:3 Def:3),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,255,6,3,2,9:34 PM,0:44,,,Hibbert L.B.FOUL (P1.PN),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,256,3,11,2,9:35 PM,0:44,Dalembert Free Throw 1 of 2 (3 PTS),,,37 - 39,2,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,258,3,12,2,9:35 PM,0:44,Dalembert Free Throw 2 of 2 (4 PTS),,,37 - 40,3,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,260,2,5,2,9:35 PM,0:33,Dalembert BLOCK (2 BLK),,MISS Hibbert 2' Layup,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0
+0011300115,261,4,0,2,9:35 PM,0:33,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,262,1,56,2,9:36 PM,0:24,,,Hibbert 7' Running Hook Shot (10 PTS),39 - 40,1,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,263,6,18,2,9:36 PM,0:24,,,Pacers Delay,,,3,1610612754,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300115,264,3,16,2,9:36 PM,0:24,Nowitzki Free Throw Technical (7 PTS),,,39 - 41,2,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,266,2,82,2,9:37 PM,0:03,MISS Ellis 6' Driving Bank Shot,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,267,4,0,2,9:37 PM,0:02,Dalembert REBOUND (Off:4 Def:3),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,268,2,65,2,9:37 PM,0:00,MISS Dalembert 6' Jump Hook Shot,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,269,4,0,2,9:37 PM,0:00,,,West REBOUND (Off:1 Def:2),,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,271,13,0,2,9:37 PM,0:00,,End of 2nd Period (9:37 PM EST),,39 - 41,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,273,12,0,3,9:54 PM,12:00,,Start of 3rd Period (9:54 PM EST),,39 - 41,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,274,2,1,3,9:54 PM,11:46,MISS Calderon 18' Jump Shot,,,,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,275,4,0,3,9:54 PM,11:45,,,George REBOUND (Off:1 Def:2),,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,276,1,75,3,9:55 PM,11:34,,,West 2' Driving Finger Roll Layup (4 PTS) (Hibbert 2 AST),41 - 41,TIE,5,2561,David West,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,277,2,1,3,9:55 PM,11:08,MISS Nowitzki 19' Jump Shot,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,278,4,0,3,9:55 PM,11:07,,,Stephenson REBOUND (Off:1 Def:5),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,279,6,2,3,9:55 PM,10:49,Dalembert S.FOUL (P2.T1),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,280,3,11,3,9:56 PM,10:49,,,Hibbert Free Throw 1 of 2 (11 PTS),42 - 41,-1,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,282,3,12,3,9:56 PM,10:49,,,Hibbert Free Throw 2 of 2 (12 PTS),43 - 41,-2,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,284,2,42,3,9:56 PM,10:34,MISS Ellis 1' Driving Layup,,West BLOCK (1 BLK),,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0
+0011300115,285,4,0,3,9:56 PM,10:33,,,Stephenson REBOUND (Off:1 Def:6),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,286,5,1,3,9:57 PM,10:23,,,Stephenson Bad Pass Turnover (P2.T10),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,287,2,46,3,9:57 PM,10:13,MISS Marion 13' Running Jump Shot,,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,289,4,0,3,9:57 PM,10:12,Dalembert REBOUND (Off:5 Def:3),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,288,2,4,3,9:57 PM,10:12,MISS Dalembert 1' Tip Shot,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,290,4,0,3,9:57 PM,10:11,,,Hibbert REBOUND (Off:4 Def:4),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,291,2,80,3,9:57 PM,10:00,,,MISS G. Hill 15' Step Back Jump Shot,,,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,292,4,0,3,9:57 PM,9:59,Ellis REBOUND (Off:1 Def:4),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,293,1,7,3,9:57 PM,9:48,Marion 1' Dunk (6 PTS) (Nowitzki 1 AST),,,43 - 43,TIE,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,294,2,1,3,9:58 PM,9:31,,,MISS George 25' 3PT Jump Shot,,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,295,4,0,3,9:58 PM,9:31,Dalembert REBOUND (Off:5 Def:4),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,296,1,1,3,9:58 PM,9:19,Nowitzki 16' Jump Shot (9 PTS),,,43 - 45,2,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,297,6,2,3,9:58 PM,9:19,,,West S.FOUL (P1.T1),,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,298,3,10,3,9:58 PM,9:19,Nowitzki Free Throw 1 of 1 (10 PTS),,,43 - 46,3,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,300,2,5,3,9:59 PM,9:05,Nowitzki BLOCK (1 BLK),,MISS George 2' Layup,,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0
+0011300115,301,4,0,3,9:59 PM,9:04,Nowitzki REBOUND (Off:1 Def:4),,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,302,1,41,3,9:59 PM,8:58,Marion 2' Running Layup (8 PTS) (Dalembert 1 AST),,,43 - 48,5,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,303,5,40,3,9:59 PM,8:43,,,George Out of Bounds Lost Ball Turnover (P2.T11),,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,304,6,2,3,9:59 PM,8:33,,,Hibbert S.FOUL (P2.T2),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,305,6,11,3,10:00 PM,8:33,,,George T.FOUL (P1.T2),,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,306,3,16,3,10:00 PM,8:33,Nowitzki Free Throw Technical (11 PTS),,,43 - 49,6,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,308,3,11,3,10:00 PM,8:33,Dalembert Free Throw 1 of 2 (5 PTS),,,43 - 50,7,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,310,3,12,3,10:01 PM,8:33,Dalembert Free Throw 2 of 2 (6 PTS),,,43 - 51,8,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,312,1,56,3,10:01 PM,8:23,,,West 6' Running Hook Shot (6 PTS) (G. Hill 1 AST),45 - 51,6,5,2561,David West,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,313,6,4,3,10:01 PM,8:09,Dalembert OFF.Foul (P3),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,314,5,5,3,10:01 PM,8:09,Dalembert Foul Turnover (P4.T14),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,315,6,1,3,10:02 PM,7:55,Dalembert P.FOUL (P4.T2),,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,316,8,0,3,10:02 PM,7:55,SUB: Blair FOR Dalembert,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,317,7,1,3,10:02 PM,7:55,MAVERICKS Violation: Delay of game Violation,,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300115,318,1,89,3,10:02 PM,7:44,,,George 2' Reverse Slam Dunk (14 PTS) (Hibbert 3 AST),47 - 51,4,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,319,5,2,3,10:02 PM,7:34,Calderon Lost Ball Turnover (P2.T15),,George STEAL (2 STL),,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,320,1,90,3,10:03 PM,7:30,,,G. Hill 2' Running Slam Dunk (7 PTS) (George 1 AST),49 - 51,2,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,322,9,1,3,10:03 PM,7:27,MAVERICKS Timeout: Regular (Full 3 Short 1),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,325,5,1,3,10:06 PM,7:14,Marion Bad Pass Turnover (P4.T16),,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,326,6,1,3,10:06 PM,7:07,Nowitzki P.FOUL (P1.T3),,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,5,2561,David West,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,327,1,1,3,10:06 PM,6:52,,,Stephenson 25' 3PT Jump Shot (3 PTS) (West 2 AST),52 - 51,-1,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,328,6,1,3,10:07 PM,6:39,,,West P.FOUL (P2.T3),,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,329,6,1,3,10:07 PM,6:34,,,G. Hill P.FOUL (P1.T4),,,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,330,2,73,3,10:07 PM,6:24,MISS Ellis 3' Driving Reverse Layup,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,331,4,0,3,10:07 PM,6:23,,,G. Hill REBOUND (Off:0 Def:1),,,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,332,1,42,3,10:08 PM,6:17,,,G. Hill 1' Driving Layup (9 PTS),54 - 51,-3,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,333,5,1,3,10:08 PM,6:04,Calderon Bad Pass Turnover (P3.T17),,G. Hill STEAL (1 STL),,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,334,1,8,3,10:08 PM,5:50,,,George 1' Slam Dunk (16 PTS) (G. Hill 2 AST),56 - 51,-5,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,335,9,2,3,10:08 PM,5:48,MAVERICKS Timeout: Short (Full 3 Short 2),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,336,8,0,3,10:09 PM,5:48,SUB: Carter FOR Nowitzki,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,338,1,46,3,10:09 PM,5:28,Blair 12' Running Jump Shot (5 PTS) (Ellis 4 AST),,,56 - 53,-3,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,339,5,1,3,10:10 PM,5:11,Ellis STEAL (1 STL),,Stephenson Bad Pass Turnover (P3.T12),,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,340,2,1,3,10:10 PM,5:04,MISS Blair 9' Jump Shot,,,,,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,341,4,0,3,10:10 PM,5:03,,,G. Hill REBOUND (Off:0 Def:2),,,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,342,1,1,3,10:10 PM,4:54,,,G. Hill 25' 3PT Jump Shot (12 PTS) (George 2 AST),59 - 53,-6,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,343,1,46,3,10:10 PM,4:35,Marion 13' Running Jump Shot (10 PTS) (Calderon 4 AST),,,59 - 55,-4,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,344,1,8,3,10:10 PM,4:23,,,Hibbert 1' Slam Dunk (14 PTS) (George 3 AST),61 - 55,-6,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,345,1,42,3,10:11 PM,4:09,Blair 1' Driving Layup (7 PTS) (Ellis 5 AST),,,61 - 57,-4,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,346,5,2,3,10:11 PM,3:54,Marion STEAL (2 STL),,West Lost Ball Turnover (P3.T13),,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,347,1,1,3,10:11 PM,3:35,Blair 5' Jump Shot (9 PTS) (Ellis 6 AST),,,61 - 59,-2,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,348,9,1,3,10:11 PM,3:33,,,Pacers Timeout: Regular (Reg.3 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,351,8,0,3,10:14 PM,3:33,,,SUB: Mahinmi FOR Hibbert,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,352,8,0,3,10:14 PM,3:33,,,SUB: Johnson FOR Stephenson,,,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,353,1,79,3,10:14 PM,3:12,,,George 21' Pullup Jump Shot (18 PTS),63 - 59,-4,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,354,2,79,3,10:14 PM,3:03,MISS Calderon 18' Pullup Jump Shot,,,,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,355,4,0,3,10:15 PM,3:02,,,Mahinmi REBOUND (Off:2 Def:1),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,356,2,1,3,10:15 PM,2:49,,,MISS G. Hill 25' 3PT Jump Shot,,,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,357,4,0,3,10:15 PM,2:47,Marion REBOUND (Off:0 Def:4),,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,358,5,1,3,10:15 PM,2:34,Carter Bad Pass Turnover (P1.T18),,George STEAL (3 STL),,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,359,1,78,3,10:15 PM,2:28,,,George 5' Floating Jump Shot (20 PTS),65 - 59,-6,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,360,5,4,3,10:15 PM,2:18,Blair Traveling Turnover (P3.T19),,,,,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,361,8,0,3,10:15 PM,2:18,SUB: Mekel FOR Calderon,,,,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,362,8,0,3,10:16 PM,2:18,,,SUB: Watson FOR G. Hill,,,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,363,8,0,3,10:16 PM,2:18,SUB: Ellington FOR Ellis,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,364,6,29,3,10:16 PM,2:08,Carter Shooting Block Foul (P2.T4),,,,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,365,3,11,3,10:16 PM,2:08,,,George Free Throw 1 of 2 (21 PTS),66 - 59,-7,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,367,8,0,3,10:16 PM,2:08,SUB: Nowitzki FOR Marion,,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,368,3,12,3,10:17 PM,2:08,,,George Free Throw 2 of 2 (22 PTS),67 - 59,-8,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,370,1,42,3,10:17 PM,1:54,Carter 1' Driving Layup (8 PTS),,,67 - 61,-6,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,371,2,63,3,10:17 PM,1:39,,,MISS West 8' Fadeaway Jumper,,,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,372,4,0,3,10:17 PM,1:38,Blair REBOUND (Off:1 Def:1),,,,,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,373,2,1,3,10:17 PM,1:24,MISS Nowitzki 18' Jump Shot,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,374,4,0,3,10:17 PM,1:23,,,Watson REBOUND (Off:0 Def:2),,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,375,6,1,3,10:18 PM,1:19,Nowitzki P.FOUL (P2.PN),,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,5,2561,David West,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,376,3,11,3,10:18 PM,1:19,,,West Free Throw 1 of 2 (7 PTS),68 - 61,-7,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,378,3,12,3,10:18 PM,1:19,,,West Free Throw 2 of 2 (8 PTS),69 - 61,-8,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,381,6,4,3,10:19 PM,1:10,Carter OFF.Foul (P3),,,,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,382,5,5,3,10:19 PM,1:10,Carter Foul Turnover (P2.T20),,,,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,383,6,4,3,10:19 PM,1:05,,,Watson OFF.Foul (P1),,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,384,5,5,3,10:19 PM,1:05,,,Watson Foul Turnover (P1.T14),,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,385,6,1,3,10:20 PM,0:57,,,Watson P.FOUL (P2.PN),,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,386,3,11,3,10:20 PM,0:57,MISS Mekel Free Throw 1 of 2,,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,387,4,1,3,10:20 PM,0:57,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,388,3,12,3,10:20 PM,0:57,Mekel Free Throw 2 of 2 (2 PTS),,,69 - 62,-7,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,390,1,1,3,10:21 PM,0:47,,,Watson 21' Jump Shot (3 PTS) (George 4 AST),71 - 62,-9,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,391,2,1,3,10:21 PM,0:34,MISS Carter 24' 3PT Jump Shot,,,,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,392,4,0,3,10:21 PM,0:32,,,Johnson REBOUND (Off:0 Def:2),,,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,393,2,1,3,10:21 PM,0:12,,,MISS George 25' 3PT Jump Shot,,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,394,4,0,3,10:21 PM,0:10,Mekel REBOUND (Off:1 Def:1),,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,395,2,1,3,10:21 PM,0:03,MISS Ellington 24' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,396,4,0,3,10:21 PM,0:01,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,397,13,0,3,10:21 PM,0:00,,End of 3rd Period (10:21 PM EST),,71 - 62,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,399,12,0,4,10:24 PM,12:00,,Start of 4th Period (10:24 PM EST),,71 - 62,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,400,5,2,4,10:24 PM,11:43,Blair STEAL (1 STL),,George Lost Ball Turnover (P3.T15),,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,401,1,1,4,10:25 PM,11:36,Nowitzki 17' Jump Shot (13 PTS) (Ellington 2 AST),,,71 - 64,-7,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,402,1,5,4,10:25 PM,11:18,,,Scola 1' Layup (8 PTS) (George 5 AST),73 - 64,-9,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,403,6,1,4,10:25 PM,11:06,,,Scola P.FOUL (P2.T1),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,405,6,2,4,10:26 PM,10:55,,,Mahinmi S.FOUL (P3.T2),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,406,3,11,4,10:26 PM,10:55,Nowitzki Free Throw 1 of 2 (14 PTS),,,73 - 65,-8,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,408,3,12,4,10:26 PM,10:55,MISS Nowitzki Free Throw 2 of 2,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,410,4,0,4,10:26 PM,10:54,,,George REBOUND (Off:1 Def:3),,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,411,1,1,4,10:27 PM,10:33,,,George 15' Jump Shot (24 PTS),75 - 65,-10,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,412,6,2,4,10:27 PM,10:15,,,Mahinmi S.FOUL (P4.T3),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,414,3,11,4,10:27 PM,10:15,MISS Ellis Free Throw 1 of 2,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,415,4,1,4,10:27 PM,10:15,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,417,3,12,4,10:28 PM,10:15,Ellis Free Throw 2 of 2 (9 PTS),,,75 - 66,-9,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,420,1,77,4,10:28 PM,9:58,,,George 8' Driving Jump Shot (26 PTS),77 - 66,-11,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,421,2,79,4,10:28 PM,9:42,MISS Ellis 19' Pullup Jump Shot,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,422,4,0,4,10:28 PM,9:40,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,423,5,1,4,10:29 PM,9:40,Ellington Bad Pass Turnover (P2.T21),,Watson STEAL (1 STL),,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,424,2,41,4,10:29 PM,9:35,,,MISS Watson 2' Running Layup,,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,425,4,0,4,10:29 PM,9:33,,,Mahinmi REBOUND (Off:3 Def:1),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,426,2,80,4,10:29 PM,9:16,,,MISS George 15' Step Back Jump Shot,,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,427,4,0,4,10:29 PM,9:15,Mekel REBOUND (Off:1 Def:2),,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,428,2,66,4,10:29 PM,9:08,MISS Nowitzki 13' Jump Bank Shot,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,429,4,0,4,10:29 PM,9:05,,,Watson REBOUND (Off:0 Def:3),,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,430,1,1,4,10:29 PM,8:57,,,Johnson  3PT Jump Shot (3 PTS) (Watson 3 AST),80 - 66,-14,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,431,9,1,4,10:29 PM,8:57,MAVERICKS Timeout: Regular (Full 4 Short 2),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,433,8,0,4,10:32 PM,8:57,SUB: Marion FOR Nowitzki,,,,,4,1717,Dirk Nowitzki,1610612742.0,Dallas,Mavericks,DAL,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,434,8,0,4,10:32 PM,8:57,SUB: Dalembert FOR Ellis,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,435,8,0,4,10:32 PM,8:57,SUB: Carter FOR Blair,,,,,4,201971,DeJuan Blair,1610612742.0,Dallas,Mavericks,DAL,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,437,2,1,4,10:32 PM,8:37,MISS Ellington 26' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,438,4,0,4,10:32 PM,8:36,,,Mahinmi REBOUND (Off:3 Def:2),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,439,2,42,4,10:33 PM,8:22,,,MISS Mahinmi 3' Driving Layup,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,440,4,0,4,10:33 PM,8:21,,,George REBOUND (Off:2 Def:3),,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,441,1,72,4,10:33 PM,8:19,,,George 2' Putback Layup (28 PTS),82 - 66,-16,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,442,6,2,4,10:33 PM,8:08,,,Scola S.FOUL (P3.T4),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,443,3,11,4,10:33 PM,8:08,Mekel Free Throw 1 of 2 (3 PTS),,,82 - 67,-15,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,445,3,12,4,10:33 PM,8:08,Mekel Free Throw 2 of 2 (4 PTS),,,82 - 68,-14,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,447,2,82,4,10:34 PM,7:57,Dalembert BLOCK (3 BLK),,MISS Watson 7' Driving Bank Shot,,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,0
+0011300115,448,4,0,4,10:34 PM,7:56,,,Mahinmi REBOUND (Off:4 Def:2),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,449,2,1,4,10:34 PM,7:52,,,MISS Watson 22' Jump Shot,,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,450,4,0,4,10:34 PM,7:51,Marion REBOUND (Off:0 Def:5),,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,451,5,40,4,10:34 PM,7:42,Ellington Out of Bounds Lost Ball Turnover (P3.T22),,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011300115,452,8,0,4,10:34 PM,7:42,SUB: Calderon FOR Mekel,,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,453,8,0,4,10:34 PM,7:42,SUB: Ellis FOR Ellington,,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,454,6,1,4,10:35 PM,7:28,Calderon P.FOUL (P1.T1),,,,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,455,5,1,4,10:35 PM,7:22,Ellis STEAL (2 STL),,Watson Bad Pass Turnover (P2.T16),,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,456,2,42,4,10:35 PM,7:16,MISS Ellis 2' Driving Layup,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,457,4,0,4,10:35 PM,7:12,,,Scola REBOUND (Off:0 Def:4),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,458,1,1,4,10:35 PM,7:07,,,Watson  3PT Jump Shot (6 PTS) (Johnson 1 AST),85 - 68,-17,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,459,9,1,4,10:35 PM,7:02,MAVERICKS Timeout: Regular (Full 5 Short 2),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,462,2,1,4,10:38 PM,6:55,MISS Carter 11' Jump Shot,,,,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,463,4,0,4,10:38 PM,6:54,,,George REBOUND (Off:2 Def:4),,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,464,1,46,4,10:38 PM,6:36,,,Watson 13' Running Jump Shot (8 PTS) (George 6 AST),87 - 68,-19,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,465,5,1,4,10:38 PM,6:20,Ellis Bad Pass Turnover (P3.T23),,Johnson STEAL (1 STL),,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,466,2,1,4,10:39 PM,6:04,,,MISS Watson 24' 3PT Jump Shot,,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,467,4,0,4,10:39 PM,6:03,Marion REBOUND (Off:0 Def:6),,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,468,2,1,4,10:39 PM,5:53,MISS Ellis 25' 3PT Jump Shot,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,469,4,0,4,10:39 PM,5:52,,,Mahinmi REBOUND (Off:4 Def:3),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,470,1,1,4,10:39 PM,5:33,,,Mahinmi 22' Jump Shot (4 PTS) (Watson 4 AST),89 - 68,-21,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,471,9,1,4,10:39 PM,5:28,MAVERICKS Timeout: Regular (Full 6 Short 2),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,472,8,0,4,10:42 PM,5:28,SUB: James FOR Marion,,,,,4,1890,Shawn Marion,1610612742.0,Dallas,Mavericks,DAL,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,473,8,0,4,10:42 PM,5:28,SUB: Ledo FOR Dalembert,,,,,4,2223,Samuel Dalembert,1610612742.0,Dallas,Mavericks,DAL,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,474,8,0,4,10:42 PM,5:28,SUB: Crowder FOR Ellis,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,475,8,0,4,10:42 PM,5:28,SUB: Ellington FOR Calderon,,,,,4,101181,Jose Calderon,1610612742.0,Dallas,Mavericks,DAL,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,476,8,0,4,10:42 PM,5:28,SUB: Mekel FOR Carter,,,,,4,1713,Vince Carter,1610612742.0,Dallas,Mavericks,DAL,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,477,8,0,4,10:42 PM,5:28,,,SUB: S. Hill FOR George,,,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,478,1,1,4,10:42 PM,5:22,Crowder 24' 3PT Jump Shot (3 PTS) (Mekel 1 AST),,,89 - 71,-18,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,479,2,1,4,10:43 PM,4:57,,,MISS Watson 25' 3PT Jump Shot,,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,480,4,0,4,10:43 PM,4:56,Ellington REBOUND (Off:0 Def:2),,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,481,5,1,4,10:43 PM,4:46,Ledo Bad Pass Turnover (P1.T24),,Watson STEAL (2 STL),,,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,482,1,41,4,10:43 PM,4:43,,,Watson 1' Running Layup (10 PTS),91 - 71,-20,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,483,2,86,4,10:43 PM,4:22,MISS Ledo 10' Turnaround Fadeaway Shot,,,,,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,484,4,0,4,10:43 PM,4:20,,,Johnson REBOUND (Off:0 Def:3),,,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,485,2,1,4,10:44 PM,3:58,,,MISS Johnson 24' 3PT Jump Shot,,,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,486,4,0,4,10:44 PM,3:54,Crowder REBOUND (Off:1 Def:1),,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,487,2,46,4,10:44 PM,3:40,MISS Crowder 11' Running Jump Shot,,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,488,4,0,4,10:44 PM,3:38,,,Mahinmi REBOUND (Off:4 Def:4),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,489,9,2,4,10:44 PM,3:34,,,Pacers Timeout: Short (Reg.3 Short 1),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,491,8,0,4,10:45 PM,3:34,,,SUB: Armstrong FOR Johnson,,,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,5,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,492,8,0,4,10:45 PM,3:34,,,SUB: Copeland FOR Scola,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,493,8,0,4,10:45 PM,3:34,,,SUB: Sloan FOR Watson,,,5,201228,C.J. Watson,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,494,8,0,4,10:45 PM,3:34,,,SUB: Butler FOR Mahinmi,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,5,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011300115,495,2,44,4,10:45 PM,3:22,,,MISS S. Hill  Reverse Layup,,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,496,4,0,4,10:45 PM,3:21,James REBOUND (Off:0 Def:3),,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,497,6,2,4,10:46 PM,3:16,,,Copeland S.FOUL (P2.PN),,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,498,3,11,4,10:46 PM,3:16,Mekel Free Throw 1 of 2 (5 PTS),,,91 - 72,-19,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,500,3,12,4,10:46 PM,3:16,MISS Mekel Free Throw 2 of 2,,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,502,4,0,4,10:46 PM,3:15,,,Armstrong REBOUND (Off:0 Def:1),,,5,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,503,2,1,4,10:47 PM,2:56,,,MISS Copeland 25' 3PT Jump Shot,,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,504,4,0,4,10:47 PM,2:55,,,S. Hill REBOUND (Off:1 Def:0),,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,505,2,1,4,10:47 PM,2:42,James BLOCK (1 BLK),,MISS S. Hill 17' Jump Shot,,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0
+0011300115,506,4,0,4,10:47 PM,2:40,Ellington REBOUND (Off:0 Def:3),,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,508,7,2,4,10:47 PM,2:38,,,S. Hill Violation:Defensive Goaltending,,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011300115,507,1,42,4,10:47 PM,2:38,Ellington 1' Driving Layup (5 PTS),,,91 - 74,-17,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,509,2,77,4,10:47 PM,2:22,James BLOCK (2 BLK),,MISS Butler 5' Driving Jump Shot,,,5,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0
+0011300115,510,4,0,4,10:47 PM,2:20,,,Butler REBOUND (Off:1 Def:0),,,5,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,511,5,2,4,10:47 PM,2:18,Ellington STEAL (1 STL),,Butler Lost Ball Turnover (P1.T17),,,5,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011300115,512,2,1,4,10:47 PM,2:13,MISS Ellington 24' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,513,4,0,4,10:48 PM,2:12,,,Armstrong REBOUND (Off:0 Def:2),,,5,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,514,2,1,4,10:48 PM,1:53,,,MISS Butler  3PT Jump Shot,,,5,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,515,4,0,4,10:48 PM,1:52,James REBOUND (Off:0 Def:4),,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,516,1,1,4,10:48 PM,1:43,Crowder 22' Jump Shot (5 PTS),,,91 - 76,-15,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,517,2,1,4,10:48 PM,1:28,,,MISS Sloan 18' Jump Shot,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,519,4,0,4,10:48 PM,1:27,,,Armstrong REBOUND (Off:1 Def:2),,,5,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,518,2,4,4,10:48 PM,1:27,,,MISS Armstrong 2' Tip Shot,,,5,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,520,4,0,4,10:48 PM,1:25,,,Copeland REBOUND (Off:1 Def:0),,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,521,1,72,4,10:48 PM,1:25,,,Copeland 1' Putback Layup (3 PTS),93 - 76,-17,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,522,6,1,4,10:49 PM,1:20,,,Copeland P.FOUL (P3.PN),,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011300115,523,3,11,4,10:49 PM,1:20,MISS Mekel Free Throw 1 of 2,,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,524,4,1,4,10:49 PM,1:20,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,525,3,12,4,10:49 PM,1:20,Mekel Free Throw 2 of 2 (6 PTS),,,93 - 77,-16,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,527,6,2,4,10:49 PM,1:07,James S.FOUL (P1.T2),,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,528,3,11,4,10:50 PM,1:07,,,Sloan Free Throw 1 of 2 (1 PTS),94 - 77,-17,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,530,3,12,4,10:50 PM,1:07,,,Sloan Free Throw 2 of 2 (2 PTS),95 - 77,-18,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,532,2,66,4,10:50 PM,0:51,MISS Mekel 12' Jump Bank Shot,,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,533,4,0,4,10:50 PM,0:50,,,Copeland REBOUND (Off:1 Def:1),,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,534,2,1,4,10:51 PM,0:41,,,MISS S. Hill 26' 3PT Jump Shot,,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,535,4,0,4,10:51 PM,0:40,Ledo REBOUND (Off:0 Def:1),,,,,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,536,9,1,4,10:51 PM,0:38,MAVERICKS Timeout: Regular (Full 7 Short 2),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300115,537,6,25,4,10:51 PM,0:38,MAVERICKS Excess Timeout Technical,,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300115,538,5,42,4,10:51 PM,0:38,MAVERICKS Turnover:  (T#25),,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300115,542,3,16,4,10:52 PM,0:38,,,Sloan Free Throw Technical (3 PTS),96 - 77,-19,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,544,2,1,4,10:53 PM,0:24,,,MISS Butler 24' 3PT Jump Shot,,,5,2446,Rasual Butler,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,545,4,0,4,10:53 PM,0:23,,,S. Hill REBOUND (Off:2 Def:0),,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,546,6,28,4,10:53 PM,0:15,Mekel Personal Take Foul (P1.PN),,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011300115,547,3,11,4,10:53 PM,0:15,,,Copeland Free Throw 1 of 2 (4 PTS),97 - 77,-20,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,549,3,12,4,10:53 PM,0:15,,,Copeland Free Throw 2 of 2 (5 PTS),98 - 77,-21,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,551,2,79,4,10:54 PM,0:05,MISS Ledo 17' Pullup Jump Shot,,,,,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011300115,552,4,0,4,10:54 PM,0:04,,,Armstrong REBOUND (Off:1 Def:3),,,5,200756,Hilton Armstrong,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011300115,553,13,0,4,10:54 PM,0:00,,End of 4th Period (10:54 PM EST),,98 - 77,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
