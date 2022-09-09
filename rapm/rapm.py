@@ -86,16 +86,16 @@ def convert_to_matricies(possessions_df, name, players):
     # extract only the columns we need
 
     # Convert the columns of player ids into a numpy matrix
-    stints_x_base = possessions_df.as_matrix(columns=['offensePlayer1Id', 'offensePlayer2Id',
+    stints_x_base = possessions_df[['offensePlayer1Id', 'offensePlayer2Id',
                                                    'offensePlayer3Id', 'offensePlayer4Id', 'offensePlayer5Id',
                                                    'defensePlayer1Id', 'defensePlayer2Id', 'defensePlayer3Id',
-                                                   'defensePlayer4Id', 'defensePlayer5Id'])
+                                                   'defensePlayer4Id', 'defensePlayer5Id']].to_numpy()
 
     # Apply our mapping function to the numpy matrix
     stint_X_rows = np.apply_along_axis(map_players, 1, stints_x_base, players)
 
     # Convert the column of target values into a numpy matrix
-    stint_Y_rows = possessions_df.as_matrix([name])
+    stint_Y_rows = possessions_df[[name]].to_numpy()
 
     # extract the possessions as a pandas Series
     possessions_vector = possessions_df['possessions']
